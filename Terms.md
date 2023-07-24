@@ -12,9 +12,9 @@
 ## Q
 
 ## R
-## Rigid Body
+### Rigid Body
 
-## Rigid Body Motion
+### Rigid Body Motion
 
 ## S
 
