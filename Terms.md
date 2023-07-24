@@ -5,10 +5,12 @@
 ## B
 
 ### Body Frame
+Moving
 
 ## I
 
 ### Inertial Frame (Spatial Frame)
+Fixed
 
 ## O
 
