@@ -13,3 +13,4 @@
 ](https://www.youtube.com/watch?v=R63dU5w_djQ)
 5. [Sensor Fusion Algorithms For Autonomous Driving: Part 1 — The Kalman filter and Extended Kalman Filter](https://medium.com/@wilburdes/sensor-fusion-algorithms-for-autonomous-driving-part-1-the-kalman-filter-and-extended-kalman-a4eab8a833dd)
 6. [Kalman Filter For Self Driving Cars, Part 2](https://medium.com/@nikhilbadam56/kalman-filter-for-self-driving-cars-part-2-c069d815553e)
+7. [Kalman Filtering for Attitude Estimation with Quaternions and Concepts from Manifold Theory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6339217/pdf/sensors-19-00149.pdf)
