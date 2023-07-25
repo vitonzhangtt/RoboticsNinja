@@ -58,6 +58,9 @@ Fixed
 
 ## S
 
+### SO(3)
+Group of 3D Rotation Matrics
+
 ## T
 
 ## U
