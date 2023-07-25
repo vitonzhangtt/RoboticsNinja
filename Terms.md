@@ -47,6 +47,8 @@ Fixed
 
 ## Q
 
+### Quaternion Kalman Filter
+
 ## R
 ### Rigid Body
 
