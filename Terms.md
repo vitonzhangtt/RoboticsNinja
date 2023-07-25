@@ -19,9 +19,11 @@ Moving
 
 ### Gimbal lock
 
-## 
+###  
 
 ## H
+
+### Homogeneous Representation
 
 ## I
 
@@ -62,6 +64,8 @@ Fixed
 
 ### SO(3)
 Group of 3D Rotation Matrics
+
+### SE(3)
 
 ## T
 
