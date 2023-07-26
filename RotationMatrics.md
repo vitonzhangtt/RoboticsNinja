@@ -27,6 +27,10 @@ $`x \in \mathbb{R}^3, \|Rx\|=\|x\|`$
 
 ## Use cases
 
+### Frame
+Frame(contains fixed frame and body frame) is denoted by $`\{a\}`$. <br>
+Let $`\{a\}`$, $`\{b\}`$ and $`\{c\}`$ are three different frames.
+
 ### Represent an orientation
 
 ### Change reference frame
