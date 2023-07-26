@@ -2,6 +2,7 @@
 
 ## Definition
 
+
 ## SO(3) Group
 The set of $`3 × 3`$ **rotation matrices** forms the **special orthogonal group SO(3)**.
 
