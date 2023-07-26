@@ -5,7 +5,7 @@
 ## SO(3) Group
 
 ## Properties
-Let R be a rotation matrix, then the following properties hold:
+Let $`R`$ be a rotation matrix, then the following properties hold:
 
 ### Inverse
 $`R^{-1}=R^T \in SO(3)`$
@@ -18,6 +18,9 @@ $`(R_{1}R_{2})R_{3}=R_{1}(R_{2}R_{3})`$
 
 ### Not commutative
 $`R_{1}R_{2} \neq R_{2}R_{1}`$
+
+### Vector length preservation
+$`x \in \mathbb{R}^3, \|Rx\|=\|x\|`$
 
 
 
