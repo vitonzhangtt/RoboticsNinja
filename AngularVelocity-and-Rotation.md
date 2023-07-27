@@ -1,8 +1,8 @@
-# Angular Velocity
+# Angular Velocity and Rotation
 
-## Definition
+## Angular Velocity
 
-### Ref[2]
+### Math for Angular Velocity 
 The following snapshot at **9:22** in Ref[2]. <br>
 There are three axises: $`x, y`$ and $`z`$, $`z`$ axis points to the screen. <br>
 $`\vec{a}`$ is the axis of rotation in 3D and $`\vec{a}`$ is unit vector. <br>
