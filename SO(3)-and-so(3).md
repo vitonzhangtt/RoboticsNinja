@@ -1,6 +1,8 @@
 # SO(3) and so(3)
 
-## Definition
+The set of skew-symmetric matrices **so(3)** is called the Lie algebra of the Lie group **SO(3)**.
+
+## SO(3) Definition
 
 The following definition is from '1:23:10' in Ref[1]. <br>
 $`SO(3)=\{R \in GL_{n}(\mathbb{R}): RR^T = I \text{ and } det(R)=1\}`$
