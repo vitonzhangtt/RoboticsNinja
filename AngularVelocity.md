@@ -12,6 +12,8 @@ $`\dot{\theta}`$ is the change in angle. <br>
 $`\vec{v}`$ is the **angular velocity** and a vector which is $`3 \times 1`$. Let $`\vec{v}=\alpha\vec{d}`$, $`\alpha`$ is the magnitude <br>
 and $`\vec{d}`$ is the direction. 
 
+$`{\Huge {\vec{d} = \frac{\vec{a} \times \vec{x}}{\left| \vec{x} \right|}}}`$
+
 
 <img width="800" alt="Screen Shot 2023-07-27 at 11 15 11" src="https://github.com/vitonzhangtt/RoboticsNotes/assets/28706904/df8bd09d-50c8-4e52-9552-fda189f0a9f4">
 
