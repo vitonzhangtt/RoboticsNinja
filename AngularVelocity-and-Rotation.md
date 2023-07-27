@@ -9,12 +9,12 @@ $`\vec{a}`$ is the axis of rotation in 3D and $`\vec{a}`$ is unit vector. <br>
 $`\vec{x}`$ is the vector which rotates about rotation axis $`\vec{a}`$. <br>
 $`\dot{\theta}`$ is the change in angle. <br>
 
-$`\vec{v}`$ is the **angular velocity** and a vector which is $`3 \times 1`$. 
+$`\vec{v}`$ is a **velocity vector** and a vector which is $`3 \times 1`$. 
 <br> Let $`\vec{v}=\alpha\vec{d}`$, $`\alpha`$ is the magnitude and $`\vec{d}`$ is the direction. 
 
 <img width="800" alt="Definition of Angular Velocity" src="https://github.com/vitonzhangtt/RoboticsNotes/assets/28706904/df8bd09d-50c8-4e52-9552-fda189f0a9f4">
 
-#### Direction of Angular Velocity
+#### Direction of Velocity vector
 $`{\Huge {\vec{d} = \frac{\vec{a} \times \vec{x}}{\left| \vec{x} \right|}}}`$
 
 #### Magnitude
@@ -42,8 +42,10 @@ $`
 #### Expression of Angular Velocity
 
 $`
-\Huge \vec{v} = {\left| \vec{x} \right|} \dot{\theta} \frac{\vec{a} \times \vec{x}}{\left| \vec{x} \right|} = (\dot{\theta}\vec{a}) \times \vec{x}  \text{         ----> \color{red} Cross Product }
+\Huge \vec{v} = {\left| \vec{x} \right|} \dot{\theta} \frac{\vec{a} \times \vec{x}}{\left| \vec{x} \right|} = (\dot{\theta}\vec{a}) \times \vec{x}  \text{                \color{red} Cross Product }
 `$
+
+We call $`\dot{\theta}\vec{a}`$ as **Angular Velocity** and denoted by $`\vec{\omega}`$.
 
 ### Limits
 #### Limit of $`\sin{(x)}/x`$ when x approaches 0 <sup>Ref[4], Ref[5]<sup>
