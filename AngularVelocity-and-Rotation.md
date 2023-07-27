@@ -45,7 +45,11 @@ $`
 \Huge \vec{v} = {\left| \vec{x} \right|} \dot{\theta} \frac{\vec{a} \times \vec{x}}{\left| \vec{x} \right|} = (\dot{\theta}\vec{a}) \times \vec{x}  \text{                \color{red} Cross Product }
 `$
 
-We call $`\dot{\theta}\vec{a}`$ as **Angular Velocity** and denoted by $`\vec{\omega}`$.
+We call $`\dot{\theta}\vec{a}`$ as **Angular Velocity** and denoted by $`\vec{\omega}`$. So we have <br>
+
+$`
+\Huge \vec{v} = \vec{\omega} \times \vec{x}
+`$
 
 ### Limits
 #### Limit of $`\sin{(x)}/x`$ when x approaches 0 <sup>Ref[4], Ref[5]<sup>
