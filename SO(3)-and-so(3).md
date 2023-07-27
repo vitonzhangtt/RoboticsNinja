@@ -1,4 +1,4 @@
-# SO(3)
+# SO(3) and so(3)
 
 ## Definition
 
