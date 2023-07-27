@@ -14,7 +14,7 @@ $`\vec{v}`$ is the **angular velocity** and a vector which is $`3 \times 1`$.
 
 <img width="800" alt="Definition of Angular Velocity" src="https://github.com/vitonzhangtt/RoboticsNotes/assets/28706904/df8bd09d-50c8-4e52-9552-fda189f0a9f4">
 
-#### Direction of Angular Velocit
+#### Direction of Angular Velocity
 $`{\Huge {\vec{d} = \frac{\vec{a} \times \vec{x}}{\left| \vec{x} \right|}}}`$
 
 #### Magnitude
@@ -39,10 +39,16 @@ $`
 
 <img width="800" alt="Magnitude of Angular Velocity" src="https://github.com/vitonzhangtt/RoboticsNotes/assets/28706904/e76bab4f-5cee-4959-8106-2d608ed6f6d5">
 
+#### Expression of Angular Velocity
+
+$`
+\Huge \vec{v} = {\left| \vec{x} \right|} \dot{\theta} \frac{\vec{a} \times \vec{x}}{\left| \vec{x} \right|} = (\dot{\theta}\vec{a}) \times \vec{x}  \text{         ----> \color{red} Cross Product }
+`$
 
 ### Limits
 #### Limit of $`\sin{(x)}/x`$ when x approaches 0 <sup>Ref[4], Ref[5]<sup>
 According the Ref[4] and Ref[5], we got the following: <br>
+
 $`
 \lim\limits_{x \to 0} \frac{\sin{(x)}}{x} = 1
 `$
