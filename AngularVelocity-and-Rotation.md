@@ -31,7 +31,11 @@ $`
 `$
 
 ##### Step 3: Apply the limit when $`\Delta{t}`$ approaches 0
+According the [limits](#limits), the result be when $`\Delta{t}`$ approaches $`0`$. (because $`\Delta{t}`$ is **very very tiny**). <br>
 
+$`
+\alpha\Delta{t} \approx {\left| \vec{x} \right|} \dot{\theta} \Delta{t} \implies \alpha \approx {\left| \vec{x} \right|} \dot{\theta}
+`$
 
 ### Limits
 #### Limit of $`\sin{(x)}/x`$ when x approaches 0 <sup>Ref[4], Ref[5]<sup>
