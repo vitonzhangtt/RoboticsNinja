@@ -65,6 +65,7 @@ $`\lim\limits_{x \to 0} \frac{1}{\cos{(x)}} = 1`$
 ## Euler angles 
 
 
+## Examples in Real Life <sup>Ref[6]</sup>
 
 
 
@@ -76,3 +77,4 @@ $`\lim\limits_{x \to 0} \frac{1}{\cos{(x)}} = 1`$
 3. [wiki: Angular velocity](https://en.wikipedia.org/wiki/Angular_velocity)
 4. [A Beautiful Proof: Why the Limit of sin(x)/x as x Approaches 0 is 1?](https://medium.com/however-mathematics/a-beautiful-proof-why-the-limit-of-sin-x-x-as-x-approaches-0-is-1-c9709e72fda)
 5. [Limit of sin(x)/x as x approaches 0](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-8/v/sinx-over-x-as-x-approaches-0)
+6. [Angular velocity](https://byjus.com/physics/angular-velocity/)
