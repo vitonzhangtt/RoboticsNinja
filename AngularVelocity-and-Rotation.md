@@ -12,12 +12,12 @@ $`\dot{\theta}`$ is the change in angle. <br>
 $`\vec{v}`$ is the **angular velocity** and a vector which is $`3 \times 1`$. 
 <br> Let $`\vec{v}=\alpha\vec{d}`$, $`\alpha`$ is the magnitude and $`\vec{d}`$ is the direction. 
 
-<img width="800" alt="Screen Shot 2023-07-27 at 11 15 11" src="https://github.com/vitonzhangtt/RoboticsNotes/assets/28706904/df8bd09d-50c8-4e52-9552-fda189f0a9f4">
+<img width="800" alt="Definition of Angular Velocity" src="https://github.com/vitonzhangtt/RoboticsNotes/assets/28706904/df8bd09d-50c8-4e52-9552-fda189f0a9f4">
 
 #### Direction of Angular Velocit
 $`{\Huge {\vec{d} = \frac{\vec{a} \times \vec{x}}{\left| \vec{x} \right|}}}`$
 
-#### magnitude
+#### Magnitude
 With a tiny change $`\Delta{t}`$ in time $`t`$, the new position of $`x`$ denoted by $`x_{1}`$. <br>
 The $`\vec{x_{1}}`$ represent the position $`x_{1}`$ in the coordinate system, then <br>
 
@@ -36,6 +36,9 @@ According the [limits](#limits), the result be when $`\Delta{t}`$ approaches $`0
 $`
 \alpha\Delta{t} \approx {\left| \vec{x} \right|} \dot{\theta} \Delta{t} \implies \alpha \approx {\left| \vec{x} \right|} \dot{\theta}
 `$
+
+<img width="800" alt="Magnitude of Angular Velocity" src="https://github.com/vitonzhangtt/RoboticsNotes/assets/28706904/e76bab4f-5cee-4959-8106-2d608ed6f6d5">
+
 
 ### Limits
 #### Limit of $`\sin{(x)}/x`$ when x approaches 0 <sup>Ref[4], Ref[5]<sup>
