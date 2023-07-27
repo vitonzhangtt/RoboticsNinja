@@ -17,6 +17,8 @@ $`R`$ that satisfy (i) $`R^TR=I`$ and (ii) $`det(R)=1`$. <sup>Ref[2]</sup>
 
 $`RR^{-1}=I \text{ and } RR^T = I \implies R^{-1} = R^T`$
 
+### Property B: $`\text{If }R \in SO(3)\text{, then }R^{-1} \in SO(3)`$
+
 ## Lie algebra $`\mathfrak{so(3)}`$
 
 
