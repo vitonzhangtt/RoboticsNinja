@@ -3,16 +3,17 @@ The function is $`y=f(x)`$.
 
 ## Lagrange's notation <sup>Ref[2]</sup>
 $`f'(x)`$, $`f^{(-1)}(x)`$ : First Derivatives <br>
-$`f^{(-2)}(x)`$ : Second Derivatives
+$`f''(x)`$, $`f^{(-2)}(x)`$ : Second Derivatives
 
 Note: $`f^{-1}(x)`$ is **inverse function**.
 
-## Leibniz's notation
+## Leibniz's notation <sup>Ref[2]</sup>
 $`\frac{dy}{dx}`$, $`\frac{d}{dx}f(x)`$ : First Derivatives
 
-## Newton's notation
+## Newton's notation <sup>Ref[1], Ref[2]</sup>
 
-$`\dot{y}`$: First Derivatives
+$`\dot{y}`$: First Derivatives <br>
+$`\ddot{y}`$: Second Derivatives
 
 ## Meanings of first and second <sup>Ref[3]<sup>
 
