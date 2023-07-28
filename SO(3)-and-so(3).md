@@ -25,7 +25,7 @@ $`RR^{-1}=I \text{ and } RR^T = I \implies R^{-1} = R^T`$
 The Lie algebra $`\mathfrak{so(n, R)}`$ consisting of **real skew symmetric $`n \times n`$ matrices** is <br>
 the corresponding set of **infinitesimal** rotations.
 
-$`\mathfrak{so(3)}`$ is a special instance of $`\mathfrak{so(n, R)}`$ for $`n=3`.
+$`\mathfrak{so(3)}`$ is a special instance of $`\mathfrak{so(n}, \mathbb{R})`$ for $`n=3`.
 
 ## How are $`SO(3)`$ and $`\mathfrak{so(3)}`$ related? <sup>Ref[4]</sup>
 
