@@ -31,6 +31,7 @@ $`\mathfrak{so(3)}`$ is a special instance of $`\mathfrak{so}(n, \mathbb{R})`$ f
 For skew symmetric matrics, refer to [skew-symmetric-matrix](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/Concepts.md#skew-symmetric-matrix).
 
 ## How are $`SO(3)`$ and $`\mathfrak{so(3)}`$ related? <sup>Ref[4]</sup>
+**Theorem**： If $`A \in \mathfrak{so(3)}`$, then $`e^A \in SO(3)`.
 
 
 ## Lie group and Lie algebra in Latex <sup>Ref[3]</sup>
