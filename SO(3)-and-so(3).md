@@ -1,4 +1,4 @@
-# SO(3) and so(3)
+# $`SO(3)`$ and $`\mathfrak{so(3)}`$
 
 The set of skew-symmetric matrices $`\mathfrak{so(3)}`$ is called the Lie algebra of the Lie group **SO(3)**.
 
