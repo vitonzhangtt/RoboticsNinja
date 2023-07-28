@@ -1,6 +1,6 @@
 # SO(3) and so(3)
 
-The set of skew-symmetric matrices **so(3)** is called the Lie algebra of the Lie group **SO(3)**.
+The set of skew-symmetric matrices $`\mathfrak{so(3)}`$ is called the Lie algebra of the Lie group **SO(3)**.
 
 ## Lie group $`SO(3)`$
 
@@ -20,6 +20,10 @@ $`RR^{-1}=I \text{ and } RR^T = I \implies R^{-1} = R^T`$
 ### Property B: $`\text{If }R \in SO(3)\text{, then }R^{-1} \in SO(3)`$
 
 ## Lie algebra $`\mathfrak{so(3)}`$
+
+### $`\mathfrak{so(3)}`$ Definition
+
+## How are $`SO(3)`$ and $`\mathfrak{so(3)}`$ related? <sup>Ref[4]</sup>
 
 
 ## Lie group and Lie algebra in Latex <sup>Ref[3]</sup>
