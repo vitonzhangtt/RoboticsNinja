@@ -28,9 +28,11 @@ the corresponding set of **infinitesimal** rotations.
 
 $`\mathfrak{so(3)}`$ is a special instance of $`\mathfrak{so}(n, \mathbb{R})`$ for $`n=3`.
 
-#### skew symmetric matrics
+#### Skew symmetric matrics
 
 For skew symmetric matrics, refer to [skew-symmetric-matrix](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/Concepts.md#skew-symmetric-matrix).
+
+If $`A`$ is a $`n \times n`$ matrix, and $`A = -A^T`$, then $`A`$ is a skew symmetric matrix.
 
 ## How are $`SO(3)`$ and $`\mathfrak{so(3)}`$ related? <sup>Ref[4]</sup>
 
