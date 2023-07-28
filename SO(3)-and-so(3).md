@@ -22,10 +22,13 @@ $`RR^{-1}=I \text{ and } RR^T = I \implies R^{-1} = R^T`$
 ## Lie algebra $`\mathfrak{so(3)}`$
 
 ### $`\mathfrak{so(3)}`$ Definition <sup>Ref[5]</sup>
-The Lie algebra $`\mathfrak{so(n, R)}`$ consisting of **real skew symmetric $`n \times n`$ matrices** is <br>
+The Lie algebra $`\mathfrak{so}(n, \mathbb{R})`$ consisting of **real skew symmetric $`n \times n`$ matrices** is <br>
 the corresponding set of **infinitesimal** rotations.
 
-$`\mathfrak{so(3)}`$ is a special instance of $`\mathfrak{so(n}, \mathbb{R})`$ for $`n=3`.
+$`\mathfrak{so(3)}`$ is a special instance of $`\mathfrak{so}(n, \mathbb{R})`$ for $`n=3`.
+
+#### skew symmetric matrics
+For skew symmetric matrics, refer to [skew-symmetric-matrix](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/Concepts.md#skew-symmetric-matrix).
 
 ## How are $`SO(3)`$ and $`\mathfrak{so(3)}`$ related? <sup>Ref[4]</sup>
 
