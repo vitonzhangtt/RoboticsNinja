@@ -36,7 +36,16 @@ If $`A`$ is a $`n \times n`$ matrix, and $`A = -A^T`$, then $`A`$ is a skew symm
 
 ## How are $`SO(3)`$ and $`\mathfrak{so(3)}`$ related? <sup>Ref[4]</sup>
 
-**Theorem**： If $`A \in \mathfrak{so(3)}`$, then $`e^A \in SO(3)`$.
+### **Theorem**： If $`A \in \mathfrak{so(3)}`$, then $`e^A \in SO(3)`$.
+
+#### Proof
+**Step 1**: <br>
+
+If $`A \in \mathfrak{so(3)}`$, then $`A`$ is a skew symmetric matrix. <br>
+As a skew symmetric matrix, then $`-A = A^T`$ is hold. Because A is real matrix, <br>
+$`A^T = A^H`$($`A^H`$ is [Conjugate transpose](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/Concepts.md#conjugate-transpose-matrix)). So the following is hold: 
+$`-A = A^T = A^H`$ 
+
 
 
 ## Lie group and Lie algebra in Latex <sup>Ref[3]</sup>
