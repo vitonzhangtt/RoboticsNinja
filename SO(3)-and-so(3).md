@@ -46,6 +46,11 @@ As a skew symmetric matrix, then $`-A = A^T`$ is hold. Because A is real matrix,
 $`A^T = A^H`$($`A^H`$ is [Conjugate transpose](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/Concepts.md#conjugate-transpose-matrix)). So the following is hold: 
 $`-A = A^T = A^H`$ 
 
+$`e^A{(e^A)}^T
+=e^A(e^{A^T})`$
+
+$`e^A(e^{A^T})=e^Ae^{-A}`$ <br>
+
 
 
 ## Lie group and Lie algebra in Latex <sup>Ref[3]</sup>
