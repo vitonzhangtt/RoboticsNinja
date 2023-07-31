@@ -1,6 +1,6 @@
 # Angular Velocity and Rotation
 
-## Angular Velocity
+## Angular Velocity <sup>Ref[2]</sup>
 
 ### Math for Angular Velocity 
 The following snapshot at **9:22** in Ref[2]. <br>
