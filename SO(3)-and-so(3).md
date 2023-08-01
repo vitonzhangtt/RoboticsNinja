@@ -42,9 +42,9 @@ If $`A`$ is a $`n \times n`$ matrix, and $`A = -A^T`$, then $`A`$ is a skew symm
 Step 1: <br>
 
 If $`A \in \mathfrak{so(3)}`$, then $`A`$ is a skew symmetric matrix. <br>
-As a skew symmetric matrix, then $`-A = A^T`$ is hold. Because A is real matrix, <br>
-$`A^T = A^H`$($`A^H`$ is [Conjugate transpose](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/Concepts.md#conjugate-transpose-matrix)). So the following is hold: 
-$`-A = A^T = A^H`$  
+As a skew symmetric matrix, then $`-A = A^T`$ is hold. <br>
+Because A is real matrix, $`A^T = A^H`$($`A^H`$ is [Conjugate transpose](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/Concepts.md#conjugate-transpose-matrix)). <br>
+So the following is hold: $`-A = A^T = A^H`$
 
 Step 2: <br>
 
