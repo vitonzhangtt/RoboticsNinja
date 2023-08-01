@@ -11,7 +11,7 @@ Angular Velocity is denoted by $`\omega`$.
 The unit for period is seconds.
 
 **Frequency** is the number of cycles that occurs per second, and is denoted yb $`f`$. <br> 
-The unit for frequency is Hertz ($`\hertz`$).
+The unit for frequency is Hertz ($`Hz`$).
 
 The relation of Period and Frequency is $`T=\frac{1}{f}`$.
 
