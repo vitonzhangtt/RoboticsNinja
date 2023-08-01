@@ -38,19 +38,27 @@ If $`A`$ is a $`n \times n`$ matrix, and $`A = -A^T`$, then $`A`$ is a skew symm
 
 ### **Theorem**： If $`A \in \mathfrak{so(3)}`$, then $`e^A \in SO(3)`$.
 
-#### Proof
-**Step 1**: <br>
+#### Proof: Orthogonal matrix
+Step 1: <br>
 
 If $`A \in \mathfrak{so(3)}`$, then $`A`$ is a skew symmetric matrix. <br>
 As a skew symmetric matrix, then $`-A = A^T`$ is hold. Because A is real matrix, <br>
 $`A^T = A^H`$($`A^H`$ is [Conjugate transpose](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/Concepts.md#conjugate-transpose-matrix)). So the following is hold: 
-$`-A = A^T = A^H`$ 
+$`-A = A^T = A^H`$  
 
-$`e^A{(e^A)}^T
-=e^A(e^{A^T})`$
+Step 2: <br>
 
-$`e^A(e^{A^T})=e^Ae^{-A}`$ <br>
+$`e^A{(e^A)}^T=e^A(e^{A^T})`$   // According to [Theorem 2](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#theorem-2ref1-eateat-text-for-any--n-times-n-text-matrix--a). $`(e^A)^T = e^{A^T}`$<br>
+$`e^A(e^{A^T})=e^Ae^{-A}`$  // From step 1, $`-A = A^T`$ <br>
+$`e^Ae^{-A}=e^{A+(-A)}=e^{0_{n \times n}}=I_{n \times n}`$ // According to [Theorem 1](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#theorem-1-ref1) Because $`A(-A)=(-A)A`$. <br>
+So $`e^A{(e^A)}^T=e^A(e^{A^T})=e^A(e^{A^T})=e^Ae^{-A}`$
 
+From step 1 and step 2, $`e^A`$ is an orthogonal matrix.
+
+#### Proof: $`det(e^A)`$ = 1
+
+
+#### Proof: $`e^A`$ is real matrix
 
 
 ## Lie group and Lie algebra in Latex <sup>Ref[3]</sup>
