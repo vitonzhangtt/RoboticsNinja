@@ -48,12 +48,13 @@ So the following is hold: $`-A = A^T = A^H`$
 
 Step 2: <br>
 
-$`e^A{(e^A)}^T=e^A(e^{A^T})`$   // According to [Theorem 2](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#theorem-2ref1-eateat-text-for-any--n-times-n-text-matrix--a). $`(e^A)^T = e^{A^T}`$<br>
-$`e^A(e^{A^T})=e^Ae^{-A}`$  // From step 1, $`-A = A^T`$ <br>
-$`e^Ae^{-A}=e^{A+(-A)}=e^{0_{n \times n}}=I_{n \times n}`$ // According to [Theorem 1](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#theorem-1-ref1) Because $`A(-A)=(-A)A`$. <br>
-So $`e^A{(e^A)}^T=e^A(e^{A^T})=e^A(e^{A^T})=e^Ae^{-A}`$
+| Derivation steps | Explanation |
+| --- | --- |
+| $`e^A{(e^A)}^T=e^A(e^{A^T})`$ |  According to [Theorem 2](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#theorem-2ref1-eateat-text-for-any--n-times-n-text-matrix--a). $`(e^A)^T = e^{A^T}` |
+| $`e^A(e^{A^T})=e^Ae^{-A}`$  | From step 1, $`-A = A^T`$ |
+| $`e^Ae^{-A}=e^{A+(-A)}=e^{0_{n \times n}}=I_{n \times n}`$ | According to [Theorem 1](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#theorem-1-ref1) Because $`A(-A)=(-A)A`$. |
 
-From step 1 and step 2, $`e^A`$ is an orthogonal matrix.
+So $`e^A{(e^A)}^T=e^A(e^{A^T})=e^A(e^{A^T})=e^Ae^{-A}`$, then $`e^A`$ is an orthogonal matrix.
 
 #### Proof: $`det(e^A)`$ = 1
 
