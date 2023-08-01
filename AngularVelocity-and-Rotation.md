@@ -2,6 +2,19 @@
 
 ## Angular Velocity <sup>Ref[2]</sup>
 
+### Physics for Angular Velocity
+Angular Velocity is denoted by $`\omega`$. 
+
+#### Period and Frequency
+
+**Period** is time that it takes to make one complete cycle, and is denoted by $`T`$. <br>
+The unit for period is seconds.
+
+**Frequency** is the number of cycles that occurs per second, and is denoted yb $`f`$. <br> 
+The unit for frequency is Hertz ($`\hertz`$).
+
+The relation of Period and Frequency is $`T=\frac{1}{f}`$.
+
 ### Math for Angular Velocity 
 The following snapshot at **9:22** in Ref[2]. <br>
 There are three axises: $`x, y`$ and $`z`$, $`z`$ axis points to the screen. <br>
@@ -78,3 +91,4 @@ $`\lim\limits_{x \to 0} \frac{1}{\cos{(x)}} = 1`$
 4. [A Beautiful Proof: Why the Limit of sin(x)/x as x Approaches 0 is 1?](https://medium.com/however-mathematics/a-beautiful-proof-why-the-limit-of-sin-x-x-as-x-approaches-0-is-1-c9709e72fda)
 5. [Limit of sin(x)/x as x approaches 0](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-8/v/sinx-over-x-as-x-approaches-0)
 6. [Angular velocity](https://byjus.com/physics/angular-velocity/)
+7. [Rotational Motion Physics, Basic Introduction, Angular Velocity & Tangential Acceleration](https://www.youtube.com/watch?v=WQ9AH2S8B6Y)
