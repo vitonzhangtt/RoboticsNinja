@@ -61,6 +61,8 @@ For [If $`A`$ is Skew-symmetric, then $`tr(A) = 0`$. ](https://github.com/vitonz
 
 #### Proof: $`e^A`$ is real matrix
 
+## Rotation axis and angle
+Refer to [Eigenvalue and eigenvector](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#eigenvalue-and-eigenvector-ref14).
 
 ## Lie group and Lie algebra in Latex <sup>Ref[3]</sup>
 By convention a Lie group is denoted by an ordinary Latin letter and its <br>
