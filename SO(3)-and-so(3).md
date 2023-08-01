@@ -57,7 +57,7 @@ Step 2: <br>
 So $`e^A{(e^A)}^T=e^A(e^{A^T})=e^A(e^{A^T})=e^Ae^{-A}`$, then $`e^A`$ is an orthogonal matrix.
 
 #### Proof: $`det(e^A)`$ = 1
-For [If $`A`$ is Skew-symmetric, then $`tr(A) = 0`$. ](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/Concepts.md#property-b-if-a-is-skew-symmetric-then-tra--0), then $`det(e^A)=e^{tr(A)}=e^0=1`$ [According to](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#the-determinant-of-the-matrix-exponential-ref5).
+For [If $`A`$ is Skew-symmetric, then $`tr(A) = 0`$. ](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/Concepts.md#property-b-if-a-is-skew-symmetric-then-tra--0), then $`det(e^A)=e^{tr(A)}=e^0=1`$ [According to this](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#the-determinant-of-the-matrix-exponential-ref5).
 
 #### Proof: $`e^A`$ is real matrix
 
