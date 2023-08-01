@@ -15,6 +15,8 @@ The unit for frequency is Hertz ($`Hz`$).
 
 The relation of Period and Frequency is $`T=\frac{1}{f}`$.
 
+$`\omega = 2{\pi}f = \frac{2\pi}{T}`$
+
 ### Math for Angular Velocity 
 The following snapshot at **9:22** in Ref[2]. <br>
 There are three axises: $`x, y`$ and $`z`$, $`z`$ axis points to the screen. <br>
