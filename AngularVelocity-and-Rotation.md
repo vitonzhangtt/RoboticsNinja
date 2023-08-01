@@ -2,7 +2,7 @@
 
 ## Angular Velocity <sup>Ref[2]</sup>
 
-### Physics for Angular Velocity
+### Physics for Angular Velocity <sup>Ref[7]</sup>
 Angular Velocity is denoted by $`\omega`$. 
 
 #### Period and Frequency
