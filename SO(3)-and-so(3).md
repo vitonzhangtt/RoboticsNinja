@@ -50,7 +50,7 @@ Step 2: <br>
 
 | Derivation steps | Explanation |
 | --- | --- |
-| $`e^A{(e^A)}^T=e^A(e^{A^T})`$ |  According to [Theorem 2](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#theorem-2ref1-eateat-text-for-any--n-times-n-text-matrix--a). $`(e^A)^T = e^{A^T}` |
+| $`e^A{(e^A)}^T=e^A(e^{A^T})`$ |  According to [Theorem 2](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#theorem-2ref1-eateat-text-for-any--n-times-n-text-matrix--a). $`(e^A)^T = e^{A^T}`$ |
 | $`e^A(e^{A^T})=e^Ae^{-A}`$  | From step 1, $`-A = A^T`$ |
 | $`e^Ae^{-A}=e^{A+(-A)}=e^{0_{n \times n}}=I_{n \times n}`$ | According to [Theorem 1](https://github.com/vitonzhangtt/LinearAlgebraNinja/blob/main/MatrixExponentials.md#theorem-1-ref1) Because $`A(-A)=(-A)A`$. |
 
