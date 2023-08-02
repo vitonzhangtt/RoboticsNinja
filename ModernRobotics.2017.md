@@ -42,6 +42,7 @@ The [Scalar triple product](https://github.com/vitonzhangtt/LinearAlgebraNinja/b
 
 $`{{r_{1}}^T}(\omega \times r_{1}) = {\omega}(r_{1} \times {r_{1}}^T) = 0`$ <br>
 $`{r_{1}}^T(\omega \times r_{2}) = {\omega}(r_{2} \times {r_{1}}^T) = -{\omega}{r_{3}^T} `$ <br>
+$`{{r_{1}}^T}{(\omega \times r_{3})} = {\omega}(r_{3} \times {r_{1}}^T) = {\omega}{r_{2}^T}`$
 
 
 ## Reference
