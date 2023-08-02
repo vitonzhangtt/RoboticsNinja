@@ -28,6 +28,11 @@ If an object is moving with constant speed around a circle, the only  <br>
 acceleration it has is the **centripetal acceleration** also known as the <br>
 **radial acceleration**.
 
+### Tangential Acceleration
+
+$`A_{tan} = {\alpha}R`$  $`{\alpha}`$ is Angular Acceleration.
+Tangential acceleration and Centripetal acceleration are 
+prependicular to each other.
 
 ### Math for Angular Velocity 
 The following snapshot at **9:22** in Ref[2]. <br>
@@ -106,3 +111,4 @@ $`\lim\limits_{x \to 0} \frac{1}{\cos{(x)}} = 1`$
 5. [Limit of sin(x)/x as x approaches 0](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-8/v/sinx-over-x-as-x-approaches-0)
 6. [Angular velocity](https://byjus.com/physics/angular-velocity/)
 7. [Rotational Motion Physics, Basic Introduction, Angular Velocity & Tangential Acceleration](https://www.youtube.com/watch?v=WQ9AH2S8B6Y)
+8. [Centripetal and Centrifugal Force](https://byjus.com/physics/centripetal-and-centrifugal-force/)
