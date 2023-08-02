@@ -36,4 +36,7 @@ After 1 and 2, $`R[\omega]R^T = R({\omega \times {R^T}})
     \end{bmatrix}
 `$
 
+## Reference
+1. Book: [Modern.Robotics-Mechanics.Planning.and.Control.2017.pdf](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300)
+
 
