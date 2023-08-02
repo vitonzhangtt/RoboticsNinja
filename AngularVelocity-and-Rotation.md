@@ -17,6 +17,18 @@ The relation of Period and Frequency is $`T=\frac{1}{f}`$.
 
 $`\omega = 2{\pi}f = \frac{2\pi}{T}`$
 
+### Centripetal Acceleration
+Centripetal acceleration (denoted by $`A_{c}`$) points towards the center of cicle.
+
+$`A_{c} = \frac{V^2}{R}`$ <br>
+$`V = {\omega}R`$ <br>
+$`A_{c} = \frac{V^2}{R}=\frac{({\omega}R)^2}{R}={\omega}^2{R}`$
+
+If an object is moving with constant speed around a circle, the only  <br>
+acceleration it has is the **centripetal acceleration** also known as the <br>
+**radial acceleration**.
+
+
 ### Math for Angular Velocity 
 The following snapshot at **9:22** in Ref[2]. <br>
 There are three axises: $`x, y`$ and $`z`$, $`z`$ axis points to the screen. <br>
