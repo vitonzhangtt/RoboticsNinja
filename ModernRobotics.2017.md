@@ -44,6 +44,7 @@ $`{{r_{1}}^T}(\omega \times r_{1}) = {\omega}(r_{1} \times {r_{1}}^T) = 0`$ <br>
 $`{r_{1}}^T(\omega \times r_{2}) = {\omega}(r_{2} \times {r_{1}}^T) = -{\omega}{r_{3}^T} `$ <br>
 $`{{r_{1}}^T}{(\omega \times r_{3})} = {\omega}(r_{3} \times {r_{1}}^T) = {\omega}{r_{2}^T}`$
 
+**Question:** What's the cross product of vector and its transpose?  
 
 ## Reference
 1. Book: [Modern.Robotics-Mechanics.Planning.and.Control.2017.pdf](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300)
