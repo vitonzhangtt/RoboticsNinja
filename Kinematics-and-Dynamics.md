@@ -1,6 +1,8 @@
 # Kinematics and Dynamics
 
 
+## Forward Kinematics
+
 
 
 ## Reference
@@ -13,4 +15,5 @@
 7. [Rigid Body Dynamics - CSE169: Computer Animation](https://cseweb.ucsd.edu/classes/sp16/cse169-a/slides/CSE169_16.pdf)
 8. [Translational and Rotational Dynamics - Robotics and Intelligent Systems MAE 345](http://www.stengel.mycpanel.princeton.edu/MAE345Lecture3.pdf)
 9. [Rigid Body Dynamics](http://www.nobuyuki-umetani.com/pba2021s/mech_rigidbody.pdf)
+10. [Forward Kinematics](https://robotics-explained.com/forwardkinematics)
 
