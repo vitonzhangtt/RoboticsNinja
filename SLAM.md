@@ -12,4 +12,4 @@
 5. [46. Simultaneous Localization and Mapping](https://www.cs.columbia.edu/~allen/F19/NOTES/slam_paper.pdf) (AAAA+)
 6. [Simultaneous Localisation and Mapping (SLAM):Part I The Essential Algorithms](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf)
 7. [Simultaneous Localization and Mapping (SLAM):Part II](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1678144)
-8. [Introduction to Visual SLAM: From Theory to Practice](https://www.amazon.com/Introduction-Visual-SLAM-Theory-Practice/dp/9811649383)
+8. Book: [Introduction to Visual SLAM: From Theory to Practice](https://www.amazon.com/Introduction-Visual-SLAM-Theory-Practice/dp/9811649383)
