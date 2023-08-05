@@ -13,6 +13,14 @@ https://raeng.org.uk/about-us/fellowship/new-fellows-2017/andrew-davison
 3. Andrew Davison: Research
 http://www.doc.ic.ac.uk/~ajd/
 
+### Florian Shkurti
+http://www.cs.toronto.edu/~florian/
+
+## Lab
+
+### Robot Vision and Learning (RVL) lab 
+https://rvl.cs.toronto.edu/#/
+
 ## Reference
 1. [Introduction to Robot Vision](https://www.youtube.com/watch?v=61NEsd4QlfY)
 2. [Computer vision applications in robotics](https://www.superannotate.com/blog/computer-vision-robotics) 
