@@ -5,3 +5,6 @@ https://atc.home.ece.ust.hk/
 
 ## SUSTech Control & Learning for Robotics and Autonomy (CLEAR) Lab 
 https://www.wzhanglab.site/
+
+## Center for Automotive Research at Stanford
+https://cars.stanford.edu/
