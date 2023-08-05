@@ -19,3 +19,9 @@ https://www.iris.ethz.ch/
 
 ### Robotics Institute 
 https://www.ri.cmu.edu/
+
+## Researcher
+
+### Sebastian Thrun
+Adjunct Professor — Stanford University
+http://robots.stanford.edu/index.html
