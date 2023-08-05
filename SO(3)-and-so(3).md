@@ -74,4 +74,4 @@ associated Lie algebra is denoted by the same letter in **Fraktur font**.
 3. [Lie Group and Lie Algebra in Latex](https://www.johndcook.com/blog/2018/07/21/fraktur-math/)
 4. [Rotations, SO(3) and so(3)](https://www.youtube.com/watch?v=uILYfubYxd0)
 5. [Basics of Classical Lie Groups: The Exponential Map, Lie Groups, and Lie Algebras (AAAA)](https://www.cis.upenn.edu/~cis6100/cis61008lie1.pdf)
-6. [COMPUTING THE EXPONENTIAL MAP ON $`SO(3)`$](https://arwilliams.github.io/so3-exp.pdf)
+6. [COMPUTING THE EXPONENTIAL MAP ON SO(3)](https://arwilliams.github.io/so3-exp.pdf)
