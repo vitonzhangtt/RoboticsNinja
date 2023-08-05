@@ -3,6 +3,8 @@
 
 ## Visual SLAM
 
+### Visual Odometry, Visual SLAM and Structure-from-Motion <sup>[9], [10]</sup>
+
 
 ## Reference
 1. [The future of spatial intelligence is here](https://www.slamcore.com/)
@@ -13,3 +15,5 @@
 6. [Simultaneous Localisation and Mapping (SLAM):Part I The Essential Algorithms](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf)
 7. [Simultaneous Localization and Mapping (SLAM):Part II](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1678144)
 8. Book: [Introduction to Visual SLAM: From Theory to Practice](https://www.amazon.com/Introduction-Visual-SLAM-Theory-Practice/dp/9811649383)
+9. [Visual Odometry vs. Visual SLAM vs. Structure-from-Motion](https://guvencetinkaya.medium.com/visual-odometry-vs-visual-slam-cdda75df592)
+10. [Tutorial on Visual Odometry](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf)
