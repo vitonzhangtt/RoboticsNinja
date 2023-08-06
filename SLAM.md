@@ -9,7 +9,19 @@
 
 ## Visual SLAM
 
-### Visual Odometry, Visual SLAM and Structure-from-Motion <sup>[9], [10]</sup>
+### Camera
+
+#### Stereo cameras
+
+#### Depth cameras
+There is one disadvantage though — unlike stereo cameras, depth cameras <br>
+only work for short distances (e.g. indoors).<sup>11</sup>
+
+## Triangulation
+
+
+
+## Visual Odometry, Visual SLAM and Structure-from-Motion <sup>[9], [10], [11]</sup>
 
 
 ## Reference
