@@ -23,6 +23,7 @@ only work for short distances (e.g. indoors).<sup>11</sup>
 
 ## Visual Odometry, Visual SLAM and Structure-from-Motion <sup>[9], [10], [11]</sup>
 
+### Visual Odometry <sup>[19]</sup>
 
 ## Reference
 1. [The future of spatial intelligence is here](https://www.slamcore.com/)
@@ -39,3 +40,8 @@ only work for short distances (e.g. indoors).<sup>11</sup>
 12. [SLAM Tutorial](https://www.cs.columbia.edu/~allen/F19/NOTES/slam_pka.pdf) (To Read)
 13. [Types of SLAM and Its Application Examples](https://www.maxstblog.com/post/types-of-slam-and-application-ex)
 14. [The Types of SLAM Algorithms](https://medium.com/@nahmed3536/the-types-of-slam-algorithms-356196937e3d)
+15. [Lidar SLAM: The Ultimate Guide to Simultaneous Localization and Mapping](https://www.wevolver.com/article/lidar-slam-the-ultimate-guide-to-simultaneous-localization-and-mapping) (To Read)
+16. [LiDAR SLAM : spotlight on Kitware’s open source library](https://www.kitware.com/lidar-slam-spotlight-on-kitwares-open-source-library/)
+17. [A Comparative Analysis of LiDAR SLAM-based Indoor Navigation for Autonomous Vehicles](http://mvr.whu.edu.cn/pubs/IEEE_SLAM-v11.pdf)
+18. [Robotic LiDARs for fast 3D construction](https://innowings.engg.hku.hk/slam-lidar/)
+19. [Direct Visual Odometry in Low Light using Binary Descriptors](https://www.ri.cmu.edu/app/uploads/2017/04/Alismail17ral.pdf)
