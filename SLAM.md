@@ -1,7 +1,25 @@
 # SLAM: Simultaneous Localization and Mapping
 
 
-## The kinds of SLAM
+## Diversification of SLAM
+
+### Feature-based Method 
+
+Table-1: Features list
+| --- | --- |
+| Feature Name | Description |
+| SIFT: Scale-invariant Feature Transform | |
+| SURF: Speeded Up Robust Features |  |
+| ORB: Oriented FAST and Rotated BRIEF | |
+
+These features are designed to be robust to translation, rotation, <br>
+variations in scale, view-point, lighting, etc.
+
+
+
+### Direct Method
+
+
 
 
 
@@ -35,8 +53,8 @@ only work for short distances (e.g. indoors).<sup>11</sup>
 7. [Simultaneous Localization and Mapping (SLAM):Part II](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1678144)
 8. Book: [Introduction to Visual SLAM: From Theory to Practice](https://www.amazon.com/Introduction-Visual-SLAM-Theory-Practice/dp/9811649383)
 9. [Visual Odometry vs. Visual SLAM vs. Structure-from-Motion](https://guvencetinkaya.medium.com/visual-odometry-vs-visual-slam-cdda75df592)
-10. [Tutorial on Visual Odometry](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf)
-11. [How Robots Make Maps— an Intro to SLAM (Simultaneous Localisation and Mapping)](https://medium.com/swlh/how-robots-make-maps-an-intro-to-slam-simultaneous-localisation-and-mapping-37370c3e7dfe)
+10. [Tutorial on Visual Odometry](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf) 
+11. [How Robots Make Maps— an Intro to SLAM (Simultaneous Localisation and Mapping)](https://medium.com/swlh/how-robots-make-maps-an-intro-to-slam-simultaneous-localisation-and-mapping-37370c3e7dfe) (AAAA+)
 12. [SLAM Tutorial](https://www.cs.columbia.edu/~allen/F19/NOTES/slam_pka.pdf) (To Read)
 13. [Types of SLAM and Its Application Examples](https://www.maxstblog.com/post/types-of-slam-and-application-ex)
 14. [The Types of SLAM Algorithms](https://medium.com/@nahmed3536/the-types-of-slam-algorithms-356196937e3d)
