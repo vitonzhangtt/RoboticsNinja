@@ -6,8 +6,10 @@
 ### Feature-based Method 
 
 Table-1: Features list
-| --- | --- |
+
+
 | Feature Name | Description |
+| --- | --- |
 | SIFT: Scale-invariant Feature Transform | |
 | SURF: Speeded Up Robust Features |  |
 | ORB: Oriented FAST and Rotated BRIEF | |
