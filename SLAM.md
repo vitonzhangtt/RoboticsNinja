@@ -84,7 +84,7 @@ only work for short distances (e.g. indoors).<sup>11</sup>
 9. [Visual Odometry vs. Visual SLAM vs. Structure-from-Motion](https://guvencetinkaya.medium.com/visual-odometry-vs-visual-slam-cdda75df592)
 10. [Tutorial on Visual Odometry](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf) 
 11. [How Robots Make Maps— an Intro to SLAM (Simultaneous Localisation and Mapping)](https://medium.com/swlh/how-robots-make-maps-an-intro-to-slam-simultaneous-localisation-and-mapping-37370c3e7dfe) (AAAA+) [Read Again]
-12. [SLAM Tutorial](https://www.cs.columbia.edu/~allen/F19/NOTES/slam_pka.pdf) (To Read)
+12. [SLAM Tutorial](https://www.cs.columbia.edu/~allen/F19/NOTES/slam_pka.pdf) (To Read) [Notes](https://www.cs.columbia.edu/~allen/F19/notes.html)
 13. [Types of SLAM and Its Application Examples](https://www.maxstblog.com/post/types-of-slam-and-application-ex)
 14. [The Types of SLAM Algorithms](https://medium.com/@nahmed3536/the-types-of-slam-algorithms-356196937e3d)
 15. [Lidar SLAM: The Ultimate Guide to Simultaneous Localization and Mapping](https://www.wevolver.com/article/lidar-slam-the-ultimate-guide-to-simultaneous-localization-and-mapping) (To Read)
