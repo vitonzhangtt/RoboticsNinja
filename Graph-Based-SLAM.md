@@ -26,3 +26,4 @@ Constraints connect the poses of the robot while it is moving.
 7. [Dynamic Pose Graph SLAM: Long-term Mapping in Low Dynamic Environments](https://www.cs.cmu.edu/~kaess/pub/WalcottBryant12iros.pdf)
 8. [ProSLAM: Graph SLAM from a Programmer's Perspective](https://arxiv.org/abs/1709.04377)
 9. [g2o: A General Framework for Graph Optimization](https://github.com/RainerKuemmerle/g2o)
+10. [g2o: A General Framework for Graph Optimization](http://ais.informatik.uni-freiburg.de/publications/papers/kuemmerle11icra.pdf)
