@@ -120,3 +120,4 @@ only work for short distances (e.g. indoors).<sup>11</sup>
 18. [Robotic LiDARs for fast 3D construction](https://innowings.engg.hku.hk/slam-lidar/)
 19. [Direct Visual Odometry in Low Light using Binary Descriptors](https://www.ri.cmu.edu/app/uploads/2017/04/Alismail17ral.pdf)
 20. [wiki: List of SLAM methods](https://en.wikipedia.org/wiki/List_of_SLAM_methods)
+21. [OpenSLAM](https://openslam-org.github.io/)
