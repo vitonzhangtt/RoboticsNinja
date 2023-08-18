@@ -21,6 +21,9 @@ variations in scale, view-point, lighting, etc.
 
 ### Direct Method
 
+#### LSD-SLAM
+
+#### Direct Sparse Odometry
 
 
 
