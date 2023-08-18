@@ -4,7 +4,8 @@
 ## Least Squares
 3:10 in Ref[2]
 
-## Pose
+## Pose 
+Pose refers to XY or XYZ location plus the heading information. <sup>[2]</sup>
 
 
 
