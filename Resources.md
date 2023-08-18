@@ -12,6 +12,7 @@
 
 ## Book
 1. A Mathematical Introduction to Robotic Manipulation (1994)
+2. [Springer Tracts in Advanced Robotics](https://www.amazon.com/-/zh/dp/B08CN2LFNC)
 
 ## Course
 1. [MEE5114-Sp23 Advanced Control for Robotics](https://www.wzhanglab.site/teaching/advanced-control-for-robotics-sp23/)
