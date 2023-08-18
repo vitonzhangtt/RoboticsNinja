@@ -7,7 +7,18 @@
 `If we leave a robot in an unknown location in an unknown environment, can the robot make
 a satisfactory map while simultaneously being able to find its pose in that map?` <sup>12</sup>
 
+### Definition
+`SLAM is the process by which a robot builds a map of the environment and, at the same 
+time, uses this map to compute its location` <sup>12</sup>
 
+**Localization**: inferring location given a map <br>
+**Mapping**: inferring a map given a location <br>
+**SLAM**: learning a map and locating the robot simultaneously <br>
+
+### Chicken-or-egg Problem
+SLAM is a chicken-or-egg problem: <sup>12</sup> <br>
+→ A map is needed for localizing a robot <br>
+→ A pose estimate is needed to build a map 
 
 ## Diversification of SLAM
 
@@ -43,15 +54,23 @@ variations in scale, view-point, lighting, etc.
 ## Correcting the map
 
 ### Filter Methods
-Extended Kalman Filters (EKF)
-Particle Filters
+
+#### Extended Kalman Filters (EKF)
+
+#### Particle Filters
+Rao-Blackwellized particle filter (FastSLAM)
 
 ### Bundle Adjustment
+
+
 
 Real-time Bundle Adjustment:
 * Pose Graph Optimisation
 
 ### Filter Methods vs. Bundle Adjustment
+
+### Graph-Based SLAM
+
 
 ## Place Recognition
 
