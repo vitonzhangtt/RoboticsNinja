@@ -4,8 +4,13 @@
 ## Least Squares
 3:10 in Ref[2]
 
-## Pose 
-Pose refers to XY or XYZ location plus the heading information. <sup>[2]</sup>
+
+## Pose and Constraints
+Pose refers to XY or XYZ location plus the heading information. <sup>[2]</sup> The pose is as the node of the graph. <br>
+The constraints are between poses, they are as the edges of the graph.  
+
+Constraints connect the poses of the robot while it is moving. 
+
 
 
 
@@ -15,3 +20,9 @@ Pose refers to XY or XYZ location plus the heading information. <sup>[2]</sup>
 1. [A brief introduction to GraphSLAM](https://shivachandrachary.medium.com/a-brief-introduction-to-graphslam-4204b4fce2f0) (AAAA)
 2. [Graph-based SLAM using Pose Graphs (Cyrill Stachniss)](https://www.youtube.com/watch?v=uHbRKvD8TWg&t=6s) (AAAA+)
 3. [GRAPH SLAM: A Beginner’s Guide to this Groundbreaking Mapping Technology](https://pub.towardsai.net/everything-you-need-to-know-about-graph-slam-7f6f567f1a31) (AAA)
+4. [Applying Graph-based SLAM Algorithm in a Simulated Environment](https://iopscience.iop.org/article/10.1088/1757-899X/769/1/012035)
+5. [ICP-based pose-graph SLAM](https://hal.science/hal-01522248/document)
+6. [graphslam: Graph SLAM solver in Python](https://python-graphslam.readthedocs.io/en/stable/)
+7. [Dynamic Pose Graph SLAM: Long-term Mapping in Low Dynamic Environments](https://www.cs.cmu.edu/~kaess/pub/WalcottBryant12iros.pdf)
+8. [ProSLAM: Graph SLAM from a Programmer's Perspective](https://arxiv.org/abs/1709.04377)
+9. [g2o: A General Framework for Graph Optimization](https://github.com/RainerKuemmerle/g2o)
