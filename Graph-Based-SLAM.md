@@ -6,6 +6,7 @@
 
 
 
+
 ## Pose and Constraints
 Pose refers to XY or XYZ location plus the heading information. <sup>[2]</sup> The pose is as the node of the graph. <br>
 The constraints are between poses, they are as the edges of the graph.  
@@ -35,4 +36,5 @@ Constraints connect the poses of the robot while it is moving.
 11. [g2o: A General Framework for Graph Optimization (Slide)](https://cse.sc.edu/~yiannisr/774/2015/g2o.pdf)
 12. [Analysis for Graph-Based SLAM Algorithms under $`g^2o`$ Framework](https://www.cs.cmu.edu/~tianxian/files/Analysis_for_Graph_Based_SLAM_Algorithms_under_g2o_Framework.pdf)
 13. [A Tutorial on Graph-Based SLAM](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf)
+14. [6.5 The Method of Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html)
 
