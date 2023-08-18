@@ -5,11 +5,16 @@
 3:10 in Ref[2]
 
 
+
 ## Pose and Constraints
 Pose refers to XY or XYZ location plus the heading information. <sup>[2]</sup> The pose is as the node of the graph. <br>
 The constraints are between poses, they are as the edges of the graph.  
 
 Constraints connect the poses of the robot while it is moving. 
+
+
+## $`g^2O`$ framework
+
 
 
 
@@ -27,3 +32,6 @@ Constraints connect the poses of the robot while it is moving.
 8. [ProSLAM: Graph SLAM from a Programmer's Perspective](https://arxiv.org/abs/1709.04377)
 9. [g2o: A General Framework for Graph Optimization](https://github.com/RainerKuemmerle/g2o)
 10. [g2o: A General Framework for Graph Optimization](http://ais.informatik.uni-freiburg.de/publications/papers/kuemmerle11icra.pdf)
+11. [g2o: A General Framework for Graph Optimization (Slide)](https://cse.sc.edu/~yiannisr/774/2015/g2o.pdf)
+12. [Analysis for Graph-Based SLAM Algorithms
+under $`g^2o`$ Framework](https://www.cs.cmu.edu/~tianxian/files/Analysis_for_Graph_Based_SLAM_Algorithms_under_g2o_Framework.pdf)
