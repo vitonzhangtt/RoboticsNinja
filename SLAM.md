@@ -1,6 +1,14 @@
 # SLAM: Simultaneous Localization and Mapping
 
 
+## What's SLAM
+
+### Problem
+`If we leave a robot in an unknown location in an unknown environment, can the robot make
+a satisfactory map while simultaneously being able to find its pose in that map?` <sup>12</sup>
+
+
+
 ## Diversification of SLAM
 
 ### Feature-based Method 
@@ -92,3 +100,4 @@ only work for short distances (e.g. indoors).<sup>11</sup>
 17. [A Comparative Analysis of LiDAR SLAM-based Indoor Navigation for Autonomous Vehicles](http://mvr.whu.edu.cn/pubs/IEEE_SLAM-v11.pdf)
 18. [Robotic LiDARs for fast 3D construction](https://innowings.engg.hku.hk/slam-lidar/)
 19. [Direct Visual Odometry in Low Light using Binary Descriptors](https://www.ri.cmu.edu/app/uploads/2017/04/Alismail17ral.pdf)
+20. [wiki: List of SLAM methods](https://en.wikipedia.org/wiki/List_of_SLAM_methods)
