@@ -33,5 +33,6 @@ Constraints connect the poses of the robot while it is moving.
 9. [g2o: A General Framework for Graph Optimization](https://github.com/RainerKuemmerle/g2o)
 10. [g2o: A General Framework for Graph Optimization](http://ais.informatik.uni-freiburg.de/publications/papers/kuemmerle11icra.pdf)
 11. [g2o: A General Framework for Graph Optimization (Slide)](https://cse.sc.edu/~yiannisr/774/2015/g2o.pdf)
-12. [Analysis for Graph-Based SLAM Algorithms
-under $`g^2o`$ Framework](https://www.cs.cmu.edu/~tianxian/files/Analysis_for_Graph_Based_SLAM_Algorithms_under_g2o_Framework.pdf)
+12. [Analysis for Graph-Based SLAM Algorithms under $`g^2o`$ Framework](https://www.cs.cmu.edu/~tianxian/files/Analysis_for_Graph_Based_SLAM_Algorithms_under_g2o_Framework.pdf)
+13. [A Tutorial on Graph-Based SLAM](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf)
+
