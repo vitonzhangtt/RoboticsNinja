@@ -26,9 +26,33 @@ variations in scale, view-point, lighting, etc.
 #### Direct Sparse Odometry
 
 
+## Camera poses
 
+### RANSAC
 
+### Iterative Closest Point (ICP)
 
+## Correcting the map
+
+### Filter Methods
+Extended Kalman Filters (EKF)
+Particle Filters
+
+### Bundle Adjustment
+
+Real-time Bundle Adjustment:
+* Pose Graph Optimisation
+
+### Filter Methods vs. Bundle Adjustment
+
+## Place Recognition
+
+### image-to-image
+For image-to-image comparison, Bag of Words (BoW) is an effective way to quickly narrow down candidates for corresponding frames.
+
+### image-to-map
+
+### map-to-map
 
 ## Visual SLAM
 
@@ -59,7 +83,7 @@ only work for short distances (e.g. indoors).<sup>11</sup>
 8. Book: [Introduction to Visual SLAM: From Theory to Practice](https://www.amazon.com/Introduction-Visual-SLAM-Theory-Practice/dp/9811649383)
 9. [Visual Odometry vs. Visual SLAM vs. Structure-from-Motion](https://guvencetinkaya.medium.com/visual-odometry-vs-visual-slam-cdda75df592)
 10. [Tutorial on Visual Odometry](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf) 
-11. [How Robots Make Maps— an Intro to SLAM (Simultaneous Localisation and Mapping)](https://medium.com/swlh/how-robots-make-maps-an-intro-to-slam-simultaneous-localisation-and-mapping-37370c3e7dfe) (AAAA+)
+11. [How Robots Make Maps— an Intro to SLAM (Simultaneous Localisation and Mapping)](https://medium.com/swlh/how-robots-make-maps-an-intro-to-slam-simultaneous-localisation-and-mapping-37370c3e7dfe) (AAAA+) [Read Again]
 12. [SLAM Tutorial](https://www.cs.columbia.edu/~allen/F19/NOTES/slam_pka.pdf) (To Read)
 13. [Types of SLAM and Its Application Examples](https://www.maxstblog.com/post/types-of-slam-and-application-ex)
 14. [The Types of SLAM Algorithms](https://medium.com/@nahmed3536/the-types-of-slam-algorithms-356196937e3d)
