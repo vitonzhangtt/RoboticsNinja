@@ -146,11 +146,10 @@ only work for short distances (e.g. indoors).<sup>11</sup>
 25. [Learning Deep Visual SLAM Frontends: SuperPoint++](https://tom.ai/presentations/visual_slam_workshop_malisiewicz_iccv2019.pdf)
 26. [Visual SLAM: What Are the Current Trends and What to Expect?](https://www.mdpi.com/1424-8220/22/23/9297) (To Read)
 27. [Learning Deep Convolutional Frontends for Visual SLAM](https://www.youtube.com/watch?v=kjaRRGLw4RA)
-28. [Visual-SLAM Classical Framework and Key Techniques: A Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9227238/) (2022)
+28. [Visual-SLAM Classical Framework and Key Techniques: A Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9227238/) (2022) (To Read)
 29. [ULL-SLAM: underwater low-light enhancement for the front-end of visual SLAM](https://www.frontiersin.org/articles/10.3389/fmars.2023.1133881/full)
 30. [SLAM Course - 20 - SLAM Frontends (2013/14; Cyrill Stachniss)](https://www.youtube.com/watch?v=Ejw1HBj3Apg)
 31. [3 Lectures on SLAM: E02 - SLAM Frontend & Backend - From feature matching to pose graph optimization](https://www.youtube.com/watch?v=eoXRziLhU-I) (To Read)
 32. [Introduction to SLAM](https://medium.com/@rutwikshinde2000/basic-introduction-to-slam-26688f7994a8)
 33. [Introduction to SLAM (Cyrill Stachniss)](https://www.youtube.com/watch?v=0I30M6yTklo) (To Read)
 34. [Lecture 23: Simultaneous Localization and Mapping I](https://vnav.mit.edu/material/23-SLAM1-formulationsAndSparsity-notes.pdf) (MIT 16.485: Visual Navigation for Autonomous Vehicles (VNAV)) (To Read)
-35. 
