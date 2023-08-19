@@ -54,4 +54,5 @@ Constraints connect the poses of the robot while it is moving.
 17. [Solving a nonlinear least squares problem with the Gauss-Newton method and lsqnonlin](https://www.math.umd.edu/~petersd/460/html/nonlinls.html)
 18. [Least Square Method](https://www.cuemath.com/data/least-squares/)
 19. [Least Squares Method: What It Means, How to Use It, With Examples](https://www.investopedia.com/terms/l/least-squares-method.asp)
+20. [wiki: Least squares](https://en.wikipedia.org/wiki/Least_squares)
 
