@@ -23,7 +23,7 @@ SLAM is a chicken-or-egg problem: <sup>[12]</sup> <br>
 ## The Architecture of SLAM
 `Two parts of Visual SLAM`<sup>[25]</sup> <br>
 
-Generally a SLAM system consists of a frontend and a backend. <sup>[25]</sup>
+Generally a SLAM system consists of a frontend and a backend. <sup>[32]</sup>
 
 Frontend takes in raw sensor data from sensors such as LiDAR, camera, IMU, etc. <br>
 and transforms it into an **intermediate representation** such as constraints of an <br>
@@ -152,4 +152,5 @@ only work for short distances (e.g. indoors).<sup>11</sup>
 31. [3 Lectures on SLAM: E02 - SLAM Frontend & Backend - From feature matching to pose graph optimization](https://www.youtube.com/watch?v=eoXRziLhU-I) (To Read)
 32. [Introduction to SLAM](https://medium.com/@rutwikshinde2000/basic-introduction-to-slam-26688f7994a8)
 33. [Introduction to SLAM (Cyrill Stachniss)](https://www.youtube.com/watch?v=0I30M6yTklo) (To Read)
-34. [Lecture 23: Simultaneous Localization and Mapping I](https://vnav.mit.edu/material/23-SLAM1-formulationsAndSparsity-notes.pdf) (MIT 16.485: Visual Navigation for Autonomous Vehicles (VNAV))
+34. [Lecture 23: Simultaneous Localization and Mapping I](https://vnav.mit.edu/material/23-SLAM1-formulationsAndSparsity-notes.pdf) (MIT 16.485: Visual Navigation for Autonomous Vehicles (VNAV)) (To Read)
+35. 
