@@ -20,3 +20,4 @@ Visual Inertial Odometry (VIO) is a computer vision technique used for estimatin
 10. [15. Visual Inertial Odometry with Quadruped](https://docs.omniverse.nvidia.com/isaacsim/latest/tutorial_ros_quadruped_vio.html)
 11. [Tutorial on Visual Odometry](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf) (To Read)
 12. [Visual-Inertial Odometry of Aerial Robots](https://arxiv.org/pdf/1906.03289.pdf)
+13. [Visual Odometry - Features, Tracking, Essential Matrix, and RANSAC](https://www.cs.cmu.edu/~kaess/vslam_cvpr14/media/VSLAM-Tutorial-CVPR14-A11-VisualOdometry.pdf)
