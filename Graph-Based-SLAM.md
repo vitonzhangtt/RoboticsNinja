@@ -1,7 +1,15 @@
 # Graph-Based SLAM
 
 
-## Least Squares
+## Least Squares 
+The least squares is called "最小二乘法" in chinese.
+
+### Problem
+Suppose that $`A\vec{x}=\vec{b}`$ does not have a solution. What is the best approximate solution? <br>
+For our purposes, the best approximate solution is called the **least-squares solution**. <sup>14</sup>
+
+### 
+
 3:10 in Ref[2]
 
 
