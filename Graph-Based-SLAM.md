@@ -3,14 +3,18 @@
 
 ## Least Squares 
 The least squares is called "最小二乘法" in chinese.
+3:10 in Ref[2]
 
 ### Problem
-Suppose that $`A\vec{x}=\vec{b}`$ does not have a solution. What is the best approximate solution? <br>
+Suppose that $`A\vec{x}=\vec{b}`$ does not have a solution. What is the **best approximate solution**? <br>
 For our purposes, the best approximate solution is called the **least-squares solution**. <sup>14</sup>
 
-### 
+### Least-Squares Solutions
 
-3:10 in Ref[2]
+
+### Gauss–Newton algorithm
+
+
 
 
 
@@ -45,4 +49,9 @@ Constraints connect the poses of the robot while it is moving.
 12. [Analysis for Graph-Based SLAM Algorithms under $`g^2o`$ Framework](https://www.cs.cmu.edu/~tianxian/files/Analysis_for_Graph_Based_SLAM_Algorithms_under_g2o_Framework.pdf)
 13. [A Tutorial on Graph-Based SLAM](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf)
 14. [6.5 The Method of Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html)
+15. [Gauss–Newton algorithm](https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm)
+16. [Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization](http://proceedings.mlr.press/v119/tran-dinh20a/tran-dinh20a-supp.pdf)
+17. [Solving a nonlinear least squares problem with the Gauss-Newton method and lsqnonlin](https://www.math.umd.edu/~petersd/460/html/nonlinls.html)
+18. [Least Square Method](https://www.cuemath.com/data/least-squares/)
+19. [Least Squares Method: What It Means, How to Use It, With Examples](https://www.investopedia.com/terms/l/least-squares-method.asp)
 
