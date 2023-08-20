@@ -5,7 +5,7 @@
 ### Camera Calibration
 Camera Calibration: 相机标定
 
-Todo List: [4], [5], 
+Todo List: [4], [5], [6], [7], [8], [9], 
 
 ## Researcher
 
