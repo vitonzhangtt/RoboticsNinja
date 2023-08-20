@@ -23,4 +23,5 @@ https://rvl.cs.toronto.edu/#/
 
 ## Reference
 1. [Introduction to Robot Vision](https://www.youtube.com/watch?v=61NEsd4QlfY)
-2. [Computer vision applications in robotics](https://www.superannotate.com/blog/computer-vision-robotics) 
+2. [Computer vision applications in robotics](https://www.superannotate.com/blog/computer-vision-robotics)
+3. [Fall 2022 - Vision Algorithms for Mobile Robotics (UZH-DINF2039 / ETH-151-0632-00L)](https://rpg.ifi.uzh.ch/teaching.html) (To Read) (AAAA+)
