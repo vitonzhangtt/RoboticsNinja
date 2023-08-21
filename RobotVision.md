@@ -38,6 +38,7 @@ https://rvl.cs.toronto.edu/#/
 7. [camera calibration](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/amod/AMOD_2020/20201026-04%20-%20ETHZ%20-%20Camera%20Calibration.pdf)
 8. [CAMERA CALIBRATION: EXPLAINING CAMERA DISTORTIONS](https://ori.codes/artificial-intelligence/camera-calibration/camera-distortions/) (To Read)
 9. [Camera Calibration — Theory and Implementation](https://medium.com/analytics-vidhya/camera-calibration-theory-and-implementation-b253dad449fb)
+10. [Computer vision for the next generation of autonomous robots 2023.10.10](https://www.youtube.com/watch?v=_XxVknqI1wk) (To Read)
 
 
 
