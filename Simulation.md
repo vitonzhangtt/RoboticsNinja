@@ -46,3 +46,4 @@ TODO: https://www.poppy-project.org/en/
 9. [Method to Integrate Human Simulation into Gazebo for Human-robot Collaboration](https://iopscience.iop.org/article/10.1088/1757-899X/825/1/012006)
 10. [Reachy](https://www.pollen-robotics.com/)
 11. [Roboschool: open-source software for robot simulation, integrated with OpenAI Gym.](https://openai.com/research/roboschool)
+12. [Simulations for mobile robots](https://www.blackcoffeerobotics.com/blog/simulations-for-mobile-robots) (To Read)
