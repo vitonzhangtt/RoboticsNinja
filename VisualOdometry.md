@@ -6,7 +6,16 @@ Visual Inertial Odometry: 视觉惯性里程计
 
 Visual Inertial Odometry (VIO) is a computer vision technique used for estimating the 3D pose (local position and orientation) and velocity of a moving vehicle relative to a local starting position. It is commonly used to navigate a vehicle in situations where GPS is absent or unreliable (e.g. indoors, or when flying under a bridge). <sup>[3]</sup>
 
+## Terms
 
+### RANSAC 
+Outliers can be removed using **RANSAC** [Fishler & Bolles, 1981].
+
+### Motion Estimation
+
+### Robust Estimation
+
+### Pose-Graph Optimization
 
 ## Reference
 1. [Visual and Visual-Inertial SLAM: State of the Art, Classification, and Experimental Benchmarking](https://www.hindawi.com/journals/js/2021/2054828/)
