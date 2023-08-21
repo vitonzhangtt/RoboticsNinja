@@ -28,6 +28,12 @@ TODO: https://github.com/robotology/yarp
 Github: https://github.com/poppy-project/poppy-humanoid <br>
 TODO: https://www.poppy-project.org/en/
 
+## Humanoid Virtual Athletics Challenge
+
+1. [Humanoid Virtual Athletics Challenge](https://ytazz.github.io/vnoid/)
+2. [Choreonoid Official Site](https://www.choreonoid.org/en/)
+3. [Choreonoid: An integrated graphical robotics application framework including a simulator, a motion editor, etc.](https://github.com/choreonoid/choreonoid) (To Debug)
+
 ## Reference
 1. [Isaac Sim](https://docs.omniverse.nvidia.com/isaacsim/latest/index.html#what-is-isaac-sim)
 2. [Highly Customizable Open Source Robot Simulation - Louise Poubel](https://www.youtube.com/watch?v=FheYuaMYJHg)
