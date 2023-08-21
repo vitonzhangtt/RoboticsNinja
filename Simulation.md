@@ -21,6 +21,13 @@ Table-1: Robotic simulation platform <sup>[6]</sup>
 ## Webots
 TODO: [Webots Robot Simulator](https://github.com/cyberbotics/webots)
 
+## YARP - Yet Another Robot Platform
+TODO: https://github.com/robotology/yarp
+
+## Poppy-Project
+Github: https://github.com/poppy-project/poppy-humanoid <br>
+TODO: https://www.poppy-project.org/en/
+
 ## Reference
 1. [Isaac Sim](https://docs.omniverse.nvidia.com/isaacsim/latest/index.html#what-is-isaac-sim)
 2. [Highly Customizable Open Source Robot Simulation - Louise Poubel](https://www.youtube.com/watch?v=FheYuaMYJHg)
@@ -31,3 +38,5 @@ TODO: [Webots Robot Simulator](https://github.com/cyberbotics/webots)
 7. [3rd Workshop on Closing the Reality Gap in Sim2Real Transfer for Robotics](https://sim2real.github.io/)
 8. [A Comparison of Humanoid Robot Simulators:A Quantitative Approach](https://arxiv.org/pdf/2008.04627.pdf)
 9. [Method to Integrate Human Simulation into Gazebo for Human-robot Collaboration](https://iopscience.iop.org/article/10.1088/1757-899X/825/1/012006)
+10. [Reachy](https://www.pollen-robotics.com/)
+11. [Roboschool: open-source software for robot simulation, integrated with OpenAI Gym.](https://openai.com/research/roboschool)
