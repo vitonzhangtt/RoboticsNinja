@@ -153,3 +153,4 @@ only work for short distances (e.g. indoors).<sup>11</sup>
 32. [Introduction to SLAM](https://medium.com/@rutwikshinde2000/basic-introduction-to-slam-26688f7994a8)
 33. [Introduction to SLAM (Cyrill Stachniss)](https://www.youtube.com/watch?v=0I30M6yTklo) (To Read)
 34. [Lecture 23: Simultaneous Localization and Mapping I](https://vnav.mit.edu/material/23-SLAM1-formulationsAndSparsity-notes.pdf) (MIT 16.485: Visual Navigation for Autonomous Vehicles (VNAV)) (To Read)
+35. [SLAM Front-Ends](http://ais.informatik.uni-freiburg.de/teaching/ws11/robotics2/pdfs/rob2-13-frontends.pdf)
