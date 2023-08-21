@@ -7,7 +7,7 @@
 3. [Robotics Today - A Series of Technical Talks (AAAA+)](https://roboticstoday.github.io/)
 4. [MIT Robotics](https://www.youtube.com/@MITRoboticsSeminar/videos)
 5. [Robotics Colloquium at Berlin Institute of Technology](https://www.youtube.com/playlist?list=PLixx3kh3uFe5aXUChOMZ_5MkxhEMQxzrw)
-6. 
+6. [ROB 530 W22 - Mobile Robotics UMich-CURLY](https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F) (To Read)
 
 ## Physics
 1. [New Physics Video Playlist (AAAA)](https://www.youtube.com/playlist?list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
