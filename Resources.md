@@ -17,3 +17,4 @@
 ## Course
 1. [MEE5114-Sp23 Advanced Control for Robotics](https://www.wzhanglab.site/teaching/advanced-control-for-robotics-sp23/)
 2. [Autonomous Mobile Robots - Spring 2021](https://asl.ethz.ch/education/lectures/autonomous_mobile_robots/spring-2021.html) (ethz)
+3. [Advanced Techniques for Mobile Robotics (Robotics 2) - WS 2011/12](http://ais.informatik.uni-freiburg.de/teaching/ws11/robotics2/) (To Read) (AAAA+)
