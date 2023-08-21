@@ -25,3 +25,9 @@
 ## Open Source
 1. [Open Robotics](https://www.openrobotics.org/) (Open Source Robotics Foundation)
 2. [Introduction to Open-Source Robotics](http://www.osrobotics.org/osr/)
+
+### FOSSBot
+1. [Development of a Web Based robotic simulator for the DIY robot kit for educators](https://summerofcode.withgoogle.com/programs/2023/projects/xsxF9klm)
+2. [FOSSbot: An open source and open design educational robot](https://fosdem.org/2023/schedule/event/fossbot/)
+3. [FOSSBot](https://github.com/eellak/fossbot)
+4. [Fossbot Simulator](https://github.com/chronis10/fossbot_simulator)
