@@ -20,6 +20,7 @@ Table-1: Robotic simulation platform <sup>[6]</sup>
 
 ## Webots
 TODO: [Webots Robot Simulator](https://github.com/cyberbotics/webots)
+TODO: [13]
 
 ## YARP - Yet Another Robot Platform
 TODO: https://github.com/robotology/yarp
@@ -47,3 +48,4 @@ TODO: https://www.poppy-project.org/en/
 10. [Reachy](https://www.pollen-robotics.com/)
 11. [Roboschool: open-source software for robot simulation, integrated with OpenAI Gym.](https://openai.com/research/roboschool)
 12. [Simulations for mobile robots](https://www.blackcoffeerobotics.com/blog/simulations-for-mobile-robots) (To Read)
+13. [Webots with ROS: Simulation Overview](https://www.blackcoffeerobotics.com/blog/webots-with-ros-simulation-overview) (To Read)
