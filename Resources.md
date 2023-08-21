@@ -6,6 +6,8 @@
 2. [Robotics 2 2018 Angela Sodemann](https://www.youtube.com/playlist?list=PLT_0lwItn0sAfi3o4xwx-fNfcnbfMrXa7)
 3. [Robotics Today - A Series of Technical Talks (AAAA+)](https://roboticstoday.github.io/)
 4. [MIT Robotics](https://www.youtube.com/@MITRoboticsSeminar/videos)
+5. [Robotics Colloquium at Berlin Institute of Technology](https://www.youtube.com/playlist?list=PLixx3kh3uFe5aXUChOMZ_5MkxhEMQxzrw)
+6. 
 
 ## Physics
 1. [New Physics Video Playlist (AAAA)](https://www.youtube.com/playlist?list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
