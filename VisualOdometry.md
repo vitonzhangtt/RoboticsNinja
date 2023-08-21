@@ -30,6 +30,8 @@ Outliers can be removed using **RANSAC** [Fishler & Bolles, 1981].
 #### Visual similarity
 **global image descriptors** (GIST descriptors) or **local image descriptors** (e.g., SIFT, BRIEF, BRISK features)
 
+## Open Source
+**TODO**: Open source software and dataset are in Page 36-43 in [11].
 
 ## Reference
 1. [Visual and Visual-Inertial SLAM: State of the Art, Classification, and Experimental Benchmarking](https://www.hindawi.com/journals/js/2021/2054828/)
