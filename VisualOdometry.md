@@ -15,7 +15,21 @@ Outliers can be removed using **RANSAC** [Fishler & Bolles, 1981].
 
 ### Robust Estimation
 
-### Pose-Graph Optimization
+### Pose-Graph Optimization <sup>[11]</sup>
+
+#### Levenberg-Marquadt
+
+#### Gauss-Newton
+
+#### Open Source Tool: g2o, GTSAM, Google Ceres
+
+### Bundle Adjustment (BA) <sup>[11]</sup>
+
+### Loop Closure Detection <sup>[11]</sup>
+
+#### Visual similarity
+**global image descriptors** (GIST descriptors) or **local image descriptors** (e.g., SIFT, BRIEF, BRISK features)
+
 
 ## Reference
 1. [Visual and Visual-Inertial SLAM: State of the Art, Classification, and Experimental Benchmarking](https://www.hindawi.com/journals/js/2021/2054828/)
