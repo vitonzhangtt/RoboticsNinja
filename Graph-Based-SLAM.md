@@ -29,6 +29,10 @@ Constraints connect the poses of the robot while it is moving.
 ## $`g^2O`$ framework
 
 
+## RTAB-Map 
+RTAB-Map (**Real-Time Appearance-Based Mapping**) is a RGB-D, Stereo and Lidar  <br>
+Graph-Based SLAM approach based on an incremental appearance-based  <br>
+loop closure detector. <sup>[23]</sup>
 
 
 
@@ -57,4 +61,4 @@ Constraints connect the poses of the robot while it is moving.
 20. [wiki: Least squares](https://en.wikipedia.org/wiki/Least_squares)
 21. [Graph SLAM](https://courses.cs.washington.edu/courses/cse571/23sp/slides/L09/Lecture09_Modern%20SLAM.pdf) (To Read)
 22. [A LiDAR/Visual SLAM Backend with Loop Closure Detection and Graph Optimization](https://www.mdpi.com/2072-4292/13/14/2720/htm)
-
+23. [RTAB-Map: Real-Time Appearance-Based Mapping](http://introlab.github.io/rtabmap/)
