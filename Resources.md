@@ -35,3 +35,6 @@
 2. [FOSSbot: An open source and open design educational robot](https://fosdem.org/2023/schedule/event/fossbot/)
 3. [FOSSBot](https://github.com/eellak/fossbot)
 4. [Fossbot Simulator](https://github.com/chronis10/fossbot_simulator)
+
+## Tools
+1. [Foxglove - The leading observability platform for robotics developers](https://foxglove.dev/)
