@@ -20,10 +20,10 @@
 ## Course
 1. [MEE5114-Sp23 Advanced Control for Robotics](https://www.wzhanglab.site/teaching/advanced-control-for-robotics-sp23/)
 2. [Autonomous Mobile Robots - Spring 2021](https://asl.ethz.ch/education/lectures/autonomous_mobile_robots/spring-2021.html) (ethz) (To Read)
-3. [Advanced Techniques for Mobile Robotics (Robotics 2) - WS 2011/12](http://ais.informatik.uni-freiburg.de/teaching/ws11/robotics2/) (To Read) (AAAA+)
+3. [Advanced Techniques for Mobile Robotics (Robotics 2) - WS 2011/12](http://ais.informatik.uni-freiburg.de/teaching/ws11/robotics2/) (To Read) (AAAA)
 4. [Autonomous Mobility on Demand: From Car to Fleet](https://idsc.ethz.ch/education/lectures/duckietown.html) (ethz) (To Read)
 5. [CSC2541:Visual Perception for Autonomous Driving - Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html#syllabus)
-6. [MIT16.485 - Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/)
+6. [MIT16.485 - Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) (AAAA+)
 
 ## Open Source
 1. [Open Robotics](https://www.openrobotics.org/) (Open Source Robotics Foundation)
