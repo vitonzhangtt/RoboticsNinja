@@ -11,3 +11,4 @@
 5. [video: ROS - Robotics Back-End](https://www.youtube.com/playlist?list=PLLSegLrePWgIPU02-lpVtp58268VB3eCG) 
 6. [video: Easy SLAM with ROS using slam_toolbox](https://www.youtube.com/watch?v=ZaiA3hWaRzE) (To Read)
 7. [video: ROS tutorial - RoboLearning with Mohammad](https://www.youtube.com/playlist?list=PLDjgHhClgpyQqk6FS-xTfvankuRczxA2_)
+8. [ROS docker image](https://hub.docker.com/r/osrf/ros)
