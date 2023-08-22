@@ -24,6 +24,7 @@
 4. [Autonomous Mobility on Demand: From Car to Fleet](https://idsc.ethz.ch/education/lectures/duckietown.html) (ethz) (To Read)
 5. [CSC2541:Visual Perception for Autonomous Driving - Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html#syllabus)
 6. [MIT16.485 - Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) (AAAA+)
+7. [F1TENTH Course - xLAB for Safe Autonomous Systems](https://www.youtube.com/playlist?list=PL7rtKJAz_mPdFDJtufKmqfWRNu55s_LMc)
 
 ## Open Source
 1. [Open Robotics](https://www.openrobotics.org/) (Open Source Robotics Foundation)
