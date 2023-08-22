@@ -15,4 +15,5 @@
 ## Reference
 1. [The Best Robotic Kits for Beginners for 2023: Build Your Own Robot](https://www.pakronics.com.au/blogs/news/the-best-robotic-kits-for-beginners-for-2023-build-your-own-robot)
 2. [Adafruit CRICKIT for Circuit Playground Express](https://www.adafruit.com/product/3093)
-3. [Book: Build Your Own Robot - Using Python, CRICKIT, and Raspberry PI](https://www.manning.com/books/build-your-own-robot) 
+3. [Book: Build Your Own Robot - Using Python, CRICKIT, and Raspberry PI](https://www.manning.com/books/build-your-own-robot)
+4. [Building a mobile robot - Articulated Robotics](https://www.youtube.com/playlist?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT) (AAAA+) (To Read)
