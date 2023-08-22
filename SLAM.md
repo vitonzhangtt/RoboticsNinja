@@ -160,3 +160,4 @@ only work for short distances (e.g. indoors). <sup>[11]</sup>
 35. [SLAM Front-Ends](http://ais.informatik.uni-freiburg.de/teaching/ws11/robotics2/pdfs/rob2-13-frontends.pdf)
 36. [How to implement visual SLAM?](https://dvic.devinci.fr/how-implement-visual-slam)
 37. [NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM)
+38. [Comparison of Visual SLAM Algorithms ORB-SLAM2, RTAB-Map and SPTAM in indoor and outdoor with ROS.](https://www.youtube.com/watch?v=1ltnAPNHOe8)
