@@ -112,6 +112,8 @@ only work for short distances (e.g. indoors). <sup>[11]</sup>
 
 ### Implementation (make hands dirty) <sup>[36]</sup>
 
+### NeRF-SLAM
+
 ## Triangulation
 
 
@@ -157,3 +159,4 @@ only work for short distances (e.g. indoors). <sup>[11]</sup>
 34. [Lecture 23: Simultaneous Localization and Mapping I](https://vnav.mit.edu/material/23-SLAM1-formulationsAndSparsity-notes.pdf) (MIT 16.485: Visual Navigation for Autonomous Vehicles (VNAV)) (To Read)
 35. [SLAM Front-Ends](http://ais.informatik.uni-freiburg.de/teaching/ws11/robotics2/pdfs/rob2-13-frontends.pdf)
 36. [How to implement visual SLAM?](https://dvic.devinci.fr/how-implement-visual-slam)
+37. [NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM)
