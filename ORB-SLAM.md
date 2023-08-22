@@ -4,6 +4,8 @@
 
 ## ORB-SLAM 3
 
+### Docker image 
+[7]
 
 ## Reference
 1. [How to implement visual SLAM?](https://dvic.devinci.fr/how-implement-visual-slam) (To Debug)
@@ -12,3 +14,4 @@
 4. [ORB_SLAM3 docker](https://github.com/jahaniam/orbslam3_docker) (To Debug)
 5. [Lab 9 in vnav](https://vnav.mit.edu/labs/lab9/exercises.html#orb-slam3)
 6. [Installation of ORB-SLAM 3 on a fresh installed Ubuntu 20.04](https://github.com/Mauhing/ORB_SLAM3/blob/master/README.md)
+7. [Docker Image: orb-slam-3-ready](https://github.com/LMWafer/orb-slam-3-ready)
