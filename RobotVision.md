@@ -1,11 +1,17 @@
 # Robot Vision
 
-## Vision Algorithms for Mobile Robotics
+## Vision Algorithms for Mobile Robotics <sup>[3]</sup>
+
+
+
+### Image Formation: perspective projection and camera models
 
 ### Camera Calibration
 Camera Calibration: 相机标定
 
 Todo List: [4], [5], [6], [7], [8], [9], 
+
+### Filtering & Edge detection
 
 ## Researcher
 
@@ -39,6 +45,7 @@ https://rvl.cs.toronto.edu/#/
 8. [CAMERA CALIBRATION: EXPLAINING CAMERA DISTORTIONS](https://ori.codes/artificial-intelligence/camera-calibration/camera-distortions/) (To Read)
 9. [Camera Calibration — Theory and Implementation](https://medium.com/analytics-vidhya/camera-calibration-theory-and-implementation-b253dad449fb)
 10. [Computer vision for the next generation of autonomous robots 2023.10.10](https://www.youtube.com/watch?v=_XxVknqI1wk) (To Read)
+11. [Computer Vision and Robotics](https://medium.com/@lukekerbs/computer-vision-and-robotics-f10c4ea16d44)
 
 
 
