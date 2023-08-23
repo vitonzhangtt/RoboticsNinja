@@ -35,7 +35,7 @@ robot simulator. <sup></sup>
 12. [An Overview of Soft Robotics - Annual Review of Control, Robotics, and Autonomous Systems](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-062322-100607) (To Read) (2023)
 13. [Roadmap on soft robotics: multifunctionality, adaptability and growth without borders](https://iopscience.iop.org/article/10.1088/2399-7532/ac4c95)
 14. [Soft Robotics Group](https://softroboticsgroup.com/)
-15. [soft Robotics Conference](https://softroboticsconference.org/)
+15. [Robosoft Conference](https://softroboticsconference.org/) 
 
 ## Other
 1. [Haptic exploration](https://www.imperial.ac.uk/morph-lab/research/haptic-exploration/)
