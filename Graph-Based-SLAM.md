@@ -62,3 +62,4 @@ loop closure detector. <sup>[23]</sup>
 21. [Graph SLAM](https://courses.cs.washington.edu/courses/cse571/23sp/slides/L09/Lecture09_Modern%20SLAM.pdf) (To Read)
 22. [A LiDAR/Visual SLAM Backend with Loop Closure Detection and Graph Optimization](https://www.mdpi.com/2072-4292/13/14/2720/htm)
 23. [RTAB-Map: Real-Time Appearance-Based Mapping](http://introlab.github.io/rtabmap/)
+24. [video list: Autonomous Navigation](https://www.youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg) | [Understanding SLAM Using Pose Graph Optimization | Autonomous Navigation, Part 3](https://www.youtube.com/watch?v=saVZtgPyyJQ&list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg&index=3)
