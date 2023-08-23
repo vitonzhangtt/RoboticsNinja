@@ -37,4 +37,18 @@
 4. [Fossbot Simulator](https://github.com/chronis10/fossbot_simulator)
 
 ## Tools
+
+### Foxglove
+
+#### Reference
 1. [Foxglove - The leading observability platform for robotics developers](https://foxglove.dev/)
+
+### Rerun - Visualize computer vision
+**Rerun** is an SDK for logging computer vision and robotics data paired <br>
+with a visualizer for exploring that data over time. It lets you debug <br> 
+and understand the internal state and data of your systems with minimal code.
+
+#### Reference
+1. [Rerun: An Open Source Package For Beautiful Visualizations | Ep. 365](https://www.youtube.com/watch?v=GMHGC_OPrcE)
+2. [Visualize computer vision](https://www.rerun.io/)
+3. [rerun Github](https://github.com/rerun-io/rerun) (Rust) (To Debug)
