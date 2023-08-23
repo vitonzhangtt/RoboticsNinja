@@ -14,12 +14,21 @@ This introductory course covers the fundamentals of continuum robot design, <br>
 modelling, planning, and control. Students will code their own continuum <br>
 robot simulator. <sup></sup>
 
+## Soft Robotics
+
+### Gripper
+
+
+
 ## Reference
 1. [Continuum Robotics Laboratory](https://crl.utm.utoronto.ca/)
 2. [Undergraduate Courses](https://robotics.cs.toronto.edu/courses.html)
 3. [Continuum robots](https://www.imperial.ac.uk/morph-lab/research/continuum-robots/) (To Read)
 4. [A Continuum Manipulator for Open-Source Surgical Robotics Research (ENDO) - T-MRB 2021](https://www.youtube.com/watch?v=eEjlFD5Np10)
 5. [Continuum Robots: An Overview](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200367) (To Read)
+6. [Variable-Grasping-Mode Gripper With Different Finger Structures For Grasping Small-Sized Items](https://www.youtube.com/watch?v=1lSbl95MFbA)
+7. [DIY Soft Robotic Gripper](https://www.youtube.com/watch?v=uPx8xwRpfFk)
+8. [The Advantage of Fins with Pliant Energy Systems | Ep. 325](https://www.youtube.com/watch?v=sTpK1c08ohE)
 
 ## Other
 1. [Haptic exploration](https://www.imperial.ac.uk/morph-lab/research/haptic-exploration/)
