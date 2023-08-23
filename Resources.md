@@ -26,6 +26,10 @@
 6. [MIT16.485 - Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) (AAAA+)
 7. [F1TENTH Course - xLAB for Safe Autonomous Systems](https://www.youtube.com/playlist?list=PL7rtKJAz_mPdFDJtufKmqfWRNu55s_LMc)
 
+## Youtube Channels 
+1. [Murtaza's Workshop - Robotics and AI ](https://www.youtube.com/@murtazasworkshop/featured)
+2. [Muhammad Luqman](https://www.youtube.com/@robotisim/featured)
+
 ## Open Source
 1. [Open Robotics](https://www.openrobotics.org/) (Open Source Robotics Foundation)
 2. [Introduction to Open-Source Robotics](http://www.osrobotics.org/osr/)
