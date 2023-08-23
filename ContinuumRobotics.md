@@ -42,6 +42,10 @@ robot simulator. <sup></sup>
 19. [Whitesides Research Group - Soft Robotics](https://gmwgroup.harvard.edu/soft-robotics)
 20. [Soft Robotics - Transferring Theory to Application](https://link.springer.com/book/10.1007/978-3-662-44506-8) (2015)
 21. [Soft Machines Lab @ CMU](http://sml.me.cmu.edu/)
+22. [Soft Robotics @ MIT News](https://news.mit.edu/topic/soft-robotics)
+23. [Nature Collection: Soft Robotics: Sensing, Actuation, and Integration](https://www.nature.com/collections/bgfdjghifc)
+24. [Soft Robotics Lab (SoRo) in Sungkyunkwan University](https://sites.google.com/view/sorolabo/home)
+25. [Soft Robotics Research Group](https://www.bristol.ac.uk/engineering/research/softlab/)
 
 ## Other
 1. [Haptic exploration](https://www.imperial.ac.uk/morph-lab/research/haptic-exploration/)
