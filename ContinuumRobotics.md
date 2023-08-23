@@ -29,6 +29,10 @@ robot simulator. <sup></sup>
 6. [Variable-Grasping-Mode Gripper With Different Finger Structures For Grasping Small-Sized Items](https://www.youtube.com/watch?v=1lSbl95MFbA)
 7. [DIY Soft Robotic Gripper](https://www.youtube.com/watch?v=uPx8xwRpfFk)
 8. [The Advantage of Fins with Pliant Energy Systems | Ep. 325](https://www.youtube.com/watch?v=sTpK1c08ohE)
+9. [Company: Automated Picking Solutions](https://www.softroboticsinc.com/)
+10. [Soft Robotics Toolkit](https://softroboticstoolkit.com/)
+11. [Harvard Biodesign Lab - Augmenting and restoring human performance](https://biodesign.seas.harvard.edu/soft-robotics)
+12. 
 
 ## Other
 1. [Haptic exploration](https://www.imperial.ac.uk/morph-lab/research/haptic-exploration/)
