@@ -46,6 +46,7 @@ robot simulator. <sup></sup>
 23. [Nature Collection: Soft Robotics: Sensing, Actuation, and Integration](https://www.nature.com/collections/bgfdjghifc)
 24. [Soft Robotics Lab (SoRo) in Sungkyunkwan University](https://sites.google.com/view/sorolabo/home)
 25. [Soft Robotics Research Group](https://www.bristol.ac.uk/engineering/research/softlab/)
+26. [video: George Whitesides: Soft Robots](https://www.youtube.com/watch?v=Lhbh-aEWRFU)
 
 ## Other
 1. [Haptic exploration](https://www.imperial.ac.uk/morph-lab/research/haptic-exploration/)
