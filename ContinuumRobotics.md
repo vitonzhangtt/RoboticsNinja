@@ -48,6 +48,8 @@ robot simulator. <sup></sup>
 25. [Soft Robotics Research Group](https://www.bristol.ac.uk/engineering/research/softlab/)
 26. [video: George Whitesides: Soft Robots](https://www.youtube.com/watch?v=Lhbh-aEWRFU)
 27. [The incredible potential of flexible, soft robots | Giada Gerboni](https://www.youtube.com/watch?v=AI7M-JTC6_w)
+28. [Snake Arm / Elephant’s Trunk experiment](https://www.youtube.com/watch?v=EUEp-AfvvzE)
+29. [Continuum robot arm progress. Yamamoto laboratory 2018](https://www.youtube.com/watch?v=iNtAn3t79fs)
 
 ## Other
 1. [Haptic exploration](https://www.imperial.ac.uk/morph-lab/research/haptic-exploration/)
