@@ -11,3 +11,5 @@
 7. [A review of motion planning algorithms for intelligent robots](https://link.springer.com/article/10.1007/s10845-021-01867-z) (To Read)
 8. [Robot Motion Planning](http://ais.informatik.uni-freiburg.de/teaching/ss11/robotics/slides/18-robot-motion-planning.pdf) (To Read)
 9. [Robot Motion Planning](https://resources.mpi-inf.mpg.de/departments/d1/teaching/ss10/Seminar_CGGC/Slides/06_Bazhenova_RMP.pdf)
+10. [video: RSS 2023: Convex Geometric Motion Planning on Lie Groups via Moment Relaxation
+](https://www.youtube.com/watch?v=othZX-T-r5A)
