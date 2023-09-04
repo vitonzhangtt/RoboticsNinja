@@ -13,6 +13,13 @@
 
 ### macos
 
+## GUI Application 
+
+TODO: [1], [2], [3]
+
+### Running Linux GUI Application on macOS using Docker
+
+TODO: [7], [8], [9], [10]
 
 ## XPRA
 
@@ -24,3 +31,6 @@
 5. [Installing ROS 2 on macOS with Docker - Use Docker containers to get started with ROS development](https://foxglove.dev/blog/installing-ros2-on-macos-with-docker)
 6. [A Guide to Running GUI Applications in a Docker Container](https://janert.me/guides/running-gui-applications-in-a-docker-container/) (AAAA+)
 7. [Running GUI applications using Docker in Mac, Linux and Windows](https://turgaykivrak.medium.com/running-gui-applications-using-docker-in-mac-linux-and-windows-b280c1fb52d0)
+8. [Running a Docker Container with GUI on Mac OS](https://affolter.net/running-a-docker-container-with-gui-on-mac-os/)
+9. [Run Linux GUI Apps on macOS using Docker](https://www.youtube.com/watch?v=cNDR6Z24KLM) (AAAAA)
+10. [Running GUI applications using Docker for Mac](https://sourabhbajaj.com/blog/2017/02/07/gui-applications-docker-mac/)
