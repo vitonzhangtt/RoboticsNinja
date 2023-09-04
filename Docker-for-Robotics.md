@@ -2,9 +2,14 @@
 
 ## ROS2 Docker GUI for X <sup>[3]</sup>
 
+### XServer
+
+
 ### Windows
 
+
 ### Linux
+
 
 ### macos
 
@@ -17,4 +22,5 @@
 3. [ROS2 Docker GUI for Windows and Linux](https://www.youtube.com/watch?v=qWuudNxFGOQ) (To Read)
 4. [F1TENTH T01 - Tutorial on Docker and ROS2](https://www.youtube.com/watch?v=EU-QaO6xTv4) (AAA)
 5. [Installing ROS 2 on macOS with Docker - Use Docker containers to get started with ROS development](https://foxglove.dev/blog/installing-ros2-on-macos-with-docker)
-6. [A Guide to Running GUI Applications in a Docker Container](https://janert.me/guides/running-gui-applications-in-a-docker-container/)
+6. [A Guide to Running GUI Applications in a Docker Container](https://janert.me/guides/running-gui-applications-in-a-docker-container/) (AAAA+)
+7. [Running GUI applications using Docker in Mac, Linux and Windows](https://turgaykivrak.medium.com/running-gui-applications-using-docker-in-mac-linux-and-windows-b280c1fb52d0)
