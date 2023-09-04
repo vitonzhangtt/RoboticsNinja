@@ -21,6 +21,13 @@ TODO: [1], [2], [3]
 
 TODO: [7], [8], [9], [10]
 
+#### XQuartz
+The XQuartz project is an open-source effort to develop a version of <br>
+the X.Org X Window System that runs on macOS. 
+
+[quartz-wm](https://gitlab.freedesktop.org/xorg/app/quartz-wm) is the window manager used by XQuartz to bring an OS X-like experience to X11 applications.
+
+
 ## XPRA
 
 ## Reference
@@ -34,3 +41,4 @@ TODO: [7], [8], [9], [10]
 8. [Running a Docker Container with GUI on Mac OS](https://affolter.net/running-a-docker-container-with-gui-on-mac-os/)
 9. [Run Linux GUI Apps on macOS using Docker](https://www.youtube.com/watch?v=cNDR6Z24KLM) (AAAAA)
 10. [Running GUI applications using Docker for Mac](https://sourabhbajaj.com/blog/2017/02/07/gui-applications-docker-mac/)
+11. [XQuartz](https://www.xquartz.org/releases/index.html)
