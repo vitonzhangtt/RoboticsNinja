@@ -28,3 +28,4 @@ TODO: [10], [11]
 11. [GETTING RVIZ2 AND RQT TO WORK IN DOCKER - LETS LEARN HOW TO REDIRECT OUR X11 DISPLAY](https://www.kevsrobots.com/learn/learn_ros/14_docker_x11.html) (AAAA)
 12. [ROS 2 developer guide](https://docs.ros.org/en/iron/The-ROS2-Project/Contributing/Developer-Guide.html)
 13. [ROS development on Linux, Windows and macOS](https://ubuntu.com/blog/ros-development-on-linux-windows-and-macos) (To Debug)
+14. [video: Learn ROS with me](https://www.youtube.com/playlist?list=PLU9tksFlQRircAdEplrH9NMm4WtSA8yzi)
