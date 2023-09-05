@@ -19,7 +19,7 @@ TODO: [1], [2], [3]
 
 ### Running Linux GUI Application on macOS using Docker
 
-TODO: [7], [8], [9], [10]
+TODO: [12], [7], [8], [9], [10]
 
 #### XQuartz
 The XQuartz project is an open-source effort to develop a version of <br>
@@ -45,3 +45,4 @@ TODO: [5]
 9. [Run Linux GUI Apps on macOS using Docker](https://www.youtube.com/watch?v=cNDR6Z24KLM) (AAAAA)
 10. [Running GUI applications using Docker for Mac](https://sourabhbajaj.com/blog/2017/02/07/gui-applications-docker-mac/)
 11. [XQuartz](https://www.xquartz.org/releases/index.html)
+12. [How to run dockerized X Windows apps on macOS](http://mamykin.com/posts/running-x-apps-on-mac-with-docker/) (AAAA+)
