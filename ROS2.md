@@ -5,6 +5,14 @@
 
 TODO: [9]
 
+
+## Tools
+
+### RViz
+RViz: ROS 3D Robot Visualizer
+
+TODO: [10], [11]
+
 ## Reference
 1. [Installing ROS 2 on macOS with Docker](https://foxglove.dev/blog/installing-ros2-on-macos-with-docker)
 2. [video: ROS2 Nav2 - Navigation Stack in 1 Hour](https://www.youtube.com/watch?v=idQb2pB-h2Q)
@@ -15,3 +23,5 @@ TODO: [9]
 7. [video: ROS tutorial - RoboLearning with Mohammad](https://www.youtube.com/playlist?list=PLDjgHhClgpyQqk6FS-xTfvankuRczxA2_)
 8. [ROS docker image](https://hub.docker.com/r/osrf/ros)
 9. [How To Install ROS 2 in Ubuntu 22.04 On M1/M2 Mac](https://www.theroboticsspace.com/blog/How-To-Install-ROS-2-in-Ubuntu-22-04-On-M1-Mac/)
+10. [RViz github](https://github.com/ros2/rviz) (To Debug)
+11. [GETTING RVIZ2 AND RQT TO WORK IN DOCKER - LETS LEARN HOW TO REDIRECT OUR X11 DISPLAY](https://www.kevsrobots.com/learn/learn_ros/14_docker_x11.html) (AAAA)
