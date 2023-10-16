@@ -29,3 +29,4 @@ TODO: [10], [11]
 12. [ROS 2 developer guide](https://docs.ros.org/en/iron/The-ROS2-Project/Contributing/Developer-Guide.html)
 13. [ROS development on Linux, Windows and macOS](https://ubuntu.com/blog/ros-development-on-linux-windows-and-macos) (To Debug) (AAAAA)
 14. [video: Learn ROS with me](https://www.youtube.com/playlist?list=PLU9tksFlQRircAdEplrH9NMm4WtSA8yzi)
+15. [Behavior Trees for Robotic Applications (ROS2) in C++](https://markus-x-buchholz.medium.com/behavior-trees-in-c-for-robotic-applications-ros2-775ec0e97856)
