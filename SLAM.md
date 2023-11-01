@@ -122,6 +122,10 @@ only work for short distances (e.g. indoors). <sup>[11]</sup>
 
 ### Visual Odometry <sup>[19]</sup>
 
+## Open Source Project
+
+### OpenVINS
+
 ## Reference
 1. [The future of spatial intelligence is here](https://www.slamcore.com/)
 2. [Spatial AI: Augmenting SLAM technology with deep learning](https://blog.slamcore.com/spatial-ai-slam-deep-learning)
@@ -163,3 +167,4 @@ only work for short distances (e.g. indoors). <sup>[11]</sup>
 38. [Comparison of Visual SLAM Algorithms ORB-SLAM2, RTAB-Map and SPTAM in indoor and outdoor with ROS.](https://www.youtube.com/watch?v=1ltnAPNHOe8)
 39. [Unlocking the power of SLAM: Navigation and Mapping in Real-Time](https://medium.com/@kushantp179/unlocking-the-power-of-slam-navigation-and-mapping-in-real-time-febb8313fb77)
 40. [Exploring Graph SLAM: A Comprehensive Guide to Simultaneous Localization and Mapping (Part I)](https://medium.com/@kushantp179/exploring-graph-slam-a-comprehensive-guide-to-simultaneous-localization-and-mapping-part-i-52281bbf6b9c)
+41. To Read: [Comparison of **modern open-source Visual SLAM** approaches](https://arxiv.org/pdf/2108.01654.pdf)
