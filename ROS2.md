@@ -31,3 +31,4 @@ TODO: [10], [11]
 14. [video: Learn ROS with me](https://www.youtube.com/playlist?list=PLU9tksFlQRircAdEplrH9NMm4WtSA8yzi)
 15. [Behavior Trees for Robotic Applications (ROS2) in C++](https://markus-x-buchholz.medium.com/behavior-trees-in-c-for-robotic-applications-ros2-775ec0e97856)
 16. [Embarking on a Robotic Adventure: An Introduction to ROS (Robot Operating System)](https://medium.com/@kushantp179/embarking-on-a-robotic-adventure-an-introduction-to-ros-robot-operating-system-1d7972ca249d)
+17. [A Beginners guide to ROS2](https://medium.com/@tetraengnrng/a-beginners-guide-to-ros2-29721dcf49c8)
