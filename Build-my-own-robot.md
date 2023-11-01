@@ -18,4 +18,4 @@
 3. Book: [Build Your Own Robot - Using Python, CRICKIT, and Raspberry PI](https://www.manning.com/books/build-your-own-robot)
 4. [Building a mobile robot - Articulated Robotics](https://www.youtube.com/playlist?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT) (AAAA+) (To Read)
 5. [Building Cheapest ROS2 Robot using ESP32 — Part 2— Testing & Calibration](https://robofoundry.medium.com/building-cheapest-ros2-robot-using-esp32-part-2-testing-calibration-3f2c6af55698)
-6. 
+6. [Make your own self-driving RC car using Python and Raspberry Pi (Part 1 - Introduction)](https://medium.com/@zaid.killam/make-your-own-self-driving-rc-car-using-python-and-raspberry-pi-part-1-introduction-188ac7a2e023) [To Debug]
