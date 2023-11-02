@@ -173,3 +173,4 @@ only work for short distances (e.g. indoors). <sup>[11]</sup>
 41. To Read: [Comparison of **modern open-source Visual SLAM** approaches](https://arxiv.org/pdf/2108.01654.pdf)
 42. [A Quantitative Analysis of System Bottlenecks in Visual SLAM (2022)](https://dl.acm.org/doi/pdf/10.1145/3508396.3512882)
 43. [Robust SLAM Systems: Are We There Yet?](https://pure.manchester.ac.uk/ws/portalfiles/portal/198589824/robustSLAM_IROS21_0614_FI.pdf)
+44. Book: [3D Spatial Perception with Real-Time Dense Metric-Semantic SLAM](https://dspace.mit.edu/bitstream/handle/1721.1/150288/RosinolVidal-arosinol-PhD-AeroAstro-2023-thesis.pdf?sequence=1&isAllowed=y) [To Read]
