@@ -172,3 +172,4 @@ only work for short distances (e.g. indoors). <sup>[11]</sup>
 40. [Exploring Graph SLAM: A Comprehensive Guide to Simultaneous Localization and Mapping (Part I)](https://medium.com/@kushantp179/exploring-graph-slam-a-comprehensive-guide-to-simultaneous-localization-and-mapping-part-i-52281bbf6b9c)
 41. To Read: [Comparison of **modern open-source Visual SLAM** approaches](https://arxiv.org/pdf/2108.01654.pdf)
 42. [A Quantitative Analysis of System Bottlenecks in Visual SLAM (2022)](https://dl.acm.org/doi/pdf/10.1145/3508396.3512882)
+43. [Robust SLAM Systems: Are We There Yet?](https://pure.manchester.ac.uk/ws/portalfiles/portal/198589824/robustSLAM_IROS21_0614_FI.pdf)
