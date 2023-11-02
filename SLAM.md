@@ -114,6 +114,9 @@ only work for short distances (e.g. indoors). <sup>[11]</sup>
 
 ### NeRF-SLAM
 
+### System Bottlenecks of Visual SLAM
+[42]
+
 ## Triangulation
 
 
@@ -168,3 +171,4 @@ only work for short distances (e.g. indoors). <sup>[11]</sup>
 39. [Unlocking the power of SLAM: Navigation and Mapping in Real-Time](https://medium.com/@kushantp179/unlocking-the-power-of-slam-navigation-and-mapping-in-real-time-febb8313fb77)
 40. [Exploring Graph SLAM: A Comprehensive Guide to Simultaneous Localization and Mapping (Part I)](https://medium.com/@kushantp179/exploring-graph-slam-a-comprehensive-guide-to-simultaneous-localization-and-mapping-part-i-52281bbf6b9c)
 41. To Read: [Comparison of **modern open-source Visual SLAM** approaches](https://arxiv.org/pdf/2108.01654.pdf)
+42. [A Quantitative Analysis of System Bottlenecks in Visual SLAM (2022)](https://dl.acm.org/doi/pdf/10.1145/3508396.3512882)
