@@ -25,6 +25,7 @@
 5. [CSC2541:Visual Perception for Autonomous Driving - Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html#syllabus)
 6. [MIT16.485 - Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) (AAAA+)
 7. [F1TENTH Course - xLAB for Safe Autonomous Systems](https://www.youtube.com/playlist?list=PL7rtKJAz_mPdFDJtufKmqfWRNu55s_LMc)
+8. [MIT 6.8210: Underactuated Robotics - Algorithms for Walking, Running, Swimming, Flying, and Manipulation](https://underactuated.csail.mit.edu/Spring2023/index.html) (AAAA+)
 
 ## Youtube Channels 
 1. [Murtaza's Workshop - Robotics and AI ](https://www.youtube.com/@murtazasworkshop/featured)
