@@ -62,3 +62,8 @@ and understand the internal state and data of your systems with minimal code.
 1. [Rerun: An Open Source Package For Beautiful Visualizations | Ep. 365](https://www.youtube.com/watch?v=GMHGC_OPrcE)
 2. [Visualize computer vision](https://www.rerun.io/)
 3. [rerun Github](https://github.com/rerun-io/rerun) (Rust) (To Debug)
+   
+### Drake: Model-based design and verification for robotics.
+1. [Github](https://github.com/RobotLocomotion/drake)
+2. [Website](https://drake.mit.edu/)
+3. [Drake: Model-based design in the age of robotics and machine learning](https://medium.com/toyotaresearch/drake-model-based-design-in-the-age-of-robotics-and-machine-learning-59938c985515)
