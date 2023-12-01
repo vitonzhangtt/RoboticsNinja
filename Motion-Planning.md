@@ -1,7 +1,11 @@
 # Motion Planning
 
+## Books
 
-##
+### Principles of Robot Motion - Theory Algorithms and Implementations (2005)
+
+
+## Reference
 1. [Robot Motion Planning @ CMU](https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/020807motion.pdf)
 2. [Motion Planning in Robotics](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/basicmotion.html)
 3. [Robotic Path Planning](https://fab.cba.mit.edu/classes/865.21/topics/path_planning/robotic.html)
