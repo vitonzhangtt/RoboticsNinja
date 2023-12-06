@@ -5,11 +5,17 @@ Unmanned aerial vehicles (UAV) are a class of aircrafts that can fly without the
 
 ## Multirotor UAV(多旋翼无人机)
 
+## Simulator
+
+### RotorPy
+
 ## Dronecode
 [3]
 
 ## PX4
 [1]
+
+## Aerodynamics (空气动力学)
 
 ## Links for Drone
 
@@ -24,3 +30,4 @@ Table: Links
 2. [Make a drone from beginning](https://medium.com/@abdullahorzan/make-a-drone-from-beginning-part-1-60cfe5d36c5a)
 3. Dronecode: [We are setting the standards in the drone industry with open-source.](https://dronecode.org/)
 4. [Top Drone Flight Simulators](https://uavcoach.com/drone-flight-simulator/#guide-6)
+5. RotorPy: [A multirotor simulator with aerodynamics for education and research.](https://github.com/spencerfolk/rotorpy)
