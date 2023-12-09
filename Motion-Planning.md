@@ -4,6 +4,20 @@
 
 ## Configuration Space (C-Space)
 
+### Configuration
+The key problem is to make sure no point on the robot hits an obstacle, so we need <br>
+a way to represent the location of all the points on the robot. **This representation** <br>
+is the **configuration** of the robot, and the **configuration space** is the space of all <br>
+configurations the robot can achieve. <sup>[12]</sup>
+
+The **configuration** of a robot system is a **complete specification** of the position of <br>
+every point of that system. The **configuration space**, or **C-space**, of the robot <br>
+system is the space of all possible configurations of the system. <br>
+Thus a configuration is simply a point in this abstract configuration space. <sup>[12]</sup>
+
+The number of **degrees of freedom** of a robot system is the dimension of the configuration <br>
+space, or the minimum number of parameters needed to specify the configuration. <sup>[12]</sup>
+
 ## Forward Kinematics
 
 
@@ -30,4 +44,5 @@ reverse operation: computing configuration(s) to reach a desired workspace coord
 9. [Robot Motion Planning](https://resources.mpi-inf.mpg.de/departments/d1/teaching/ss10/Seminar_CGGC/Slides/06_Bazhenova_RMP.pdf)
 10. [video: RSS 2023: Convex Geometric Motion Planning on Lie Groups via Moment Relaxation](https://www.youtube.com/watch?v=othZX-T-r5A)
 11. Book: [Robotic Systems by Kris Hauser](https://motion.cs.illinois.edu/RoboticSystems/) (AAAA+)
+12. Book: Principles of Robot Motion - Theory Algorithms and Implementations (2005)
 
