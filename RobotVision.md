@@ -34,6 +34,9 @@ http://www.cs.toronto.edu/~florian/
 ### Robot Vision and Learning (RVL) lab 
 https://rvl.cs.toronto.edu/#/
 
+## Cloud Platform
+[12]
+
 ## Reference
 1. [Introduction to Robot Vision](https://www.youtube.com/watch?v=61NEsd4QlfY)
 2. [Computer vision applications in robotics](https://www.superannotate.com/blog/computer-vision-robotics)
@@ -46,6 +49,7 @@ https://rvl.cs.toronto.edu/#/
 9. [Camera Calibration — Theory and Implementation](https://medium.com/analytics-vidhya/camera-calibration-theory-and-implementation-b253dad449fb)
 10. [Computer vision for the next generation of autonomous robots 2023.10.10](https://www.youtube.com/watch?v=_XxVknqI1wk) (To Read)
 11. [Computer Vision and Robotics](https://medium.com/@lukekerbs/computer-vision-and-robotics-f10c4ea16d44)
+12. [RobotHub: LUXONIS Pioneering Cloud Platform for Robotic Vision](https://medium.com/@muhammadsamiuddinrafayf18/robothub-luxonis-pioneering-cloud-platform-for-robotic-vision-da298e1f7d7a)
 
 
 
