@@ -36,6 +36,8 @@
 ## Youtube Channels 
 1. [Murtaza's Workshop - Robotics and AI ](https://www.youtube.com/@murtazasworkshop/featured)
 2. [Muhammad Luqman](https://www.youtube.com/@robotisim/featured)
+3. [ROS-I Consortium](https://www.youtube.com/@ros-iconsortium8500/videos)
+4. [UTS Robotics Institute](https://www.youtube.com/@UTSRoboticsInstitute)
 
 ## Open Source
 1. [Open Robotics](https://www.openrobotics.org/) (Open Source Robotics Foundation)
