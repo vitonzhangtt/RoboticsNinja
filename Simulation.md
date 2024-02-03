@@ -17,6 +17,7 @@ Table-1: Robotic simulation platform <sup>[6]</sup>
 ## Isaac Sim
 
 ## Gazebo
+TODO
 
 ## Webots
 TODO: [Webots Robot Simulator](https://github.com/cyberbotics/webots)
