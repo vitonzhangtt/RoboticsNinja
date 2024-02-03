@@ -13,9 +13,13 @@
 1. [New Physics Video Playlist (AAAA)](https://www.youtube.com/playlist?list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
 2. [Physics (AAAA+)](https://byjus.com/physics/)
 
-## Geometric
+## Math
+
+### Geometric
 1. [Geometric foundations of robotics](http://mat.puc-rio.br/~sergey/robo.html)
 2. [Manifolds, Geometry, and Robotics](https://roboticsconference.org/docs/invitedtalks/park-manifoldsgeometryandrobotics.pdf)
+
+
 
 ## Book
 1. A Mathematical Introduction to Robotic Manipulation (1994)
