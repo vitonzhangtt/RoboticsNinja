@@ -20,6 +20,10 @@
 ## Book
 1. A Mathematical Introduction to Robotic Manipulation (1994)
 2. [Springer Tracts in Advanced Robotics](https://www.amazon.com/-/zh/dp/B08CN2LFNC)
+3. [Book to Learn Robotics in 2024](https://www.robotisim.com/book-to-for-learning-robotics) [To Read]
+
+## Roadmap
+1. [Learning Robotics From Scratch for Free 2024](https://www.robotisim.com/learning-robotics-with-online-resourcces-) [To Read]
 
 ## Course
 1. [MEE5114-Sp23 Advanced Control for Robotics](https://www.wzhanglab.site/teaching/advanced-control-for-robotics-sp23/)
