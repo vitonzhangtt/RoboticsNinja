@@ -14,6 +14,16 @@ RViz: ROS 3D Robot Visualizer
 
 TODO: [10], [11]
 
+## Catkin
+
+### Reference
+1. [Catkin Command Line Tools](https://catkin-tools.readthedocs.io/en/latest/index.html)
+2. [Part 1: Getting Started with ROS — Overview, Installation and ROS Computational Graph Model](https://medium.com/analytics-vidhya/getting-started-with-ros-overview-installation-and-ros-computational-graph-model-e94d7a16187f)
+3. [Part 2: 7 Simple Steps to Create and Build Your First ROS Package](https://medium.com/swlh/7-simple-steps-to-create-and-build-our-first-ros-package-7e3080d36faa)
+4. [Part 3: Create Your First ROS Publisher and Subscriber Nodes](https://medium.com/swlh/part-3-create-your-first-ros-publisher-and-subscriber-nodes-2e833dea7598)
+
+<hr/>
+
 ## Reference
 1. [Installing ROS 2 on macOS with Docker](https://foxglove.dev/blog/installing-ros2-on-macos-with-docker)
 2. [video: ROS2 Nav2 - Navigation Stack in 1 Hour](https://www.youtube.com/watch?v=idQb2pB-h2Q)
