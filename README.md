@@ -15,3 +15,6 @@ TODO: Move to a more suitable document.
 
 1. [Create your own Robot Framework Library with Python](https://www.youtube.com/watch?v=gutNvX3L-e4)
 2. [All You Need To Know About Robot Framework With Python](https://medium.com/edureka/robot-framework-tutorial-f8a75ab23cfd)
+
+## News
+1. [Robotics and Automation News](https://roboticsandautomationnews.com/)
