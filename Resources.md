@@ -25,6 +25,7 @@
 1. A Mathematical Introduction to Robotic Manipulation (1994)
 2. [Springer Tracts in Advanced Robotics](https://www.amazon.com/-/zh/dp/B08CN2LFNC)
 3. [Book to Learn Robotics in 2024](https://www.robotisim.com/book-to-for-learning-robotics) [To Read]
+4. [Mobile Robotics: Mathematics Models and Methods](https://www.cs.cmu.edu/~alonzo/books/books.html)
 
 ## Roadmap
 1. [Learning Robotics From Scratch for Free 2024](https://www.robotisim.com/learning-robotics-with-online-resourcces-) [To Read]
