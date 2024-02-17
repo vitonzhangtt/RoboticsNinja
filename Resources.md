@@ -54,6 +54,10 @@
 1. [Open Robotics](https://www.openrobotics.org/) (Open Source Robotics Foundation)
 2. [Introduction to Open-Source Robotics](http://www.osrobotics.org/osr/)
 
+
+### OpenRR 
+1. [OpenRR (pronounced like "opener") is Open Rust Robotics platform.](https://github.com/openrr/openrr)
+
 ### FOSSBot
 1. [Development of a Web Based robotic simulator for the DIY robot kit for educators](https://summerofcode.withgoogle.com/programs/2023/projects/xsxF9klm)
 2. [FOSSbot: An open source and open design educational robot](https://fosdem.org/2023/schedule/event/fossbot/)
