@@ -18,3 +18,4 @@ TODO: Move to a more suitable document.
 
 ## News
 1. [Robotics and Automation News](https://roboticsandautomationnews.com/)
+2. [Robohub](https://robohub.org/) (AAAA) | [Robohub Podcast](https://robohub.org/podcast/) (AAAA+)
