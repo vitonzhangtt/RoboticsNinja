@@ -7,6 +7,11 @@ TODO: [9]
 
 ## Dev Guide
 
+### Tutorials
+[19], [20], [21]
+
+
+
 ## Tools
 
 ### RViz
@@ -18,9 +23,7 @@ TODO: [10], [11]
 
 ### Reference
 1. [Catkin Command Line Tools](https://catkin-tools.readthedocs.io/en/latest/index.html)
-2. [Part 1: Getting Started with ROS — Overview, Installation and ROS Computational Graph Model](https://medium.com/analytics-vidhya/getting-started-with-ros-overview-installation-and-ros-computational-graph-model-e94d7a16187f)
-3. [Part 2: 7 Simple Steps to Create and Build Your First ROS Package](https://medium.com/swlh/7-simple-steps-to-create-and-build-our-first-ros-package-7e3080d36faa)
-4. [Part 3: Create Your First ROS Publisher and Subscriber Nodes](https://medium.com/swlh/part-3-create-your-first-ros-publisher-and-subscriber-nodes-2e833dea7598)
+
 
 <hr/>
 
@@ -43,3 +46,6 @@ TODO: [10], [11]
 16. [Embarking on a Robotic Adventure: An Introduction to ROS (Robot Operating System)](https://medium.com/@kushantp179/embarking-on-a-robotic-adventure-an-introduction-to-ros-robot-operating-system-1d7972ca249d)
 17. [A Beginners guide to ROS2](https://medium.com/@tetraengnrng/a-beginners-guide-to-ros2-29721dcf49c8)
 18. Book: [A Gentle Introduction to ROS](https://jokane.net/agitr/)
+19. [Part 1: Getting Started with ROS — Overview, Installation and ROS Computational Graph Model](https://medium.com/analytics-vidhya/getting-started-with-ros-overview-installation-and-ros-computational-graph-model-e94d7a16187f)
+20. [Part 2: 7 Simple Steps to Create and Build Your First ROS Package](https://medium.com/swlh/7-simple-steps-to-create-and-build-our-first-ros-package-7e3080d36faa)
+21. [Part 3: Create Your First ROS Publisher and Subscriber Nodes](https://medium.com/swlh/part-3-create-your-first-ros-publisher-and-subscriber-nodes-2e833dea7598)
