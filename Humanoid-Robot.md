@@ -21,4 +21,5 @@
 11. [Design of a 3D Printed Open Source Humanoid Robot](https://dergipark.org.tr/en/pub/bitlisfen/issue/71012/998006)
 12. [A simulation platform design and kinematics analysis of MRL-HSL humanoid robot](https://2019.robocup.org/downloads/program/GholamiEtAl2019.pdf)
 13. [Humanoid Virtual Athletics Challenge](https://ytazz.github.io/vnoid/)
+14. Book: Humanoid Robotics - A Reference (2019) (AAAA+)
 
