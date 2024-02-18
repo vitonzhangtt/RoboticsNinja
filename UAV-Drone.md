@@ -40,3 +40,4 @@ Table: Links
 5. RotorPy: [A multirotor simulator with aerodynamics for education and research.](https://github.com/spencerfolk/rotorpy)
 6. AirSim : [Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research](https://github.com/microsoft/AirSim) |
 7. [dronedeploy: Transforming the way businesses collect, manage and interpret reality capture data from drones, 360 cameras and mobile ground robots.](https://dronedeploy.com/) | [Forum](https://forum.dronedeploy.com/)
+8. [Controlling a Drone After Sudden Rotor Failure #ICRA2022 with Sihao Sun](https://robohub.org/controlling-a-drone-after-sudden-rotor-failure-icra2022/)
