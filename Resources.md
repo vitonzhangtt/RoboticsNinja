@@ -48,6 +48,7 @@
 10. CMU 16-362: [MRAL:Mobile Robot Algorithms Laboratory, Fall 2023](https://mral-cmu.github.io/pages/schedule.html)
 11. [The Construct - Learning Platform for Robotics](theconstructsim.com) [To Read]
 12. [ROB 502: Programming for Robotics Fall 2022](https://berenson.robotics.umich.edu/courses/fall2022pfr/index.html)
+13. [Robotics Winter 2024 Course List](https://robotics.umich.edu/academics/courses/course-offerings/) (AAAA+)
 
 
 ## Youtube Channels 
