@@ -10,6 +10,8 @@ TODO: [9]
 ### Tutorials
 [19], [20], [21]
 
+### URDF
+[22]
 
 
 ## Tools
@@ -49,3 +51,4 @@ TODO: [10], [11]
 19. [Part 1: Getting Started with ROS — Overview, Installation and ROS Computational Graph Model](https://medium.com/analytics-vidhya/getting-started-with-ros-overview-installation-and-ros-computational-graph-model-e94d7a16187f)
 20. [Part 2: 7 Simple Steps to Create and Build Your First ROS Package](https://medium.com/swlh/7-simple-steps-to-create-and-build-our-first-ros-package-7e3080d36faa)
 21. [Part 3: Create Your First ROS Publisher and Subscriber Nodes](https://medium.com/swlh/part-3-create-your-first-ros-publisher-and-subscriber-nodes-2e833dea7598)
+22. [Getting Ready for ROS Part 7: Describing a robot with URDF](https://articulatedrobotics.xyz/ready-for-ros-7-urdf/) [To Read]
