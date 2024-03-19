@@ -21,8 +21,7 @@ TODO: google "Geometry in Robotics"
 [ROB 501: Subspaces & Linear Independence](https://www.youtube.com/watch?v=PL6AkVR-HUk&list=PLdPQZLMHRjDIzO99aE7yAtdOHSVHMXfYH&index=4)
 
 #### Vector Space
-* [VECTOR SPACES AND SUBSPACES](https://github.com/vitonzhangtt/RoboticsNinja/files/14644633/linalglecturenotes.pdf)
-
+* [VECTOR SPACES AND SUBSPACES](https://github.com/vitonzhangtt/RoboticsNinja/files/14644633/linalglecturenotes.pdf) | [Online](https://courses.smp.uq.edu.au/MATH2301/linalglecturenotes.pdf)
 * [Vector Space](https://byjus.com/maths/vector-space/)
 * wiki: [Vector Space](https://en.wikipedia.org/wiki/Vector_space)
 
