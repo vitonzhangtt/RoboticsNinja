@@ -45,7 +45,7 @@
 7. [F1TENTH Course - xLAB for Safe Autonomous Systems](https://www.youtube.com/playlist?list=PL7rtKJAz_mPdFDJtufKmqfWRNu55s_LMc)
 8. MIT 6.8210: [Underactuated Robotics - Algorithms for Walking, Running, Swimming, Flying, and Manipulation](https://underactuated.csail.mit.edu/Spring2023/index.html) (AAAA+)
 9. MIT 6.4210/6.4212: [Robotic Manipulation - Perception, Planning, and Control](https://manipulation.csail.mit.edu/index.html)
-10. CMU 16-362: [MRAL:Mobile Robot Algorithms Laboratory, Fall 2023](https://mral-cmu.github.io/pages/schedule.html)
+10. CMU 16-362: [MRAL:Mobile Robot Algorithms Laboratory, Fall 2023](https://mral-cmu.github.io/pages/schedule.html) (AAAA+)
 11. [The Construct - Learning Platform for Robotics](theconstructsim.com) [To Read]
 12. [ROB 502: Programming for Robotics Fall 2022](https://berenson.robotics.umich.edu/courses/fall2022pfr/index.html)
 13. [Robotics Winter 2024 Course List](https://robotics.umich.edu/academics/courses/course-offerings/) (AAAA+)
