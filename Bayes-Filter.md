@@ -3,6 +3,13 @@
 ## Related Topic
 Kalman Filter, 
 
+
+
+
+
+
+
+
 ## Reference
 1. [Lecture 02-Bayes Filters-Kalman Filtering](https://www.youtube.com/watch?v=2__ktwJrMf8&list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F&index=2)
 2. wiki: [Recursive Bayesian estimation](https://en.wikipedia.org/wiki/Recursive_Bayesian_estimation)
@@ -14,4 +21,4 @@ Bayes Filter and Related Models](http://ais.informatik.uni-freiburg.de/teaching/
 7. [Introduction to recursive Bayesian filtering](https://people.csail.mit.edu/mrub/talks/filtering.pdf) [To Read]
 8. [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 9. [The Bayes Filter: A Tool Every Roboticist Should Know](https://www.youtube.com/watch?v=nVU1DQ-_R5E)
-10. 
+10. [The Bayes Filter](https://medium.com/@vikramsetty169/the-bayes-filter-71f8b61afc1c) about Bayes Filter and SLAM. (AAAA)
