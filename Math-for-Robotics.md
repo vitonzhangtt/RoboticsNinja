@@ -14,6 +14,12 @@ TODO: google "Geometry in Robotics"
 ## Abstract Linear Algebra
 [6]
 
+## Robotics 501: Mathematics for Robotics <sup>[1]</sup>
+
+### Field, Vector Space, Subspace, Linear Independence
+
+[ROB 501: Subspaces & Linear Independence](https://www.youtube.com/watch?v=PL6AkVR-HUk&list=PLdPQZLMHRjDIzO99aE7yAtdOHSVHMXfYH&index=4)
+
 
 ## Reference
 1. [Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501) [To Read]
@@ -21,5 +27,5 @@ TODO: google "Geometry in Robotics"
 3. [Explore the Vital Role of Geometry in Robotics with our Mind Map: Kinematics, Path Planning, Control, Computer Vision, Design, Localization, Mapping, Calibration, Manipulation, Simulation, and Human-Robot Interaction!](https://gogeometry.com/robotics/robotics-ways-in-which-geometry-is-used-mind-map.html#:~:text=Geometry%20is%20used%20to%20develop,a%20precise%20and%20predictable%20manner.) [To Read]
 4. [Mobile Robotics: Mathematics Models and Methods](https://www.cs.cmu.edu/~alonzo/books/books.html) [To Read]
 5. [Maths helps in Robotics](https://www.winaumlearning.com/robotics/)
-6. [Abstract Linear Algebra](https://www.youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk)
+6. [Abstract Linear Algebra](https://www.youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk) about Group, Ring, Field, Vector Space, Vector Subspace. (AAAA) [To Read]
 
