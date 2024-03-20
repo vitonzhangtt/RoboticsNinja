@@ -22,3 +22,4 @@ Bayes Filter and Related Models](http://ais.informatik.uni-freiburg.de/teaching/
 8. [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 9. [The Bayes Filter: A Tool Every Roboticist Should Know](https://www.youtube.com/watch?v=nVU1DQ-_R5E)
 10. [The Bayes Filter](https://medium.com/@vikramsetty169/the-bayes-filter-71f8b61afc1c) about Bayes Filter and SLAM. (AAAA)
+11. [A Discriminative Approach to Bayesian Filtering with Applications to Human Neural Decoding](https://burkh4rt.github.io/pubs/Burkhart-2019.pdf) [To Read]
