@@ -16,3 +16,6 @@
 7. [Kalman Filtering for Attitude Estimation with Quaternions and Concepts from Manifold Theory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6339217/pdf/sensors-19-00149.pdf)
 8. [Kalman Filters: A step by step implementation guide in python](https://medium.com/analytics-vidhya/kalman-filters-a-step-by-step-implementation-guide-in-python-91e7e123b968) (To Read)
 9. [Kalman Filter Part 1 — Introduction](https://medium.com/@mathiasmantelli/kalman-filter-series-introduction-6d2e2b28d4cf) [To Read] (AAAA+)
+10. [Kalman Filter Part 2 — Bayes Filter](https://medium.com/@mathiasmantelli/kalman-filter-part-2-bayes-filter-f2fa9c0b5c95) [To Read]
+11. [Kalman Filter Part 3 — A Formal Discussion](https://medium.com/@mathiasmantelli/kalman-filter-part-3-a-formal-discussion-e1a61b359fef)
+12. [4.2 Bayesian derivation of the Kalman filter](https://www.youtube.com/watch?v=u_xRUxwlaFY) | Video List: [Sensor fusion and nonlinear filtering](https://www.youtube.com/playlist?list=PLTD_k0sZVYFqjFDkJV8GE2EwfxNK59fJY) [To Read]
