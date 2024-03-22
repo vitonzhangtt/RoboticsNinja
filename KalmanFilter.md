@@ -19,3 +19,4 @@
 10. [Kalman Filter Part 2 — Bayes Filter](https://medium.com/@mathiasmantelli/kalman-filter-part-2-bayes-filter-f2fa9c0b5c95) [To Read]
 11. [Kalman Filter Part 3 — A Formal Discussion](https://medium.com/@mathiasmantelli/kalman-filter-part-3-a-formal-discussion-e1a61b359fef)
 12. [4.2 Bayesian derivation of the Kalman filter](https://www.youtube.com/watch?v=u_xRUxwlaFY) | Video List: [Sensor fusion and nonlinear filtering](https://www.youtube.com/playlist?list=PLTD_k0sZVYFqjFDkJV8GE2EwfxNK59fJY) [To Read]
+13. [The math behind Extended Kalman Filtering](https://medium.com/@sasha_przybylski/the-math-behind-extended-kalman-filtering-0df981a87453) [To Read]
