@@ -52,3 +52,4 @@ TODO: [10], [11]
 20. [Part 2: 7 Simple Steps to Create and Build Your First ROS Package](https://medium.com/swlh/7-simple-steps-to-create-and-build-our-first-ros-package-7e3080d36faa)
 21. [Part 3: Create Your First ROS Publisher and Subscriber Nodes](https://medium.com/swlh/part-3-create-your-first-ros-publisher-and-subscriber-nodes-2e833dea7598)
 22. [Getting Ready for ROS Part 7: Describing a robot with URDF](https://articulatedrobotics.xyz/ready-for-ros-7-urdf/) [To Read]
+23. [From ROS to ROS 2: A Comprehensive Guide to the Next Generation Robotics](https://scalexi.medium.com/from-ros-to-ros-2-a-comprehensive-guide-to-the-next-generation-robotics-f93a4e2e5793)
