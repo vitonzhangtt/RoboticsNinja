@@ -61,6 +61,9 @@
 1. [Open Robotics](https://www.openrobotics.org/) (Open Source Robotics Foundation)
 2. [Introduction to Open-Source Robotics](http://www.osrobotics.org/osr/)
 
+### [OMPL: The Open Motion Planning Library](https://ompl.kavrakilab.org/)
+OMPL, the Open Motion Planning Library, consists of many state-of-the-art sampling-based motion planning algorithms. OMPL itself does not contain any code related to, e.g., collision checking or visualization.
+
 
 ### OpenRR 
 1. [OpenRR (pronounced like "opener") is Open Rust Robotics platform.](https://github.com/openrr/openrr)
