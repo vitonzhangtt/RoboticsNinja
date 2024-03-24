@@ -11,3 +11,4 @@
 4. [Model Predictive Path Integral (MPPI) Control in C++](https://markus-x-buchholz.medium.com/model-predictive-path-integral-mppi-control-in-c-b13ea594ca20)
 5. [Mastering Control Theory: Understanding Z-Transform and Its Applications](https://medium.com/@mbugraavci38/introduction-fae9d6b3ed5d)
 6. [Control Theory 11 -  PI Controller Design for DC Motor](https://medium.com/@johnehk86/control-theory-11-pi-controller-design-for-dc-motor-57bd7ad3bf83)
+7. [PID Control for Self-Driving Car Simulation](https://medium.com/@lucas.mirachi/pid-control-for-self-driving-car-simulation-0b3449a0a7c7)
