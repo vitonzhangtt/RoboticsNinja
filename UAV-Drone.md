@@ -42,4 +42,6 @@ Table: Links
 7. [dronedeploy: Transforming the way businesses collect, manage and interpret reality capture data from drones, 360 cameras and mobile ground robots.](https://dronedeploy.com/) | [Forum](https://forum.dronedeploy.com/)
 8. [Controlling a Drone After Sudden Rotor Failure #ICRA2022 with Sihao Sun](https://robohub.org/controlling-a-drone-after-sudden-rotor-failure-icra2022/)
 9. [drone simulation environment setup (PX4, ROS2, gazebo)](https://medium.com/@kazuyahirotsu/drone-simulation-environment-setup-px4-ros-89314a3fba42) [To Read]
-10. [How to start developing drone with PX4 and raspberry pi](https://medium.com/@kazuyahirotsu/how-to-start-developing-drone-with-px4-and-raspberry-pi-7b3db3575e1c)
+10. [How to start developing drone with PX4 and raspberry pi](https://medium.com/@kazuyahirotsu/how-to-start-developing-drone-with-px4-and-raspberry-pi-7b3db3575e1c) [To Read]
+11. [Implementing a Search and Rescue Algorithm for Autonomous Drones](https://medium.com/@oscar.personal/implementing-a-search-and-rescue-algorithm-for-autonomous-drones-68559638378b)
+12. [How Drones are Changing the Business Landscape](https://pcsite.medium.com/how-drones-are-changing-the-business-landscape-224e93f3e742)
