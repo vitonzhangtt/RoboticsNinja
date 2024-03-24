@@ -13,3 +13,4 @@
 8. [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://medium.com/@adityap2169/diffusion-probabilistic-models-for-3d-point-cloud-generation-fc0ac259067c)
 9. [PointNet++ - A Point-based Architecture for 3D Point Cloud Data](https://medium.com/@nikitamalviya/pointnet-a-point-based-architecture-for-3d-point-cloud-data-32c1e7a16b84)
 10. [Delving into Lidar Cloud Point 3D Visualization in Python](https://lvimuth.medium.com/delving-into-lidar-cloud-point-3d-visualization-in-python-4bbdf05eac0b)
+11. [Point Cloud Alignment in Open3D using the Iterative Closest Point (ICP) Algorithm](https://medium.com/@BlanchR2/point-cloud-alignment-in-open3d-using-the-iterative-closest-point-icp-algorithm-22433693aa8a)
