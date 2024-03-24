@@ -8,6 +8,9 @@ Notes when learning robotics.
 TODO: Move to a more suitable document.
 1. [openpilot is an open source driver assistance system.](https://github.com/commaai/openpilot)
 
+## Self Driving
+1. [A self driving car project. Pt4.](https://medium.com/@stevechange/a-self-driving-car-project-pt4-610931a00f09)
+
 ## Link
 1. ["Autonomous, Agile Micro Drones: Perception, Learning, and Control" - Davide Scaramuzza](https://www.youtube.com/watch?v=LhO5WSFH7ZY)
 2. Youtube Channel: [MIT Robotics](https://www.youtube.com/@MITRoboticsSeminar/videos)
