@@ -24,3 +24,4 @@ Bayes Filter and Related Models](http://ais.informatik.uni-freiburg.de/teaching/
 10. [The Bayes Filter](https://medium.com/@vikramsetty169/the-bayes-filter-71f8b61afc1c) about Bayes Filter and SLAM. (AAAA)
 11. [A Discriminative Approach to Bayesian Filtering with Applications to Human Neural Decoding](https://burkh4rt.github.io/pubs/Burkhart-2019.pdf) [To Read]
 12. [Lecture 3: Bayesian Filtering Equations and Kalman Filter](https://users.aalto.fi/~ssarkka/course_k2016/handout3.pdf)
+13. [The Bayes Filter and Intro to State Estimation](https://johnwlambert.github.io/bayes-filter/) (AAAAA)
