@@ -1,5 +1,14 @@
 # Bayes Filter
 
+## Steps 
+
+### Predict step
+
+In the **predict step**, we will make an estimate about the current value of our state, given only the **prior measurements**. <sup>[10]</sup>
+
+### Update step
+In what we call the **update step**, we use the current measurement to estimate the current state. <sup>[10]</sup>
+
 ## Related Topic
 Kalman Filter, 
 
