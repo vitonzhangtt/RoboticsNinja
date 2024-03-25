@@ -45,3 +45,4 @@ Table: Links
 10. [How to start developing drone with PX4 and raspberry pi](https://medium.com/@kazuyahirotsu/how-to-start-developing-drone-with-px4-and-raspberry-pi-7b3db3575e1c) [To Read]
 11. [Implementing a Search and Rescue Algorithm for Autonomous Drones](https://medium.com/@oscar.personal/implementing-a-search-and-rescue-algorithm-for-autonomous-drones-68559638378b)
 12. [How Drones are Changing the Business Landscape](https://pcsite.medium.com/how-drones-are-changing-the-business-landscape-224e93f3e742)
+13. [Resolving ESC Desynchronization in FPV Drones: Tips & Techniques](https://medium.com/@basharnipa45678/resolving-esc-desynchronization-in-fpv-drones-tips-techniques-a5b9eed3f33f)
