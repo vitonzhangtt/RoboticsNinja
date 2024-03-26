@@ -14,7 +14,8 @@ In what we call the **update step**, we use the current measurement to estimate 
 ## Related Topic
 Kalman Filter, 
 
-
+## TODO
+1. google "dynamic bayesian network for control, state, sensations"
 
 
 
