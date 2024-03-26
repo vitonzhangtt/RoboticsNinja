@@ -40,6 +40,15 @@ https://msl.stanford.edu/
 #### Aeronautics and Astronautics (航空航天)
 https://aa.stanford.edu/
 
+### Intelligent Motion Lab @UIUC
+The Intelligent Motion Lab studies planning and control for dynamic, high-dimensional systems in complex environments. Applications include intelligent vehicles, robot manipulation, legged locomotion, human-robot interaction, robot- and computer-assisted medicine.
+
+https://motion.cs.illinois.edu/
+
+### Illinois Robotics Group
+The research of our faculty spans a diverse range of topics, including robot learning, motion planning, computer vision, mechatronics, verification, agricultural robotics, legged robots, soft robots, and more.
+https://robotics.illinois.edu/
+
 ## Researcher
 
 ### Sebastian Thrun
