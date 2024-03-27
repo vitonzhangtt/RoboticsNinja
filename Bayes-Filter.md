@@ -33,7 +33,11 @@ In what we call the **update step**, we use the current measurement to estimate 
 
 ### Action/Motion/Transition Model
 
-## Action/
+## Filters
+49:05@[1]
+
+<img width="540" alt="Screen Shot 2024-03-26 at 18 34 37" src="https://github.com/vitonzhangtt/RoboticsNinja/assets/28706904/e24cf78d-14bd-4291-b91d-ae656e1c3267">
+
 
 ## Related Topic
 Kalman Filter, 
