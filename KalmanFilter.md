@@ -1,7 +1,14 @@
 # Kalman Filter
 
+## Guass-Kalman Process
+**Gauss–Markov stochastic processes** (named after Carl Friedrich Gauss and Andrey Markov) are stochastic <br>
+processes that satisfy the requirements for both **Gaussian processes** and **Markov processes**. <sup>[15]</sup>
 
 ## Extended Kalman Filter
+
+## Books
+1. [Kalman Filter Make Easy](https://thekalmanfilter.com/kalman-filter-made-easy-ebook/)
+2. Kalman and Bayesian Filters in Python | [Github](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 ## Reference
 1. [Orientation Estimation using Kalman Filter, Quaternions, and an IMU as sensor | long video
@@ -21,3 +28,4 @@
 12. [4.2 Bayesian derivation of the Kalman filter](https://www.youtube.com/watch?v=u_xRUxwlaFY) | Video List: [Sensor fusion and nonlinear filtering](https://www.youtube.com/playlist?list=PLTD_k0sZVYFqjFDkJV8GE2EwfxNK59fJY) [To Read]
 13. [The math behind Extended Kalman Filtering](https://medium.com/@sasha_przybylski/the-math-behind-extended-kalman-filtering-0df981a87453) [To Read]
 14. [LiDAR and Radar Sensor Fusion using Unscented Kalman Filter](https://medium.com/@nikhilnair8490/lidar-and-radar-sensor-fusion-using-unscented-kalman-filter-5b20de0ab1d1)
+15. wiki: [Gauss–Markov process](https://en.wikipedia.org/wiki/Gauss%E2%80%93Markov_process)
