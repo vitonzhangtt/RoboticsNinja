@@ -9,6 +9,15 @@ processes that satisfy the requirements for both **Gaussian processes** and **Ma
 ## Books
 1. [Kalman Filter Make Easy](https://thekalmanfilter.com/kalman-filter-made-easy-ebook/)
 2. Kalman and Bayesian Filters in Python | [Github](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+3. Bayesian Inference of State Space Models: Kalman Filtering and Beyond (2021)
+4. Introduction to Random Signals, Estimation Theory, and Kalman Filtering (2024)
+5. SMOOTHING, FILTERING AND PREDICTION: Second Edition (2019)
+6. Flight Dynamics: Second Edition (2022)
+7. Nonlinear Kalman Filter for Multi-Sensor Navigation of Unmanned Aerial Vehicles: Application to Guidance and Navigation of Unmanned Aerial Vehicles Flying in a Complex Environment (2018)
+8. KALMAN FILTER DESIGN FOR BALLISTIC MISSILE DEFENSE APPLICATION: KALMAN FILTER DESIGN (2023)
+9. Control System Design: An Introduction to State-Space Methods (2005)
+10. Kalman Filtering: with Real-Time Applications (2017)
+11. Digital and Kalman Filtering: An Introduction to Discrete-Time Filtering and Optimum Linear Estimation, Second Edition (2018)
 
 ## Reference
 1. [Orientation Estimation using Kalman Filter, Quaternions, and an IMU as sensor | long video
