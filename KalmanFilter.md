@@ -38,3 +38,5 @@ processes that satisfy the requirements for both **Gaussian processes** and **Ma
 13. [The math behind Extended Kalman Filtering](https://medium.com/@sasha_przybylski/the-math-behind-extended-kalman-filtering-0df981a87453) [To Read]
 14. [LiDAR and Radar Sensor Fusion using Unscented Kalman Filter](https://medium.com/@nikhilnair8490/lidar-and-radar-sensor-fusion-using-unscented-kalman-filter-5b20de0ab1d1)
 15. wiki: [Gauss–Markov process](https://en.wikipedia.org/wiki/Gauss%E2%80%93Markov_process)
+16. [为什么使用卡尔曼滤波器？](https://www.youtube.com/watch?v=mwn8xhgNpFY) | [Understanding Kalman Filters](https://www.youtube.com/playlist?list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr)
+17. [Covariance Matrix Explained With Pictures](https://thekalmanfilter.com/covariance-matrix-explained/)
