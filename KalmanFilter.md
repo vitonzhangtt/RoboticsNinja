@@ -1,8 +1,18 @@
 # Kalman Filter
 
+
+
 ## Guass-Kalman Process
 **Gauss–Markov stochastic processes** (named after Carl Friedrich Gauss and Andrey Markov) are stochastic <br>
 processes that satisfy the requirements for both **Gaussian processes** and **Markov processes**. <sup>[15]</sup>
+
+## Linear Kalman Filter
+
+They(Kalman Filter) are separated into **predict** (using the model) and **correct** (using the <br>
+measurements), hence the two-step process for estimating state. The predict step is <br>
+responsible for propagating the state vector into the future using the linear model, <br>
+and the correct step blends the current prediction with a current measurement to get the <br> 
+corrected estimated state. <sup>[18]</sup>
 
 ## Extended Kalman Filter
 
@@ -40,3 +50,4 @@ processes that satisfy the requirements for both **Gaussian processes** and **Ma
 15. wiki: [Gauss–Markov process](https://en.wikipedia.org/wiki/Gauss%E2%80%93Markov_process)
 16. [为什么使用卡尔曼滤波器？](https://www.youtube.com/watch?v=mwn8xhgNpFY) | [Understanding Kalman Filters](https://www.youtube.com/playlist?list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr)
 17. [Covariance Matrix Explained With Pictures](https://thekalmanfilter.com/covariance-matrix-explained/)
+18. [#2: The Kalman Filter](https://engineeringmedia.com/controlblog/the-kalman-filter) (AAAAA)
