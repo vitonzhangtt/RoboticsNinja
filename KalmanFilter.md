@@ -51,3 +51,4 @@ corrected estimated state. <sup>[18]</sup>
 16. [为什么使用卡尔曼滤波器？](https://www.youtube.com/watch?v=mwn8xhgNpFY) | [Understanding Kalman Filters](https://www.youtube.com/playlist?list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr)
 17. [Covariance Matrix Explained With Pictures](https://thekalmanfilter.com/covariance-matrix-explained/)
 18. [#2: The Kalman Filter](https://engineeringmedia.com/controlblog/the-kalman-filter) (AAAAA)
+19. [Gaussian, Markov and stationary processes](https://www.seas.upenn.edu/~ese3030/block_4_stationary_processes/slides/400_markov_gaussian_stationary_processes.pdf)
