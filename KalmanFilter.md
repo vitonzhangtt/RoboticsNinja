@@ -14,6 +14,15 @@ responsible for propagating the state vector into the future using the linear mo
 and the correct step blends the current prediction with a current measurement to get the <br> 
 corrected estimated state. <sup>[18]</sup>
 
+### Recap <sup>[18]</sup>
+* A Kalman filter combines a **noisy measurement** with a **flawed prediction** to create an optimal state estimate. 
+
+* We can use covariance as a measure of how much uncertainty there is in the noisy measurement, the flawed model, and the final estimation. 
+
+* Since covariance is multi-dimensional, it’s mathematically easier to maintain it in matrix form.
+
+* A Kalman filter uses three different covariance matrices (measurement,  model, final estimation) in order to maintain an estimate of the system state. 
+
 ## Extended Kalman Filter
 
 ## Books
