@@ -23,6 +23,16 @@ corrected estimated state. <sup>[18]</sup>
 
 * A Kalman filter uses three different covariance matrices (measurement,  model, final estimation) in order to maintain an estimate of the system state. 
 
+### Gaussian Distribution
+
+But luckily - and importantly! - a Gaussian probability distribution maintains 
+its **Gaussian shape** when subjected to linear operations. <sup>[18]</sup>
+
+Therefore, if the initial distribution is Gaussian and the process model is linear 
+(or has been linearized prior to running it) then the final prediction uncertainty 
+is still Gaussian in nature. It can be wider or narrower, but it’s just a Gaussian shape. <sup>[18]</sup>
+
+
 ## Extended Kalman Filter
 
 ## Books
