@@ -42,6 +42,7 @@ is still Gaussian in nature. It can be wider or narrower, but it’s just a Gaus
 | Q | process noise covariance |
 | R | measurement noise covariance |
 
+### Kalman Filter Equations
 
 ## Extended Kalman Filter
 
