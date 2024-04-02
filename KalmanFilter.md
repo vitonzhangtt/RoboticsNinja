@@ -32,6 +32,16 @@ Therefore, if the initial distribution is Gaussian and the process model is line
 (or has been linearized prior to running it) then the final prediction uncertainty 
 is still Gaussian in nature. It can be wider or narrower, but it’s just a Gaussian shape. <sup>[18]</sup>
 
+### Formula
+
+#### Symbole
+
+| Symbole | Description |
+| -- | -- |
+| P | prediction error covariance | 
+| Q | process noise covariance |
+| R | measurement noise covariance |
+
 
 ## Extended Kalman Filter
 
