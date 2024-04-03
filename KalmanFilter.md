@@ -42,6 +42,9 @@ is still Gaussian in nature. It can be wider or narrower, but it’s just a Gaus
 | Q | process noise covariance |
 | R | measurement noise covariance |
 
+### System Model
+As we’ve seen, a Kalman filter requires a mathematical model in order to predict the future state. <sup>[18]</sup>
+
 ### Kalman Filter Equations
 
 ## Extended Kalman Filter
