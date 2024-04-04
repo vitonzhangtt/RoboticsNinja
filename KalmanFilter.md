@@ -45,7 +45,10 @@ is still Gaussian in nature. It can be wider or narrower, but it’s just a Gaus
 ### System Model
 As we’ve seen, a Kalman filter requires a mathematical model in order to predict the future state. <sup>[18]</sup>
 
-### Kalman Filter Equations
+## Kalman Filter Equations
+
+### State Extrapolation Equation (Transition Equation / Prediction Equation)
+
 
 ## Extended Kalman Filter
 
