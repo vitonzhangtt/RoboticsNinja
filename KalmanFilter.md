@@ -49,6 +49,12 @@ As we’ve seen, a Kalman filter requires a mathematical model in order to predi
 
 ### State Extrapolation Equation (Transition Equation / Prediction Equation)
 
+This system of equations **extrapolates** the current state to the next state (prediction).
+The **State Extrapolation Equations** depend on the **system dynamics** and differ from example to example.
+
+
+### State Update Equation
+
 
 ## Extended Kalman Filter
 
@@ -88,3 +94,4 @@ As we’ve seen, a Kalman filter requires a mathematical model in order to predi
 17. [Covariance Matrix Explained With Pictures](https://thekalmanfilter.com/covariance-matrix-explained/)
 18. [#2: The Kalman Filter](https://engineeringmedia.com/controlblog/the-kalman-filter) (AAAAA)
 19. [Gaussian, Markov and stationary processes](https://www.seas.upenn.edu/~ese3030/block_4_stationary_processes/slides/400_markov_gaussian_stationary_processes.pdf)
+20. [Understanding Kalman Filter for Computer Vision](https://www.analyticsvidhya.com/blog/2021/10/an-intuition-about-kalman-filter/)
