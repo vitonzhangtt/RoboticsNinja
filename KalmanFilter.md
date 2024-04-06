@@ -42,6 +42,10 @@ is still Gaussian in nature. It can be wider or narrower, but it’s just a Gaus
 | Q | process noise covariance |
 | R | measurement noise covariance |
 
+#### Kalman Gain
+This multiplier, k, is the optimal Kalman gain. The value is a scale between 0 and 1 and <br>
+it reflects the relative uncertainty in the prediction versus the measurement. <sup>[18]</sup>
+
 ### System Model
 As we’ve seen, a Kalman filter requires a mathematical model in order to predict the future state. <sup>[18]</sup>
 
