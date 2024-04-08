@@ -74,7 +74,15 @@ The **State Extrapolation Equation** and the **Covariance Extrapolation Equation
 
 ### Covariance Update Equation
 
+## Process Noise
 
+In the real world, there are uncertainties in the system dynamic model. <sup>[21]</sup>
+
+The uncertainty of the dynamic model is called the **Process Noise**. In the literature, <br>
+it is also called **plant noise, driving noise, dynamics noise, model noise, and system noise**. <br>
+The process noise produces estimation errors. <sup>[21]</sup>
+
+The **Process Noise Variance** is denoted by the letter $`q`$.
 
 ## Extended Kalman Filter
 
