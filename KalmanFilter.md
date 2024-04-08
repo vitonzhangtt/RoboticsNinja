@@ -6,13 +6,15 @@
 **Gauss–Markov stochastic processes** (named after Carl Friedrich Gauss and Andrey Markov) are stochastic <br>
 processes that satisfy the requirements for both **Gaussian processes** and **Markov processes**. <sup>[15]</sup>
 
-## Linear Kalman Filter
+## Linear Kalman Filter (LKF)
 
 They(Kalman Filter) are separated into **predict** (using the model) and **correct** (using the <br>
-measurements), hence the two-step process for estimating state. The predict step is <br>
+measurements), hence the two-step process for estimating state. The **predict step** is <br>
 responsible for propagating the state vector into the future using the linear model, <br>
-and the correct step blends the current prediction with a current measurement to get the <br> 
+and the **correct(or, update) step** blends the current prediction with a current measurement to get the <br> 
 corrected estimated state. <sup>[18]</sup>
+
+The LKF assumes that the **system dynamics** are linear. <sup>[21]</sup>
 
 ### Recap <sup>[18]</sup>
 * A Kalman filter combines a **noisy measurement** with a **flawed prediction** to create an optimal state estimate. 
