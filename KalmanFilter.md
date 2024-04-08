@@ -46,18 +46,34 @@ is still Gaussian in nature. It can be wider or narrower, but it’s just a Gaus
 This multiplier, k, is the optimal Kalman gain. The value is a scale between 0 and 1 and <br>
 it reflects the relative uncertainty in the prediction versus the measurement. <sup>[18]</sup>
 
+As you can see, the **Kalman Gain** ($`K_{n}`$) is the **measurement weight**, and the $`(1 − K_{n})`$ <br>
+term is the weight of the current state estimate. <sup>[21]</sup>
+
 ### System Model
 As we’ve seen, a Kalman filter requires a mathematical model in order to predict the future state. <sup>[18]</sup>
 
 ## Kalman Filter Equations
 
-### State Extrapolation Equation (Transition Equation / Prediction Equation)
+### State Extrapolation Equation (Transition Equation / Prediction Equation / Dynamic Model / State Space Model)
 
 This system of equations **extrapolates** the current state to the next state (prediction).
 The **State Extrapolation Equations** depend on the **system dynamics** and differ from example to example.
 
 
 ### State Update Equation
+
+
+### Covariance Extrapolation Equation
+
+The **State Extrapolation Equation** and the **Covariance Extrapolation Equation** depend on the system dynamics.
+
+### Kalman Gain Equation
+
+
+
+
+### Covariance Update Equation
+
 
 
 ## Extended Kalman Filter
@@ -99,3 +115,4 @@ The **State Extrapolation Equations** depend on the **system dynamics** and diff
 18. [#2: The Kalman Filter](https://engineeringmedia.com/controlblog/the-kalman-filter) (AAAAA)
 19. [Gaussian, Markov and stationary processes](https://www.seas.upenn.edu/~ese3030/block_4_stationary_processes/slides/400_markov_gaussian_stationary_processes.pdf)
 20. [Understanding Kalman Filter for Computer Vision](https://www.analyticsvidhya.com/blog/2021/10/an-intuition-about-kalman-filter/)
+21. Book: Kalman Filter - from the Ground Up (2023)
