@@ -88,6 +88,20 @@ The **Process Noise Variance** is denoted by the letter $`q`$.
 
 ### Lag Error
 
+### Covariance Matrix 
+
+The Kalman Filter output is a **multivariate random variable**. A **covariance matrix** <br>
+describes the squared uncertainty of the multivariate random variable. <sup>[21]</sup>
+
+The uncertainty variables of the multivariate Kalman Filter: <sup>[21]</sup> 
+
+| Notation | Notes |
+| -- | -- |
+| $`P_{n,n}`$ | is a covariance matrix that describes the squared uncertainty of an estimate |
+| $`P_{n+1,n}`$| is a covariance matrix that describes the squared uncertainty of a prediction |
+| $`R_{n}`$ | is a covariance matrix that describes the squared measurement uncertainty|
+| $`Q`$ | is a covariance matrix that describes the process noise |
+
 
 
 ## Extended Kalman Filter
