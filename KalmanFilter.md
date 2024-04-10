@@ -84,13 +84,13 @@ $`\hat{x}_{n+1,n} = F\hat{x}_{n,n} + Gu_{n} + w_{n} `$  Where:
 
 **Matrix dimensions** of the state extrapolation equation.
 
-<img width="903" alt="Screen Shot 2024-04-10 at 23 12 35" src="https://github.com/vitonzhangtt/RoboticsNinja/assets/28706904/f83f1d94-f605-4b2f-be39-4bc324f29965">
+<img width="800" alt="Screen Shot 2024-04-10 at 23 12 35" src="https://github.com/vitonzhangtt/RoboticsNinja/assets/28706904/f83f1d94-f605-4b2f-be39-4bc324f29965">
 
 
 
 ### 2. State Update Equation
 
-<img width="1038" alt="Screen Shot 2024-04-10 at 16 01 45" src="https://github.com/vitonzhangtt/RoboticsNinja/assets/28706904/5aa275e4-0131-4323-b3f2-2c29d4598c3b">
+<img width="800" alt="Screen Shot 2024-04-10 at 16 01 45" src="https://github.com/vitonzhangtt/RoboticsNinja/assets/28706904/5aa275e4-0131-4323-b3f2-2c29d4598c3b">
 
 
 
