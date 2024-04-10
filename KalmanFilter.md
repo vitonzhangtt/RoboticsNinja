@@ -44,6 +44,31 @@ is still Gaussian in nature. It can be wider or narrower, but it’s just a Gaus
 | Q | process noise covariance |
 | R | measurement noise covariance |
 
+
+
+### System Model
+As we’ve seen, a Kalman filter requires a mathematical model in order to predict the future state. <sup>[18]</sup>
+
+## Kalman Filter Equations
+
+### 1. State Extrapolation Equation (Transition Equation / Prediction Equation / Dynamic Model / State Space Model)
+
+This system of equations **extrapolates** the current state to the next state (prediction).
+The **State Extrapolation Equations** depend on the **system dynamics** and differ from example to example.
+
+Using the **state extrapolation equation**, we can **predict** the next system state based on <br>
+the knowledge of the current state. It extrapolates the state vector from the present (time step n) <br>
+to the future (time step n + 1). <sup>[21]</sup>
+
+### 2. State Update Equation
+
+
+### 3. Covariance Extrapolation Equation
+
+The **State Extrapolation Equation** and the **Covariance Extrapolation Equation** depend on the system dynamics.
+
+### 4. Kalman Gain Equation
+
 #### Kalman Gain
 This multiplier, k, is the optimal Kalman gain. The value is a scale between 0 and 1 and <br>
 it reflects the relative uncertainty in the prediction versus the measurement. <sup>[18]</sup>
@@ -51,32 +76,9 @@ it reflects the relative uncertainty in the prediction versus the measurement. <
 As you can see, the **Kalman Gain** ($`K_{n}`$) is the **measurement weight**, and the $`(1 − K_{n})`$ <br>
 term is the weight of the current state estimate. <sup>[21]</sup>
 
-### System Model
-As we’ve seen, a Kalman filter requires a mathematical model in order to predict the future state. <sup>[18]</sup>
+### 5. Covariance Update Equation
 
-## Kalman Filter Equations
-
-### State Extrapolation Equation (Transition Equation / Prediction Equation / Dynamic Model / State Space Model)
-
-This system of equations **extrapolates** the current state to the next state (prediction).
-The **State Extrapolation Equations** depend on the **system dynamics** and differ from example to example.
-
-
-### State Update Equation
-
-
-### Covariance Extrapolation Equation
-
-The **State Extrapolation Equation** and the **Covariance Extrapolation Equation** depend on the system dynamics.
-
-### Kalman Gain Equation
-
-
-
-
-### Covariance Update Equation
-
-### Process Noise
+## Process Noise
 
 In the real world, there are uncertainties in the system dynamic model. <sup>[21]</sup>
 
@@ -86,9 +88,9 @@ The process noise produces estimation errors. <sup>[21]</sup>
 
 The **Process Noise Variance** is denoted by the letter $`q`$.
 
-### Lag Error
+## Lag Error
 
-### Covariance Matrix 
+## Covariance Matrix 
 
 The Kalman Filter output is a **multivariate random variable**. A **covariance matrix** <br>
 describes the squared uncertainty of the multivariate random variable. <sup>[21]</sup>
