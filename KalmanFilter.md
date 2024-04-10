@@ -16,6 +16,21 @@ corrected estimated state. <sup>[18]</sup>
 
 The LKF assumes that the **system dynamics** are linear. <sup>[21]</sup>
 
+### Linear Time-Invariant Systems (LTI) 
+The Linear Kalman Filter assumes the **Linear Time-Invariant (LTI)** system model. <sup>[21]</sup>
+
+#### Linear Systems
+
+**Linear systems** are described by systems of equations in which the variables are <br>
+never multiplied with each other but only with constants and then summed up. <sup>[21]</sup>
+
+A time-invariant system is one where a time delay (or shift) in the input sequence <br>
+causes an **equivalent time delay** in the system’s output sequence.  <sup>[21]</sup>
+
+#### Time-invariant System
+
+A **time-invariant system** has a system function that is not a direct function of time. <sup>[21]</sup>
+
 ### Recap <sup>[18]</sup>
 * A Kalman filter combines a **noisy measurement** with a **flawed prediction** to create an optimal state estimate. 
 
@@ -69,6 +84,9 @@ $`\hat{x}_{n+1,n} = F\hat{x}_{n,n} + Gu_{n} + w_{n} `$  Where:
 
 
 ### 2. State Update Equation
+
+<img width="1038" alt="Screen Shot 2024-04-10 at 16 01 45" src="https://github.com/vitonzhangtt/RoboticsNinja/assets/28706904/5aa275e4-0131-4323-b3f2-2c29d4598c3b">
+
 
 
 ### 3. Covariance Extrapolation Equation
