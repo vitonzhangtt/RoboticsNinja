@@ -57,8 +57,16 @@ This system of equations **extrapolates** the current state to the next state (p
 The **State Extrapolation Equations** depend on the **system dynamics** and differ from example to example.
 
 Using the **state extrapolation equation**, we can **predict** the next system state based on <br>
-the knowledge of the current state. It extrapolates the state vector from the present (time step n) <br>
-to the future (time step n + 1). <sup>[21]</sup>
+the knowledge of the current state. It extrapolates the state vector from the present (time step $`n`$) <br>
+to the future (time step $`n + 1`$). <sup>[21]</sup>
+
+The state extrapolation equation describes **the model of the dynamic system**.  <sup>[21]</sup>
+
+#### Definition
+$`\hat{x}_{n+1,n} = F\hat{x}_{n,n} + Gu_{n} + w_{n} `$  Where:
+
+<img width="800" alt="Screen Shot 2024-04-10 at 13 35 44" src="https://github.com/vitonzhangtt/RoboticsNinja/assets/28706904/923d0e3d-b216-450e-9715-b25e7fa680a5">
+
 
 ### 2. State Update Equation
 
