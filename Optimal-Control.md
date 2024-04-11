@@ -1,5 +1,9 @@
 # Optimal Control
 
+## Control Theory
+
+
+
 ## What's Optimal Control?
 
 **Optimal control theory** is a branch of **control theory** that deals with finding a control <br> 
