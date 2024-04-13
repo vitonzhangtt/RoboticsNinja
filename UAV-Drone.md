@@ -33,6 +33,19 @@ Table: Links
 | Ardupilot | [Ardupilot](Ardupilot.org) | |
 | ecalc | [ecalc](ecalc.ch) | |
 
+## Books
+
+* Build a Drone: A Step-by-Step Guide to Designing, Constructing, and Flying Your Very Own Drone (2016)
+* Mastering Drone Design and Programming: A Comprehensive Guide to Learn Drone Design and Programming (2023)
+* Fundamentals of Capturing and Processing Drone Imagery and Data (2023)
+* Make your Arduino Quadcopter Drone from Scratch: Choice of components, Construction of the frame, Electrical and electronic wiring, Programming in Arduino language of the flight controller (2021)
+* Drone Technology in Architecture, Engineering, and Construction: A Strategic Guide to Unmanned Aerial Vehicle Operation and Implementation (2021)
+* OpenDroneMap: The Missing Guide: A Practical Guide To Drone Mapping Using Free and Open Source Software, Second Edition (2023)
+* Make: Drones: Teach an Arduino to Fly (2016)
+* How to build and maintain a drone from scratch: The simplified method of constructing, handling, and maintaining a drone from scratch even as a as a novice or professionals (2023)
+* Advanced Robotic Vehicles Programming: An Ardupilot and Pixhawk Approach (2020)
+* Artificial Intelligence Applications for Drone Cyber Security: Second Edition (2022)
+
 ## Reference
 1. [PX4: Open Source Autopilot For Drone Developers](https://px4.io/)
 2. [Make a drone from beginning](https://medium.com/@abdullahorzan/make-a-drone-from-beginning-part-1-60cfe5d36c5a)
