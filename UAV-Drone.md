@@ -1,4 +1,10 @@
-# UAV: Unmanned aerial vehicles (or Drone)
+# UAV: Unmanned Aerial Vehicles (or Drone)
+
+## Items
+
+| English | Chinese |
+| -- | -- |
+| multirotor | 多旋翼 |
 
 ## What's UAV
 Unmanned aerial vehicles (UAV) are a class of aircrafts that can fly without the onboard presence of pilots. <br>
@@ -61,3 +67,6 @@ Table: Links
 12. [How Drones are Changing the Business Landscape](https://pcsite.medium.com/how-drones-are-changing-the-business-landscape-224e93f3e742)
 13. [Resolving ESC Desynchronization in FPV Drones: Tips & Techniques](https://medium.com/@basharnipa45678/resolving-esc-desynchronization-in-fpv-drones-tips-techniques-a5b9eed3f33f)
 14. [Aerospace(航天) Series](https://www.amazon.com/-/zh/dp/B09NMGXZBJ?binding=hardcover&searchxofy=true&ref_=dbs_s_bs_series_rwt_thcv&qid=1715829072&sr=1-4)
+15. [现代飞机的飞行控制系统（一）](https://zhuanlan.zhihu.com/p/60196490)
+16. Book: Flight Simulation Software - Design Development and Testing (2023)
+17. [Hackflight is a C++ software toolkit for building multirotor flight controllers.](https://github.com/simondlevy/Hackflight)
