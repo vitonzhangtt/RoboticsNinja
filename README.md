@@ -1,6 +1,12 @@
 # Robotics Notes
 Notes when learning robotics.
 
+## Topics about Robotics
+
+### Motion Planning
+
+
+
 ## Warehouse Robots
 1. [Warehouse Robots - A demo with the OMPL library](https://medium.com/@oscar.personal/warehouse-robots-1271befd5aeb)
 
