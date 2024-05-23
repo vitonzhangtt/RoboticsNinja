@@ -32,6 +32,8 @@
 4. [Mobile Robotics: Mathematics Models and Methods](https://www.cs.cmu.edu/~alonzo/books/books.html)
 5. [Introduction to Autonomous Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
 6. [Robotic Systems (draft) / University of Illinois at Urbana-Champaign](https://motion.cs.illinois.edu/RoboticSystems/)
+7. [Supplementary Textbooks from Berkeley ee290-005](https://pages.github.berkeley.edu/ee290-005/sp21-site/resources/#supplementary-textbooks)
+
 
 ## Roadmap
 1. [Learning Robotics From Scratch for Free 2024](https://www.robotisim.com/learning-robotics-with-online-resourcces-) [To Read]
