@@ -51,6 +51,7 @@
 12. [ROB 502: Programming for Robotics Fall 2022](https://berenson.robotics.umich.edu/courses/fall2022pfr/index.html)
 13. [Robotics Winter 2024 Course List](https://robotics.umich.edu/academics/courses/course-offerings/) (AAAA+)
 14. [CS287 Advanced Robotics at UC Berkeley Fall 2019](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) [To Read]
+15. [Berkeley EE 290-005 | Integrated Perception, Learning, and Control Spring 2021](https://pages.github.berkeley.edu/ee290-005/sp21-site/) [To Read] (AAAA+)
 
 
 ## Youtube Channels 
