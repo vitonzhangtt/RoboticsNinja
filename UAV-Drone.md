@@ -12,11 +12,14 @@ Unmanned Air Vehicle (UAV)
 
 ## Multirotor UAV(多旋翼无人机)
 
+### QuadRotor (四旋翼)
+
 ## Simulator
 
 ### RotorPy
 
-### 
+### Gazebo
+[24]
 
 ## Flight Controller
 
@@ -26,12 +29,25 @@ Unmanned Air Vehicle (UAV)
 ## PX4
 [1]
 
+### SITL
+PX4 supports both *Software In the Loop* (`SITL`) simulation, where the flight stack <br>
+runs on computer (either the same computer or another computer on the same network) <br>
+and *Hardware In the Loop* (`HITL`) simulation using a simulation firmware on a real <br>
+**flight controller board**. <sup>[22]</sup>
+
 ## Aerodynamics (空气动力学)
 
 ## Companies
 
 ### DroneDeploy
 [7]
+
+## MAVLink
+*MAVLink* is a very lightweight **messaging protocol** for communicating with drones (and between <br>
+onboard drone components). <sup>[30]</sup>
+
+### Pymavlink
+[31], 
 
 ## Links for Drone
 
@@ -55,7 +71,8 @@ Table: Links
 * Artificial Intelligence Applications for Drone Cyber Security: Second Edition (2022)
 
 ## Reference
-1. [PX4: Open Source Autopilot For Drone Developers](https://px4.io/)
+1. [PX4: Open Source Autopilot For Drone Developers](https://px4.io/) | [Getting Started with PX4 Autopilot
+](https://docs.px4.io/main/en/getting_started/)
 2. [Make a drone from beginning](https://medium.com/@abdullahorzan/make-a-drone-from-beginning-part-1-60cfe5d36c5a)
 3. Dronecode: [We are setting the standards in the drone industry with open-source.](https://dronecode.org/)
 4. [Top Drone Flight Simulators](https://uavcoach.com/drone-flight-simulator/#guide-6)
@@ -70,7 +87,24 @@ Table: Links
 13. [Resolving ESC Desynchronization in FPV Drones: Tips & Techniques](https://medium.com/@basharnipa45678/resolving-esc-desynchronization-in-fpv-drones-tips-techniques-a5b9eed3f33f)
 14. [Aerospace(航天) Series](https://www.amazon.com/-/zh/dp/B09NMGXZBJ?binding=hardcover&searchxofy=true&ref_=dbs_s_bs_series_rwt_thcv&qid=1715829072&sr=1-4)
 15. [现代飞机的飞行控制系统（一）](https://zhuanlan.zhihu.com/p/60196490)
-16. Book: Flight Simulation Software - Design Development and Testing (2023)
+16. Book: **Flight Simulation Software - Design Development and Testing** (2023)
 17. [Hackflight is a C++ software toolkit for building multirotor flight controllers.](https://github.com/simondlevy/Hackflight)
 18. [ArduPilot is the most advanced, full-featured, and reliable open source autopilot software available. ](https://github.com/ArduPilot/ardupilot)
 19. [**dRehmFlight** is the flight controller for hobbyists, hackers, and non-coders interested in stabilizing their wacky and unique flying creations.](https://github.com/nickrehm/dRehmFlight)
+20. [PX4 SITL of QuadRotor with Gazebo and QGround Control](https://www.youtube.com/watch?v=yR1fhNV970E)
+21. [Gazebo Simulation](https://docs.px4.io/main/en/sim_gazebo_gz/)
+22. [Simulation](https://docs.px4.io/main/en/simulation/)
+23. [Ignition Gazebo for PX4 Software-In-The-Loop Simulations - Jaeyoung Lim, ETH Zurich](https://www.youtube.com/watch?v=KIcFbCiK0QU)
+24. [Gazebo Simulator Tutorials](https://www.youtube.com/playlist?list=PLNw2RD-1J5YYvFGiMafRD_axHrBUGvuIg) [To Read]
+25. [Connecting PX4 SITL Gazebo to Local Area Connection](https://www.youtube.com/watch?v=SU_hf1Sdamw)
+26. Youtube Channel: [PX4 Autopilot - Open Source Flight Control.](https://www.youtube.com/@PX4Autopilot/playlists)
+27. Video List: [2023 PX4 Developer Summit](https://www.youtube.com/playlist?list=PLYy2pGCdhu7xHIN7F5X1ytQ84hdYnIonr)
+28. Youtube Channel: [Ascend Engineering: A team of engineers empowering the future of drones, unmanned aerial vehicles, and fixed-wing software engineering solutions no matter size, scope, or complexity.](https://www.youtube.com/@ascendengineering640)
+29. [How To Start a Mission Using Pymavlink](https://www.youtube.com/watch?v=pAAN055XCxA)
+30. [MAVLink Developer Guide](https://mavlink.io/en/)
+31. [Using Pymavlink Libraries (mavgen)](https://mavlink.io/en/mavgen_python/)
+32. [Pymavlink Tutorials](https://www.youtube.com/playlist?list=PLy9nLDKxDN68cwdt5EznyAul6R8mUSNou)
+33. [Survey of Simulators for Aerial Robots](https://arxiv.org/pdf/2311.02296)
+34. [Autonomous Ardupilot Tiny Whoop](https://www.youtube.com/watch?v=NHWOztdg5mM) [To Read]
+35. [Simulated Workflows using Software-In-The-Loop Simulations — PX4 Developer Summit Virtual 2020](https://www.youtube.com/watch?v=60SX8pwYLUc)
+36. [PX4 X-Plane SITL Ultimate Setup Guide: Fly Custom eVTOL & Drones in Real Worlds - Version 1.0.0](https://www.youtube.com/watch?v=aRJxsnf24k4) | [PX4 X-Plane Plugin](https://github.com/alireza787b/px4xplane)
