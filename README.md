@@ -16,6 +16,7 @@ TODO: Move to a more suitable document.
 
 ## Self Driving
 1. [A self driving car project. Pt4.](https://medium.com/@stevechange/a-self-driving-car-project-pt4-610931a00f09)
+2. [Donkey is a Self Driving Car Platform for hobby remote control cars. ](http://docs.donkeycar.com/guide/deep_learning/mobile_app/) [To Read]
 
 ## Link
 1. ["Autonomous, Agile Micro Drones: Perception, Learning, and Control" - Davide Scaramuzza](https://www.youtube.com/watch?v=LhO5WSFH7ZY)
