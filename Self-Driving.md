@@ -1,6 +1,13 @@
 # Self-Driving
 
-An autonomous vehicle is broadly defined as one equipped with technology that senses the conditions around it, including traffic, pedestrians, and physical hazards and can adjust its course and speed without a human at the controls. The terms “autonomous” and “self driving cars” are often used interchangeably. <sup>[7]</sup>
+google "self-driving technology"
+
+An `autonomous vehicle` is broadly defined as one equipped with technology that senses the conditions  <br>
+around it, including *traffic*, *pedestrians*, and *physical hazards* and can adjust its course and speed <br>
+without a human at the controls. The terms “autonomous” and “self driving cars” are often used <br>
+interchangeably. <sup>[7]</sup>
+
+
 
 ## Reference
 1. [CVPR2020 Tutorial: All About Self-Driving](http://www.allaboutselfdriving.com/)
