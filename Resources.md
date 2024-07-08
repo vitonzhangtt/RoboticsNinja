@@ -25,6 +25,9 @@
 
 ### Math
 
+### Raspberry Pi
+1. [Practical Robotics in C++: Build and Program Real Autonomous Robots Using Raspberry Pi](https://www.amazon.com/Practical-Robotics-Program-Autonomous-Raspberry-ebook/dp/B08VDP2ZP5) [To Read]
+
 ### List
 1. A Mathematical Introduction to Robotic Manipulation (1994)
 2. [Springer Tracts in Advanced Robotics](https://www.amazon.com/-/zh/dp/B08CN2LFNC)
