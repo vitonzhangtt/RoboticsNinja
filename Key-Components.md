@@ -20,3 +20,4 @@
 
 ## Reference
 1. [Components of Robot](https://www.javatpoint.com/components-of-robot)
+2. [Exploring the 8 Essential Components of Every Robot](https://brightchamps.com/blog/key-components-to-robot/) [To Read]
