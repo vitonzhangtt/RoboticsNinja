@@ -1,4 +1,20 @@
-# Control
+# Control/Motion Control 
+
+## Motion Control Algorithms
+
+Robot control deals with the problem of determining the **forces** and **torques** that <br>
+must be developed by the robotic `actuators` in order for the robot to go at the desired <br>
+position, track the desired trajectory, and, in general, perform some task with desired <br>
+performance requirements. The solution to controlling problems in robotics (fixed and mobile) <br>
+is more complicated than usual due to the inertial forces, coupling reaction forces, and <br> 
+gravity effects. <sup>[8]</sup>
+
+### PID: Proportional Integral Derivative
+
+
+### MPC: Model Predictive Control
+
+### Fuzzy Logic Controller
 
 ## Control System
 
@@ -12,3 +28,5 @@
 5. [Mastering Control Theory: Understanding Z-Transform and Its Applications](https://medium.com/@mbugraavci38/introduction-fae9d6b3ed5d)
 6. [Control Theory 11 -  PI Controller Design for DC Motor](https://medium.com/@johnehk86/control-theory-11-pi-controller-design-for-dc-motor-57bd7ad3bf83)
 7. [PID Control for Self-Driving Car Simulation](https://medium.com/@lucas.mirachi/pid-control-for-self-driving-car-simulation-0b3449a0a7c7)
+8. [Types of control algorithms for Mobile Robots](https://www.linkedin.com/pulse/types-control-algorithms-mobile-robots-decibelslab)
+9. [Using PID for motion control, robotics](https://www.controleng.com/articles/using-pid-for-motion-control-robotics/) `https://www.controleng.com`
