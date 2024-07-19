@@ -30,3 +30,4 @@ gravity effects. <sup>[8]</sup>
 7. [PID Control for Self-Driving Car Simulation](https://medium.com/@lucas.mirachi/pid-control-for-self-driving-car-simulation-0b3449a0a7c7)
 8. [Types of control algorithms for Mobile Robots](https://www.linkedin.com/pulse/types-control-algorithms-mobile-robots-decibelslab)
 9. [Using PID for motion control, robotics](https://www.controleng.com/articles/using-pid-for-motion-control-robotics/) `https://www.controleng.com`
+10. Video: [MPC from Basics to Learning-based Design (1/2)](https://www.youtube.com/watch?v=CNwV5GbTEGM)
