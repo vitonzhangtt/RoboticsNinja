@@ -177,3 +177,5 @@ The uncertainty variables of the multivariate Kalman Filter: <sup>[21]</sup>
 19. [Gaussian, Markov and stationary processes](https://www.seas.upenn.edu/~ese3030/block_4_stationary_processes/slides/400_markov_gaussian_stationary_processes.pdf)
 20. [Understanding Kalman Filter for Computer Vision](https://www.analyticsvidhya.com/blog/2021/10/an-intuition-about-kalman-filter/)
 21. Book: Kalman Filter - from the Ground Up (2023)
+22. [`Sensor Fusion` with the **Extended Kalman Filter** in ROS 2](https://medium.com/@kidargueta/sensor-fusion-with-the-extended-kalman-filter-in-ros-2-d33dbab1829d)
+23. [Kalman Filter](https://medium.com/@abhilashkrish/kalman-filter-7c1e54ec8680)
