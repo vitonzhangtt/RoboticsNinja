@@ -20,3 +20,5 @@
 5. [Building Cheapest ROS2 Robot using ESP32 — Part 2— Testing & Calibration](https://robofoundry.medium.com/building-cheapest-ros2-robot-using-esp32-part-2-testing-calibration-3f2c6af55698)
 6. [Make your own self-driving RC car using Python and Raspberry Pi (Part 1 - Introduction)](https://medium.com/@zaid.killam/make-your-own-self-driving-rc-car-using-python-and-raspberry-pi-part-1-introduction-188ac7a2e023) [To Debug]
 7. [Building a robot using Hoverboard — Part1](https://robofoundry.medium.com/building-a-robot-using-hoverboard-part1-26e1b20b2b28)
+8. [Build a Robot](https://medium.com/@TomPJacobs/build-a-robot-9fc864318622) | [Build a Robot, Part II
+](https://medium.com/@TomPJacobs/build-a-robot-part-ii-dfd7fef49c1a)
