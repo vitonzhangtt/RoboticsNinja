@@ -54,3 +54,9 @@ TODO: [10], [11]
 22. [Getting Ready for ROS Part 7: Describing a robot with URDF](https://articulatedrobotics.xyz/ready-for-ros-7-urdf/) [To Read]
 23. [From ROS to ROS 2: A Comprehensive Guide to the Next Generation Robotics](https://scalexi.medium.com/from-ros-to-ros-2-a-comprehensive-guide-to-the-next-generation-robotics-f93a4e2e5793)
 24. [5W1H: CLOSER LOOK TO THE ROS (Robot Operating System)](https://medium.com/teknopar-akademi/5w1h-closer-look-to-the-ros-robot-operating-system-85a90682fd6c)
+25. [Creating a ROS2 Node for Monocular Depth Estimation Using PyTorch](https://medium.com/@kabilankb2003/creating-a-ros2-node-for-monocular-depth-estimation-using-pytorch-d161171a56fc)
+26. [Building a Simple ROS2 Object Avoidance Robot using Python](https://medium.com/@kabilankb2003/building-a-simple-ros2-object-avoidance-robot-using-python-962f5b8485d7)
+27. [ROS2 Humble Cartographer on NVIDIA Jetson Nano with RPLIDAR](https://medium.com/@kabilankb2003/ros2-humble-cartographer-on-nvidia-jetson-nano-with-rplidar-c0dea4480b78)
+28. [Getting Started with ROS2: Create and Set Up a Workspace](https://medium.com/spinor/getting-started-with-ros2-create-and-set-up-a-workspace-f60a6c52328c) [To Read]
+29. [Integrating ROS 2 and OpenCV for Object Detection Using TurtleBot3](https://medium.com/@kabilankb2003/integrating-ros-2-and-opencv-for-object-detection-using-turtlebot3-3cce2404334e)
+30. [Tuning the ROS2 Nav2 Stack](https://medium.com/@CanyonLakeRobotics/tuning-the-ros2-nav2-stack-5b01f455e217)
