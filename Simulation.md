@@ -52,3 +52,4 @@ TODO: https://www.poppy-project.org/en/
 11. [Roboschool: open-source software for robot simulation, integrated with OpenAI Gym.](https://openai.com/research/roboschool)
 12. [Simulations for mobile robots](https://www.blackcoffeerobotics.com/blog/simulations-for-mobile-robots) (To Read)
 13. [Webots with ROS: Simulation Overview](https://www.blackcoffeerobotics.com/blog/webots-with-ros-simulation-overview) (To Read)
+14. [Accelerating AI in Robotics with NVIDIA Isaac Sim and PyTorch: A Comprehensive Guide](https://medium.com/@kabilankb2003/accelerating-ai-in-robotics-with-nvidia-isaac-sim-and-pytorch-a-comprehensive-guide-3355bb9585a3) [To Read]
