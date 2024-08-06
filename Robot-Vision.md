@@ -53,6 +53,7 @@ https://rvl.cs.toronto.edu/#/
 13. Robotic Vision Australia: [Robotic Vision Australia is a national community of researchers and professionals, passionate about the potential for robotics, computer vision and AI to solve many of the world’s grand challenges.](https://roboticvision.org/)
 14. [2.2 Robotics Computer Vision and Perception](https://medium.com/@maizi5469/2-2-robotics-computer-vision-and-perception-e7529038be10)
 15. [Image Processing Algorithms for Robots](https://medium.com/@maizi5469/image-processing-algorithms-for-robot-09e678a3e313)
+16. [Accelerating AI in Robotics with NVIDIA Isaac Sim and PyTorch: A Comprehensive Guide](https://medium.com/@kabilankb2003/accelerating-ai-in-robotics-with-nvidia-isaac-sim-and-pytorch-a-comprehensive-guide-3355bb9585a3) [To Read]
 
 
 
