@@ -40,6 +40,7 @@ ensuring that the quadcopter manages stable flight at all times and complies wit
 
 ## PX4
 [1]
+`PX4` is an open source **flight control software** for drones and other unmanned vehicles.
 
 ### SITL
 PX4 supports both *Software In the Loop* (`SITL`) simulation, where the flight stack <br>
