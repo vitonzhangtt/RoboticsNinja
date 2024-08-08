@@ -5,7 +5,7 @@
 | English | Chinese |
 | -- | -- |
 | multirotor | 多旋翼 |
-| quadcopter drone | |
+| quadcopter | 四轴飞行器 |
 
 ## What's UAV
 Unmanned aerial vehicles (UAV) are a class of aircrafts that can fly without the onboard presence of pilots. <br>
