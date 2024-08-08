@@ -5,6 +5,7 @@
 | English | Chinese |
 | -- | -- |
 | multirotor | 多旋翼 |
+| quadcopter drone | |
 
 ## What's UAV
 Unmanned aerial vehicles (UAV) are a class of aircrafts that can fly without the onboard presence of pilots. <br>
@@ -22,6 +23,17 @@ Unmanned Air Vehicle (UAV)
 [24]
 
 ## Flight Controller
+TODO: [37]
+
+This is the role of the `flight controller` — a vital component of a `quadcopter drone` that <br>
+acts as its “brain”. The flight controller is responsible for **controlling** and **stabilizing** <br> 
+the flight of the quadcopter while it is airborne. More specifically, it is **responsible for** <br>
+ensuring that the quadcopter manages stable flight at all times and complies with the attitude(姿态) <br>
+“requests” of it’s pilot. <sup>[37]</sup>
+
+
+
+
 
 ## Dronecode
 [3]
@@ -108,3 +120,4 @@ Table: Links
 34. [Autonomous Ardupilot Tiny Whoop](https://www.youtube.com/watch?v=NHWOztdg5mM) [To Read]
 35. [Simulated Workflows using Software-In-The-Loop Simulations — PX4 Developer Summit Virtual 2020](https://www.youtube.com/watch?v=60SX8pwYLUc)
 36. [PX4 X-Plane SITL Ultimate Setup Guide: Fly Custom eVTOL & Drones in Real Worlds - Version 1.0.0](https://www.youtube.com/watch?v=aRJxsnf24k4) | [PX4 X-Plane Plugin](https://github.com/alireza787b/px4xplane)
+37. [My Greatest Engineering Accomplishment: The Scout Flight Controller](https://timhanewich.medium.com/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24) [To Read]
