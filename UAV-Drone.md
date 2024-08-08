@@ -32,7 +32,9 @@ ensuring that the quadcopter manages stable flight at all times and complies wit
 “requests” of it’s pilot. <sup>[37]</sup>
 
 
-
+### List
+1. [Complete List of Flight Controller Firmware Projects](https://blog.unmanned.tech/flight-controller-firmware/)
+2. [A Review of Open-Source Flight Control Systems](https://reefwing.medium.com/a-review-of-open-source-flight-control-systems-2fe37239c9b6)
 
 
 ## Dronecode
