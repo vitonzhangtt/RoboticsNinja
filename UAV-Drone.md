@@ -48,6 +48,12 @@ runs on computer (either the same computer or another computer on the same netwo
 and *Hardware In the Loop* (`HITL`) simulation using a simulation firmware on a real <br>
 **flight controller board**. <sup>[22]</sup>
 
+### PX4 vs. Ardupilot
+* [PX4 vs ArduPilot: What is Difference](https://www.hows.tech/2024/02/px4-vs-ardupilot-what-is-difference.html)
+* [PX4 vs ArduPilot: Choosing the right open source flight stack](https://www.thedroningcompany.com/blog/px4-vs-ardupilot-choosing-the-right-open-source-flight-stack)
+* [ArduPilot vs PX4](https://dojofordrones.com/ardupilot-vs-px4/)
+
+
 ## Aerodynamics (空气动力学)
 
 ## Companies
