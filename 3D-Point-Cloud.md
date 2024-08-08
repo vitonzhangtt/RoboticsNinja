@@ -16,3 +16,4 @@
 11. [Point Cloud Alignment in Open3D using the Iterative Closest Point (ICP) Algorithm](https://medium.com/@BlanchR2/point-cloud-alignment-in-open3d-using-the-iterative-closest-point-icp-algorithm-22433693aa8a)
 12. [Surface Normal Estimation for LiDAR Point Clouds](https://medium.com/@reichert.hannes/surface-normal-estimation-for-lidar-point-clouds-876b84d89744)
 13. [Color/Render a 3D Point Cloud in Python 🎨](https://betterprogramming.pub/color-render-a-3d-pointcloud-in-python-f67831442abd)
+14. [PCL RANSAC fitting segmentation cylinder model with C++ code](https://medium.com/point-cloud-python-matlab-cplus/pcl-ransac-fitting-segmentation-cylinder-model-with-c-code-51a3907f3cd0)
