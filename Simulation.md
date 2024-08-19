@@ -15,6 +15,7 @@ Table-1: Robotic simulation platform <sup>[6]</sup>
 | CoppeliaSim	| coppeliarobotics.com |
 
 ## Isaac Sim
+[14], [15]
 
 ## Gazebo
 TODO
@@ -53,3 +54,4 @@ TODO: https://www.poppy-project.org/en/
 12. [Simulations for mobile robots](https://www.blackcoffeerobotics.com/blog/simulations-for-mobile-robots) (To Read)
 13. [Webots with ROS: Simulation Overview](https://www.blackcoffeerobotics.com/blog/webots-with-ros-simulation-overview) (To Read)
 14. [Accelerating AI in Robotics with NVIDIA Isaac Sim and PyTorch: A Comprehensive Guide](https://medium.com/@kabilankb2003/accelerating-ai-in-robotics-with-nvidia-isaac-sim-and-pytorch-a-comprehensive-guide-3355bb9585a3) [To Read]
+15. [mmmBall Tracking with ROS2 Using NVIDIA JetBot in Isaac Sim](https://medium.com/@kabilankb2003/ball-tracking-with-ros2-using-nvidia-jetbot-in-isaac-sim-1f36374e9a58) [To Read]
