@@ -60,3 +60,4 @@ TODO: [10], [11]
 28. [Getting Started with ROS2: Create and Set Up a Workspace](https://medium.com/spinor/getting-started-with-ros2-create-and-set-up-a-workspace-f60a6c52328c) [To Read]
 29. [Integrating ROS 2 and OpenCV for Object Detection Using TurtleBot3](https://medium.com/@kabilankb2003/integrating-ros-2-and-opencv-for-object-detection-using-turtlebot3-3cce2404334e)
 30. [Tuning the ROS2 Nav2 Stack](https://medium.com/@CanyonLakeRobotics/tuning-the-ros2-nav2-stack-5b01f455e217)
+31. [Integrating `Pi Camera` with `ROS 2 Humble` on `NVIDIA Jetson Nano` using `OpenCV`](https://medium.com/@kabilankb2003/integrating-pi-camera-with-ros-2-humble-on-nvidia-jetson-nano-using-opencv-de676dd6a2ca)
