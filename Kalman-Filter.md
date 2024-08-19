@@ -179,3 +179,4 @@ The uncertainty variables of the multivariate Kalman Filter: <sup>[21]</sup>
 21. Book: Kalman Filter - from the Ground Up (2023)
 22. [`Sensor Fusion` with the **Extended Kalman Filter** in ROS 2](https://medium.com/@kidargueta/sensor-fusion-with-the-extended-kalman-filter-in-ros-2-d33dbab1829d)
 23. [Kalman Filter](https://medium.com/@abhilashkrish/kalman-filter-7c1e54ec8680)
+24. [How to Use a Kalman Filter for 3D Object Tracking (c++)](https://medium.com/@boukamchahamdi/how-to-create-a-kalman-filter-for-3d-object-tracking-c-6977fe5e1e91)
