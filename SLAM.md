@@ -131,6 +131,12 @@ only work for short distances (e.g. indoors). <sup>[11]</sup>
 
 ### ORB-SLAM3
 
+## Course
+
+### [Simultaneous Localization and Mapping (SLAM) for Robotics, (NTNU Course)](https://www.youtube.com/playlist?list=PLZ_sI4f41TGtsqgT6cMLCUCYOT7mCjBMM)
+
+Video List
+
 ## Reference
 1. [The future of spatial intelligence is here](https://www.slamcore.com/)
 2. [Spatial AI: Augmenting SLAM technology with deep learning](https://blog.slamcore.com/spatial-ai-slam-deep-learning)
