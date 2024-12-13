@@ -20,8 +20,10 @@ https://www.iris.ethz.ch/
 ### Autonomous Systems Lab
 https://asl.ethz.ch/
 
-### Robotics Institute (AAAA+)
+### Robotics Institute @ CMU(AAAA+)
 https://www.ri.cmu.edu/
+
+* [Robot Perception Lab @ The Robotics Institute, Carnegie Mellon University](https://rpl.ri.cmu.edu/)
 
 ### Oxford Robotics Institute
 https://ori.ox.ac.uk/
