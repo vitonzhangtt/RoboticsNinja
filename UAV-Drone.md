@@ -130,3 +130,4 @@ Table: Links
 35. [Simulated Workflows using Software-In-The-Loop Simulations — PX4 Developer Summit Virtual 2020](https://www.youtube.com/watch?v=60SX8pwYLUc)
 36. [PX4 X-Plane SITL Ultimate Setup Guide: Fly Custom eVTOL & Drones in Real Worlds - Version 1.0.0](https://www.youtube.com/watch?v=aRJxsnf24k4) | [PX4 X-Plane Plugin](https://github.com/alireza787b/px4xplane)
 37. [My Greatest Engineering Accomplishment: The Scout Flight Controller](https://timhanewich.medium.com/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24) [To Read] (AAAA+)
+38. [Types of Drones and UAVs (2025)](https://www.tytorobotics.com/blogs/articles/types-of-drones) [To Read]
