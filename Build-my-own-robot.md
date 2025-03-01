@@ -12,6 +12,12 @@
 3. [How to Build a Robot at Home](https://www.wikihow.com/Build-a-Robot-at-Home)
 4. Flight Controller and Drone: [My Greatest Engineering Accomplishment: The Scout **Flight Controller**](https://timhanewich.medium.com/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24)
 
+
+## DIY Drone
+1. [The Ultimate Guide to Building a Quadcopter From Scratch](https://www.instructables.com/The-Ultimate-Guide-to-Building-a-Quadcopter-From-S/) [To Read]
+2. [DIY Drone – Exciting Guide to Building Your Drone](https://vayuyaan.com/blog/diy-drone-exciting-guide-to-building-your-drone/)
+3. 
+
 ## Reference
 1. [The Best Robotic Kits for Beginners for 2023: Build Your Own Robot](https://www.pakronics.com.au/blogs/news/the-best-robotic-kits-for-beginners-for-2023-build-your-own-robot)
 2. [Adafruit CRICKIT for Circuit Playground Express](https://www.adafruit.com/product/3093)
