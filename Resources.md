@@ -58,6 +58,7 @@
 14. [CS287 Advanced Robotics at UC Berkeley Fall 2019](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) [To Read]
 15. [Berkeley EE 290-005 | Integrated Perception, Learning, and Control Spring 2021](https://pages.github.berkeley.edu/ee290-005/sp21-site/) [To Read] (AAAA+)
 16. [CS 123: A Hands-On Introduction to Building AI-Enabled Robots](https://cs-123-stanford-2023.readthedocs.io/en/latest/#) [To Read]
+17. [C++ for Robotics - Master the basics of C++ for robot programming](https://www.theconstruct.ai/robotigniteacademy_learnros/ros-courses-library/cpp-for-robotics/)
 
 
 ## Youtube Channels 
