@@ -10,6 +10,12 @@
 for a dynamical system over a period of time such that an objective function is optimized. <br>
 It has numerous applications in science, engineering and operations research. <sup>[1]</sup>
 
+## Other Types of Control
+
+* Robust Control
+* Nonlinear Control
+* ...
+
 ## Reference
 1. wiki: [Optimal control](https://en.wikipedia.org/wiki/Optimal_control)
 2. [Helpful Resources for Learning Control Theory](https://www.linkedin.com/pulse/helpful-resources-learning-control-theory-doncey-albin)
