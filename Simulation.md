@@ -56,3 +56,4 @@ TODO: https://www.poppy-project.org/en/
 14. [Accelerating AI in Robotics with NVIDIA Isaac Sim and PyTorch: A Comprehensive Guide](https://medium.com/@kabilankb2003/accelerating-ai-in-robotics-with-nvidia-isaac-sim-and-pytorch-a-comprehensive-guide-3355bb9585a3) [To Read]
 15. [mmmBall Tracking with ROS2 Using NVIDIA JetBot in Isaac Sim](https://medium.com/@kabilankb2003/ball-tracking-with-ros2-using-nvidia-jetbot-in-isaac-sim-1f36374e9a58) [To Read]
 16. [Robot Simulation: Isaac Sim vs Webots vs Gazebo](https://i.partenit.io/knowledge-base/robot-simulation-isaac-sim-vs-webots-vs-gazebo/)
+17. [SAPIEN](https://github.com/haosulab/SAPIEN): SAPIEN is a simulation platform for vision and robotics applications. You may use it to build **reinforcement learning** environments with visual observations. 
