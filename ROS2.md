@@ -61,3 +61,4 @@ TODO: [10], [11]
 29. [Integrating ROS 2 and OpenCV for Object Detection Using TurtleBot3](https://medium.com/@kabilankb2003/integrating-ros-2-and-opencv-for-object-detection-using-turtlebot3-3cce2404334e)
 30. [Tuning the ROS2 Nav2 Stack](https://medium.com/@CanyonLakeRobotics/tuning-the-ros2-nav2-stack-5b01f455e217)
 31. [Integrating `Pi Camera` with `ROS 2 Humble` on `NVIDIA Jetson Nano` using `OpenCV`](https://medium.com/@kabilankb2003/integrating-pi-camera-with-ros-2-humble-on-nvidia-jetson-nano-using-opencv-de676dd6a2ca)
+32. Book: [Programming Multiple Robots with ROS 2](https://osrf.github.io/ros2multirobotbook/intro.html)
