@@ -91,6 +91,15 @@ OMPL, the Open Motion Planning Library, consists of many state-of-the-art sampli
 3. [FOSSBot](https://github.com/eellak/fossbot)
 4. [Fossbot Simulator](https://github.com/chronis10/fossbot_simulator)
 
+## Research Organization
+
+### Labs
+
+#### [SPARK Lab](https://web.mit.edu/~sparklab/)
+
+The SPARK Lab works at the cutting edge of robotics and autonomous systems research for air, space, and ground applications.
+
+
 ## Tools
 
 ### Foxglove
