@@ -1,5 +1,10 @@
 # Kinematics and Dynamics
 
+| Term | Chinese |
+| -| -|
+| Kinematics | 运动学 |
+|Dynamics |动力学|
+
 
 ## Forward Kinematics
 
