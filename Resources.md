@@ -36,6 +36,7 @@
 5. [Introduction to Autonomous Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
 6. [Robotic Systems (draft) / University of Illinois at Urbana-Champaign](https://motion.cs.illinois.edu/RoboticSystems/)
 7. [Supplementary Textbooks from Berkeley ee290-005](https://pages.github.berkeley.edu/ee290-005/sp21-site/resources/#supplementary-textbooks)
+8. [Advanced Robotics for Manufacturing](https://opentextbooks.clemson.edu/me8930/)
 
 
 ## Roadmap
@@ -60,7 +61,12 @@
 16. [CS 123: A Hands-On Introduction to Building AI-Enabled Robots](https://cs-123-stanford-2023.readthedocs.io/en/latest/#) [To Read]
 17. [C++ for Robotics - Master the basics of C++ for robot programming](https://www.theconstruct.ai/robotigniteacademy_learnros/ros-courses-library/cpp-for-robotics/)
 18. UCSD ECE276A: [Sensing & Estimation in Robotics](https://natanaso.github.io/ece276a2020/index.html)
+19. [ECE470/AE482/ME445 || Introduction to Robotics](https://publish.illinois.edu/ece470-intro-robotics/) | [schedule s26](https://publish.illinois.edu/ece470-intro-robotics/schedule-spring-2026/)
 
+### Visual Navigation
+
+1. MIT16.485 - [Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) | [Lectures](https://vnav.mit.edu/lectures.html) (AAAAA) [To Read]
+   
 
 ## Youtube Channels 
 1. [Murtaza's Workshop - Robotics and AI ](https://www.youtube.com/@murtazasworkshop/featured)
