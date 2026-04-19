@@ -51,13 +51,30 @@ an axis and translation along it—using a **6-parameter vector** or a **4x4 mat
 
 ## Plücker Coordinates
 
-Screw coordinates are built on top of Plücker coordinates, which are a way of representing lines. <sup>[6]</sup>
+Screw coordinates are built on top of **Plücker coordinates**, which are a way of representing lines. <sup>[6]</sup>
+
+Plücker coordinates are a way to represent lines in 3D space using a six-dimensional homogeneous vector. <br>
+While **a 3D line only has four degrees of freedom**, these coordinates provide a compact, linear representation <br> 
+that simplifies complex geometric operations like finding intersections between lines and planes. 
+
+### Geometric Definition
+
+A line in space is represented by two vectors, often denoted as ($`d, m`$): 
+
+* Direction Vector ($`d`$): The displacement vector between any two distinct points $`P_1`$ and $`P_2`$ on the line ($`d = P_1 - P_2`$).
+* Moment Vector ($`m`$): The cross product of a point on the line and the direction vector ($`m = P_1 \times d`$). <br>
+  This vector is **perpendicular** to the plane containing the line and the origin, and its **magnitude** represents <br>
+  twice the area of the triangle formed by the origin and the two points.
+
+<img width="570" height="210" alt="Figure 1 from [7]" src="https://github.com/user-attachments/assets/6bd6bd6d-bade-4816-8b34-dca83ec8bd58" />
 
 
 
+### Why does a 3D line have four degrees of freedom?
 
+## Books
 
-
+* Robots and Screw Theory: Applications of Kinematics and Statics to Robotics (Davidson & Hunt) [2004]
 
 
 
@@ -70,4 +87,5 @@ Screw coordinates are built on top of Plücker coordinates, which are a way of r
 3. Lecture 6:[Chpater 6](https://publish.illinois.edu/ece470-intro-robotics/files/2025/09/06-lecture-raw.pdf)
 4. Lecture 7:[Screw Theory, Exponential Coordinates, and Forward Kinematics](https://publish.illinois.edu/ece470-intro-robotics/files/2023/02/07-lecture-slides.pdf)
 5. [Geometry and Screw Theory for Robotics](http://alvarestech.com/temp/RoboAseaIRB6S2-Fiat/geometry_and_screw_theory_for_robotics.pdf)
-6. [Lecture 9 Representing displacements](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/lectures/Lecture9.pdf) from ``
+6. [Lecture 9 Representing displacements](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/lectures/Lecture9.pdf) from `Mechanics of Manipulation`
+7. [Plücker Coordinates for Lines in the Space](https://faculty.sites.iastate.edu/jia/files/inline-files/plucker-coordinates.pdf)
