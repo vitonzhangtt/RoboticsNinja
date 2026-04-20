@@ -59,16 +59,63 @@ that simplifies complex geometric operations like finding intersections between 
 
 ### Geometric Definition
 
-A line in space is represented by two vectors, often denoted as ($`d, m`$): 
+A line in space is represented by two vectors, often denoted as ($`l, m`$): 
 
-* Direction Vector ($`d`$): The displacement vector between any two distinct points $`P_1`$ and $`P_2`$ on the line ($`d = P_1 - P_2`$).
-* Moment Vector ($`m`$): The cross product of a point on the line and the direction vector ($`m = P_1 \times d`$). <br>
+* Direction Vector ($`l`$): The displacement vector between any two distinct points $`P_1`$ and $`P_2`$ on the line ($`l = P_1 - P_2`$).
+* Moment Vector ($`m`$): The cross product of a point on the line and the direction vector ($`m = P_1 \times l`$). <br>
   This vector is **perpendicular** to the plane containing the line and the origin, and its **magnitude** represents <br>
   twice the area of the triangle formed by the origin and the two points.
 
 <img width="570" height="210" alt="Figure 1 from [7]" src="https://github.com/user-attachments/assets/6bd6bd6d-bade-4816-8b34-dca83ec8bd58" />
 
+### Key Mathematical Properties
 
+* Homogeneity: The vectors $`(l, m)`$ and $`(\lambda l, \lambda m)`$ represent the same line for any non-zero scalar $`\lambda`$.
+* Plücker Constraint: Because the moment vector $`m`$ is defined as a cross product involving the direction $`l`$, <br>
+  they must always be orthogonal. This is expressed by the dot product $`l \cdot m = 0`$.
+* Distance to Origin: The shortest distance from the coordinate origin to the line is given by the ratio of the <br>
+  magnitudes of the two vectors: $`\frac{\lVert m \rVert}{\lVert l \rVert} `$. 
+
+### How to calculate the distance to origin?
+
+Before we calculate the shortest distance from origin to the line, we should find the $`p_{\perp}`$ which is the <br>
+unique point on the line such that the vector from the origin to the point is **perpendicular** to the line's direction.
+
+Therefore, $`p_{\perp}`$ must satisfy two conditions:
+
+* It is on the line: $`p_{\perp} \times l = m`$
+* It is perpendicular to the direction: $`p_{\perp} \cdot l = 0`$
+
+First let's give the conclude: $`p_{\perp} = \frac{l \times m}{{\lVert l \rVert}^2}`$, and then prove that.
+
+#### The Algebraic Proof of The Conclude
+
+We start with the [**Vector Triple Product Identity**](https://byjus.com/jee/vector-triple-product/) (the **BAC-CAB** rule):
+
+$`a \times (b \times c) = b(a \cdot a) - c(a \cdot b)`$
+
+Let $`a = l`$, $`b = p_{\perp}`$, and $`c = l`$. Substituting these into the identity: 
+
+$`l \times (p_{\perp} \times l ) = p_{\perp}(l \cdot l) - l(l \cdot p_{\perp})`$
+
+* Substitute $`p_{\perp} \times l`$ with $`m`$.
+* Substitute $`l \cdot l`$ with $`{\lVert l \rVert}^2`$.
+* Substitute $`l \cdot p_{\perp}`$ with $`0`$ (because they are perpendicular).
+
+The equation simplifies to: $`l \times m = p_{\perp} {\lVert l \rVert}^2 - 0`$
+
+Then solving for $`p_{\perp}`$: $`p_{\perp} = \frac{l \times m }{{\lVert l \rVert}^2}`$
+
+Finally, The distance from the origin to the line is the magnitude of this vector $`\lVert p_{\perp} \rVert`$:
+
+$`Distance = \lVert \frac{l \times m}{{\lVert l \rVert}^2} \rVert = \frac{\lVert l \times m \rVert}{{\lVert l \rVert}^2}`$
+
+Since $`l`$ and $`m`$ are always perpendicular in Plücker coordinates ($`90^{\circ}`$ angle), the magnitude 
+of their cross product is $`\lVert l \rVert \lVert m \rVert sin(90^{\circ}) = \lVert l \rVert \lVert m \rVert`$:
+
+$`Distance = \frac{\lVert l \times m \rVert}{{\lVert l \rVert}^2} = \frac{\lVert l \rVert \lVert m \rVert}{{\lVert l \rVert}^2} = \frac{\lVert m \rVert}{\lVert l \rVert}`$
+
+If $`m = 0`$, the distance is $`0`$, meaning the line passes directly through the origin.
 
 ### Why does a 3D line have four degrees of freedom?
 
