@@ -242,7 +242,7 @@ Assume a rigid body has the following angular velocity $`\vec{\omega}`$ and line
 
 #### 2. Calculate the Pitch
 The pitch $`h`$ represents the ratio of translational speed along the axis to the rotational speed. 
-It is found by projecting $`\vce{v_o}`$ onto $`\vec{\omega}`$:
+It is found by projecting $`\vec{v_o}`$ onto $`\vec{\omega}`$:
 
 <img width="476" height="59" alt="" src="https://github.com/user-attachments/assets/fd0b0898-1a3f-4dba-aaba-70367a689aa2" />
 
@@ -267,7 +267,7 @@ The screw axis is a line passing through the point $`(1, 2, 0)`$ and pointing in
 * The motion looks like a bolt being screwed into a hole: it rotates at $`2`$ **rad/s** while sliding forward <br>
   at $`1`$ **m/s** along the $`z`$-direction.
 
-<img width="442" height="422" alt="" src="https://github.com/user-attachments/assets/f2ceb6c6-be6a-44ae-80fa-3f4a7948df12" />
+<img width="321" height="311" alt="" src="https://github.com/user-attachments/assets/f2ceb6c6-be6a-44ae-80fa-3f4a7948df12" />
 
 #### Linear Velocity at Origin
 
