@@ -232,6 +232,76 @@ Once you have the magnitude ($`M`$), you can relate the translation and rotation
 * Total Twist: $`V = S\dot{\theta}`$, where $`S`$ is the unit screw axis and $`\dot{\theta}`$ is **the magnitude** <br>
   **of the velocity** (rate of displacement).
 
+### A Numerical Example of Twist
+
+#### 1. Define the Twist
+Assume a rigid body has the following angular velocity $`\vec{\omega}`$ and linear velocity $`\vec{v_o}`$ **at the origin**: 
+
+* Angular Velocity: $`\vec{\omega} = (0, 0, 2)`$ **rad/s**.
+* Linear Velocity **at Origin**: $`\vec{v_o} = (4, -2, 1)`$ **m/s**.
+
+#### 2. Calculate the Pitch
+The pitch $`h`$ represents the ratio of translational speed along the axis to the rotational speed. 
+It is found by projecting $`\vce{v_o}`$ onto $`\vec{\omega}`$:
+
+<img width="476" height="59" alt="" src="https://github.com/user-attachments/assets/fd0b0898-1a3f-4dba-aaba-70367a689aa2" />
+
+Geometric Meaning ($`h = 0.5`$): For every $`1`$ radian of rotation, the body slides $`0.5`$ meters along the axis.
+
+#### 3. Locate a Point on the Axis
+
+The screw axis is shifted away from the origin by a vector $`\vec(q)`$. This point $`\vec(q)`$ is where the <br>
+"tangential" component of the origin's velocity (the part caused by being off-center) exactly cancels the <br>
+perpendicular component of $`\vec{v_o}`$:
+
+<img width="727" height="106" alt="" src="https://github.com/user-attachments/assets/594b53de-0fcb-4c09-9679-a5344d2cb602" />
+
+Geometric Meaning: The center of rotation (the axis) is located $`1`$ unit away on the $`x`$-axis and 2 units 
+away on the $`y`$-axis.
+
+#### 4. Interpret the Result
+
+The screw axis is a line passing through the point $`(1, 2, 0)`$ and pointing in the direction of $`(0, 0, 1)`$.
+
+* Any point on this axis has a velocity of $`v_{axis}`$: $`v_{axis} = h \times (0, 0, 2) = (0, 0, 1)`$ **m/s**.
+* The motion looks like a bolt being screwed into a hole: it rotates at $`2`$ **rad/s** while sliding forward <br>
+  at $`1`$ **m/s** along the $`z`$-direction.
+
+<img width="442" height="422" alt="" src="https://github.com/user-attachments/assets/f2ceb6c6-be6a-44ae-80fa-3f4a7948df12" />
+
+#### Linear Velocity at Origin
+
+In screw theory, **the linear velocity at the origin** ($`\vec{v_o}`$) is the velocity a point on the rigid body <br>
+would have if it were located at $`(0,0,0)`$ at that exact moment.
+
+Think of it as a "reference snapshot" rather than the movement of the entire object. 
+
+##### 1. It’s a "Point-Specific" Velocity
+
+A rigid body in screw motion doesn't have just one linear velocity. Because the body is rotating, every point <br>
+on the body has a different velocity vector. **We pick the origin as a standard reference point** to define the "Twist."
+
+##### 2. It is composed of two parts
+
+The vector $`\vec{v_o}`$ (in our example: $`4i - 2j + 1k`$) is the sum of:
+* The Translation: The movement of the actual screw axis itself.
+  * The $`1k`$(z-component) is the "true" sliding motion (the pitch).
+* The Tangential Velocity: The speed caused by the origin's distance from the screw axis (the "spinning" effect).
+  * The $`(4, -2)`$ ($`x`$ and $`y`$ components) is purely "phantom" velocity caused by the fact that the origin <br>
+    is sitting at a distance from the rotation axis. 
+
+##### 3. The "Remote Hand" Analogy
+
+Imagine you are holding a long, rigid pole. If you rotate the pole while walking forward, the tip of the pole 
+(the origin) moves in a wide, fast arc, while your hand (the axis) moves in a straight line. $`\vec{v_o}`$ is the
+velocity of that tip.
+
+
+
+
+
+
+
 
 ## Plücker Coordinates
 
